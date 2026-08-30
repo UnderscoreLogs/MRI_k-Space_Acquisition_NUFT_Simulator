@@ -1,0 +1,129 @@
+TY  - JOUR
+AU  - Liang, D.
+AU  - Lam, E. Y.
+AU  - Fung, G. S. K.
+TI  - A least squares quantization table method for direct reconstruction of MR images with non-Cartesian trajectory
+JO  - IEEE Transactions on Medical Imaging
+VL  - 26
+IS  - 4
+SP  - 494
+EP  - 505
+PY  - 2007
+DA  - 2007/04
+ER  -
+
+TY  - JOUR
+AU  - Fessler, J. A.
+TI  - On NUFFT-based gridding for non-Cartesian MRI
+JO  - Journal of Magnetic Resonance
+VL  - 188
+IS  - 2
+SP  - 191
+EP  - 195
+PY  - 2007
+DO  - 10.1016/j.jmr.2007.06.012
+UR  - https://www.sciencedirect.com/science/article/pii/S1090780707002054
+ER  -
+
+TY  - RPRT
+AU  - Noll, D. C.
+AU  - Sutton, B. P.
+TI  - Gridding Procedures for Non-Cartesian K-space Trajectories
+PB  - Department of Biomedical Engineering, University of Michigan
+UR  - https://web.eecs.umich.edu/~dnoll/gridding.pdf
+ER  -
+
+TY  - JOUR
+AU  - Jackson, R. E.
+AU  - Meyer, R. M.
+AU  - Nishimura, M.
+AU  - Macovski, A.
+TI  - Selection of a convolution function for Fourier inversion using gridding
+JO  - IEEE Transactions on Medical Imaging
+VL  - 10
+IS  - 3
+SP  - 473
+EP  - 478
+PY  - 1991
+DA  - 1991/09
+DO  - 10.1109/42.97598
+ER  -
+
+TY  - JOUR
+AU  - Beatty, P. J.
+AU  - Nishimura, D. G.
+AU  - Pauly, J. M.
+TI  - Rapid gridding reconstruction for magnetic resonance imaging by using oversampled k-space
+JO  - IEEE Transactions on Medical Imaging
+VL  - 24
+IS  - 6
+SP  - 799
+EP  - 808
+PY  - 2005
+DA  - 2005/06
+DO  - 10.1109/TMI.2005.848376
+ER  -
+
+TY  - JOUR
+AU  - Fessler, J. A.
+AU  - Sutton, B. P.
+TI  - Nonuniform fast Fourier transforms using min-max interpolation
+JO  - IEEE Transactions on Signal Processing
+VL  - 51
+IS  - 2
+SP  - 560
+EP  - 574
+PY  - 2003
+DA  - 2003/02
+DO  - 10.1109/TSP.2002.807005
+ER  -
+
+TY  - JOUR
+AU  - Zbontar, J.
+AU  - Knoll, F.
+AU  - Sriram, A.
+AU  - Murrell, T.
+AU  - Huang, Z.
+AU  - Muckley, M. J.
+AU  - Defazio, A.
+AU  - Stern, R.
+AU  - Johnson, P.
+AU  - Bruno, M.
+TI  - fastMRI: An Open Dataset and Benchmarks for Accelerated MRI
+JO  - arXiv preprint arXiv:1811.08839
+PY  - 2018
+DA  - 2018/11
+ER  -
+
+TY  - ELEC
+AU  - Newman, M.
+TI  - How to Implement the FFT: A Coding Tutorial
+PY  - 2025
+DA  - 2025/07/03
+UR  - https://youtu.be/isUMxOIpcj4?si=K6iwdvvrN2wxuTPG
+ER  -
+
+TY  - ELEC
+AU  - Elster, A. D.
+TI  - Questions and Answers In MRI
+T2  - MRIquestions
+UR  - https://mriquestions.com/index.html
+ER  -
+
+TY  - JOUR
+AU  - Grover, V. P. B.
+AU  - Tognarelli, J. M.
+AU  - Crossey, M. M. E.
+AU  - Cox, I. J.
+AU  - Taylor-Robinson, S. D.
+AU  - McPhail, M. J. W.
+TI  - Magnetic resonance imaging: Principles and techniques: Lessons for clinicians
+JO  - Journal of Clinical and Experimental Hepatology
+VL  - 5
+IS  - 3
+SP  - 246
+EP  - 255
+PY  - 2015
+DA  - 2015/09
+DO  - 10.1016/j.jceh.2015.08.001
+ER  -

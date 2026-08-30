@@ -1,0 +1,8 @@
+File Name: ../OpenNeuroDatasets/sub-0001_run-1_T1w.nii
+Trajectory: Radial
+xRes: 160
+yRes: 256
+#Samples:16384
+Average SSIM: 0.931011
+Average PSNR: 25.4594
+Average Time: 24119.4

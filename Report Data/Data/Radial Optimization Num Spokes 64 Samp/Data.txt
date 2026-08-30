@@ -1,0 +1,29 @@
+Num of Spokes = 8 finished in 6002 ms
+Num of Spokes = 8 PSNR: 14.0419
+Num of Spokes = 8 SSIM: 0.0602097
+
+Num of Spokes = 16 finished in 9306 ms
+Num of Spokes = 16 PSNR: 14.0848
+Num of Spokes = 16 SSIM: 0.0777093
+
+Num of Spokes = 32 finished in 18437 ms
+Num of Spokes = 32 PSNR: 14.2975
+Num of Spokes = 32 SSIM: 0.124326
+
+Num of Spokes = 64 finished in 36683 ms
+Num of Spokes = 64 PSNR: 14.7712
+Num of Spokes = 64 SSIM: 0.212641
+
+Num of Spokes = 128 finished in 74241 ms
+Num of Spokes = 128 PSNR: 15.2875
+Num of Spokes = 128 SSIM: 0.337276
+
+Num of Spokes = 256 finished in 150611 ms
+Num of Spokes = 256 PSNR: 15.2931
+Num of Spokes = 256 SSIM: 0.439848
+
+Num of Spokes = 512 finished in 298987 ms
+Num of Spokes = 512 PSNR: 15.9531
+Num of Spokes = 512 SSIM: 0.491938
+
+Samples per spoke 64

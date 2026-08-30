@@ -1,0 +1,2580 @@
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 1.5 finished in 81838 ms
+Alpha = 0 center = 0 AccFactor = 1.5 PSNR: 22.4562
+Alpha = 0 center = 0 AccFactor = 1.5 SSIM: 0.928215
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 1.5 finished in 79971 ms
+Alpha = 0.5 center = 0 AccFactor = 1.5 PSNR: 21.4085
+Alpha = 0.5 center = 0 AccFactor = 1.5 SSIM: 0.88814
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 1.5 finished in 79933 ms
+Alpha = 1 center = 0 AccFactor = 1.5 PSNR: 23.488
+Alpha = 1 center = 0 AccFactor = 1.5 SSIM: 0.942729
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 1.5 finished in 79583 ms
+Alpha = 1.5 center = 0 AccFactor = 1.5 PSNR: 25.2978
+Alpha = 1.5 center = 0 AccFactor = 1.5 SSIM: 0.964045
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 1.5 finished in 78087 ms
+Alpha = 2 center = 0 AccFactor = 1.5 PSNR: 27.3735
+Alpha = 2 center = 0 AccFactor = 1.5 SSIM: 0.977096
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 1.5 finished in 77966 ms
+Alpha = 2.5 center = 0 AccFactor = 1.5 PSNR: 28.0471
+Alpha = 2.5 center = 0 AccFactor = 1.5 SSIM: 0.982711
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 1.5 finished in 78198 ms
+Alpha = 3 center = 0 AccFactor = 1.5 PSNR: 28.3726
+Alpha = 3 center = 0 AccFactor = 1.5 SSIM: 0.981812
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 1.5 finished in 110979 ms
+Alpha = 3.5 center = 0 AccFactor = 1.5 PSNR: 29.5253
+Alpha = 3.5 center = 0 AccFactor = 1.5 SSIM: 0.985621
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 1.5 finished in 78510 ms
+Alpha = 4 center = 0 AccFactor = 1.5 PSNR: 20.1897
+Alpha = 4 center = 0 AccFactor = 1.5 SSIM: 0.877728
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 1.5 finished in 77978 ms
+Alpha = 4.5 center = 0 AccFactor = 1.5 PSNR: 18.4955
+Alpha = 4.5 center = 0 AccFactor = 1.5 SSIM: 0.820813
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 1.5 finished in 77894 ms
+Alpha = 5 center = 0 AccFactor = 1.5 PSNR: 23.4498
+Alpha = 5 center = 0 AccFactor = 1.5 SSIM: 0.942874
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 1.5 finished in 78242 ms
+Alpha = 0 center = 1 AccFactor = 1.5 PSNR: 28.0486
+Alpha = 0 center = 1 AccFactor = 1.5 SSIM: 0.980212
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 1.5 finished in 78417 ms
+Alpha = 0.5 center = 1 AccFactor = 1.5 PSNR: 28.1764
+Alpha = 0.5 center = 1 AccFactor = 1.5 SSIM: 0.980416
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 1.5 finished in 78503 ms
+Alpha = 1 center = 1 AccFactor = 1.5 PSNR: 26.7079
+Alpha = 1 center = 1 AccFactor = 1.5 SSIM: 0.971809
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 1.5 finished in 77764 ms
+Alpha = 1.5 center = 1 AccFactor = 1.5 PSNR: 24.2647
+Alpha = 1.5 center = 1 AccFactor = 1.5 SSIM: 0.956225
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 1.5 finished in 77934 ms
+Alpha = 2 center = 1 AccFactor = 1.5 PSNR: 27.8096
+Alpha = 2 center = 1 AccFactor = 1.5 SSIM: 0.979787
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 1.5 finished in 78115 ms
+Alpha = 2.5 center = 1 AccFactor = 1.5 PSNR: 25.2225
+Alpha = 2.5 center = 1 AccFactor = 1.5 SSIM: 0.962987
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 1.5 finished in 77818 ms
+Alpha = 3 center = 1 AccFactor = 1.5 PSNR: 23.3134
+Alpha = 3 center = 1 AccFactor = 1.5 SSIM: 0.941744
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 1.5 finished in 78482 ms
+Alpha = 3.5 center = 1 AccFactor = 1.5 PSNR: 20.8043
+Alpha = 3.5 center = 1 AccFactor = 1.5 SSIM: 0.89676
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 1.5 finished in 78269 ms
+Alpha = 4 center = 1 AccFactor = 1.5 PSNR: 29.8983
+Alpha = 4 center = 1 AccFactor = 1.5 SSIM: 0.986964
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 1.5 finished in 77971 ms
+Alpha = 4.5 center = 1 AccFactor = 1.5 PSNR: 17.5062
+Alpha = 4.5 center = 1 AccFactor = 1.5 SSIM: 0.772728
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 1.5 finished in 78024 ms
+Alpha = 5 center = 1 AccFactor = 1.5 PSNR: 23.588
+Alpha = 5 center = 1 AccFactor = 1.5 SSIM: 0.9439
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 1.5 finished in 78174 ms
+Alpha = 0 center = 2 AccFactor = 1.5 PSNR: 28.3869
+Alpha = 0 center = 2 AccFactor = 1.5 SSIM: 0.981256
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 1.5 finished in 77830 ms
+Alpha = 0.5 center = 2 AccFactor = 1.5 PSNR: 28.6664
+Alpha = 0.5 center = 2 AccFactor = 1.5 SSIM: 0.983486
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 1.5 finished in 78833 ms
+Alpha = 1 center = 2 AccFactor = 1.5 PSNR: 27.67
+Alpha = 1 center = 2 AccFactor = 1.5 SSIM: 0.979219
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 1.5 finished in 78191 ms
+Alpha = 1.5 center = 2 AccFactor = 1.5 PSNR: 27.7553
+Alpha = 1.5 center = 2 AccFactor = 1.5 SSIM: 0.979235
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 1.5 finished in 78301 ms
+Alpha = 2 center = 2 AccFactor = 1.5 PSNR: 27.4872
+Alpha = 2 center = 2 AccFactor = 1.5 SSIM: 0.978332
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 1.5 finished in 78395 ms
+Alpha = 2.5 center = 2 AccFactor = 1.5 PSNR: 18.5189
+Alpha = 2.5 center = 2 AccFactor = 1.5 SSIM: 0.824191
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 1.5 finished in 79691 ms
+Alpha = 3 center = 2 AccFactor = 1.5 PSNR: 23.4268
+Alpha = 3 center = 2 AccFactor = 1.5 SSIM: 0.94322
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 1.5 finished in 78168 ms
+Alpha = 3.5 center = 2 AccFactor = 1.5 PSNR: 19.779
+Alpha = 3.5 center = 2 AccFactor = 1.5 SSIM: 0.860678
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 1.5 finished in 78285 ms
+Alpha = 4 center = 2 AccFactor = 1.5 PSNR: 21.015
+Alpha = 4 center = 2 AccFactor = 1.5 SSIM: 0.89896
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 1.5 finished in 78580 ms
+Alpha = 4.5 center = 2 AccFactor = 1.5 PSNR: 16.9099
+Alpha = 4.5 center = 2 AccFactor = 1.5 SSIM: 0.740942
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 1.5 finished in 77959 ms
+Alpha = 5 center = 2 AccFactor = 1.5 PSNR: 21.9198
+Alpha = 5 center = 2 AccFactor = 1.5 SSIM: 0.919581
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 1.5 finished in 77981 ms
+Alpha = 0 center = 3 AccFactor = 1.5 PSNR: 27.9594
+Alpha = 0 center = 3 AccFactor = 1.5 SSIM: 0.98331
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 1.5 finished in 78374 ms
+Alpha = 0.5 center = 3 AccFactor = 1.5 PSNR: 27.9224
+Alpha = 0.5 center = 3 AccFactor = 1.5 SSIM: 0.98205
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 1.5 finished in 78114 ms
+Alpha = 1 center = 3 AccFactor = 1.5 PSNR: 29.0793
+Alpha = 1 center = 3 AccFactor = 1.5 SSIM: 0.984811
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 1.5 finished in 78123 ms
+Alpha = 1.5 center = 3 AccFactor = 1.5 PSNR: 27.8796
+Alpha = 1.5 center = 3 AccFactor = 1.5 SSIM: 0.98156
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 1.5 finished in 77778 ms
+Alpha = 2 center = 3 AccFactor = 1.5 PSNR: 28.5483
+Alpha = 2 center = 3 AccFactor = 1.5 SSIM: 0.983709
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 1.5 finished in 78190 ms
+Alpha = 2.5 center = 3 AccFactor = 1.5 PSNR: 25.5382
+Alpha = 2.5 center = 3 AccFactor = 1.5 SSIM: 0.966325
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 1.5 finished in 78185 ms
+Alpha = 3 center = 3 AccFactor = 1.5 PSNR: 21.066
+Alpha = 3 center = 3 AccFactor = 1.5 SSIM: 0.90054
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 1.5 finished in 78189 ms
+Alpha = 3.5 center = 3 AccFactor = 1.5 PSNR: 21.0217
+Alpha = 3.5 center = 3 AccFactor = 1.5 SSIM: 0.900367
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 1.5 finished in 78146 ms
+Alpha = 4 center = 3 AccFactor = 1.5 PSNR: 17.0018
+Alpha = 4 center = 3 AccFactor = 1.5 SSIM: 0.741563
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 1.5 finished in 78565 ms
+Alpha = 4.5 center = 3 AccFactor = 1.5 PSNR: 16.4682
+Alpha = 4.5 center = 3 AccFactor = 1.5 SSIM: 0.710649
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 1.5 finished in 78397 ms
+Alpha = 5 center = 3 AccFactor = 1.5 PSNR: 19.5571
+Alpha = 5 center = 3 AccFactor = 1.5 SSIM: 0.857549
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 1.5 finished in 77902 ms
+Alpha = 0 center = 4 AccFactor = 1.5 PSNR: 29.4921
+Alpha = 0 center = 4 AccFactor = 1.5 SSIM: 0.985687
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 1.5 finished in 77740 ms
+Alpha = 0.5 center = 4 AccFactor = 1.5 PSNR: 29.984
+Alpha = 0.5 center = 4 AccFactor = 1.5 SSIM: 0.987446
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 1.5 finished in 77603 ms
+Alpha = 1 center = 4 AccFactor = 1.5 PSNR: 29.1926
+Alpha = 1 center = 4 AccFactor = 1.5 SSIM: 0.985658
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 1.5 finished in 77851 ms
+Alpha = 1.5 center = 4 AccFactor = 1.5 PSNR: 29.6876
+Alpha = 1.5 center = 4 AccFactor = 1.5 SSIM: 0.986761
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 1.5 finished in 77871 ms
+Alpha = 2 center = 4 AccFactor = 1.5 PSNR: 25.5989
+Alpha = 2 center = 4 AccFactor = 1.5 SSIM: 0.966455
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 1.5 finished in 77853 ms
+Alpha = 2.5 center = 4 AccFactor = 1.5 PSNR: 25.1894
+Alpha = 2.5 center = 4 AccFactor = 1.5 SSIM: 0.965939
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 1.5 finished in 77624 ms
+Alpha = 3 center = 4 AccFactor = 1.5 PSNR: 30.393
+Alpha = 3 center = 4 AccFactor = 1.5 SSIM: 0.988639
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 1.5 finished in 77946 ms
+Alpha = 3.5 center = 4 AccFactor = 1.5 PSNR: 25.895
+Alpha = 3.5 center = 4 AccFactor = 1.5 SSIM: 0.967522
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 1.5 finished in 77975 ms
+Alpha = 4 center = 4 AccFactor = 1.5 PSNR: 23.5018
+Alpha = 4 center = 4 AccFactor = 1.5 SSIM: 0.944046
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 1.5 finished in 78973 ms
+Alpha = 4.5 center = 4 AccFactor = 1.5 PSNR: 20.8355
+Alpha = 4.5 center = 4 AccFactor = 1.5 SSIM: 0.897451
+
+Num of Samples = 16
+Alpha = 5 center = 0.21 AccFactor = 1.5 finished in 77866 ms
+Alpha = 5 center = 4 AccFactor = 1.5 PSNR: 16.5957
+Alpha = 5 center = 4 AccFactor = 1.5 SSIM: 0.7117
+
+Num of Samples = 25
+Alpha = 0 center = 0.26 AccFactor = 1.5 finished in 78612 ms
+Alpha = 0 center = 5 AccFactor = 1.5 PSNR: 25.5631
+Alpha = 0 center = 5 AccFactor = 1.5 SSIM: 0.966634
+
+Num of Samples = 25
+Alpha = 0.5 center = 0.26 AccFactor = 1.5 finished in 78177 ms
+Alpha = 0.5 center = 5 AccFactor = 1.5 PSNR: 29.2993
+Alpha = 0.5 center = 5 AccFactor = 1.5 SSIM: 0.986854
+
+Num of Samples = 25
+Alpha = 1 center = 0.26 AccFactor = 1.5 finished in 78292 ms
+Alpha = 1 center = 5 AccFactor = 1.5 PSNR: 30.6381
+Alpha = 1 center = 5 AccFactor = 1.5 SSIM: 0.988868
+
+Num of Samples = 25
+Alpha = 1.5 center = 0.26 AccFactor = 1.5 finished in 78764 ms
+Alpha = 1.5 center = 5 AccFactor = 1.5 PSNR: 28.597
+Alpha = 1.5 center = 5 AccFactor = 1.5 SSIM: 0.988561
+
+Num of Samples = 25
+Alpha = 2 center = 0.26 AccFactor = 1.5 finished in 78817 ms
+Alpha = 2 center = 5 AccFactor = 1.5 PSNR: 28.5402
+Alpha = 2 center = 5 AccFactor = 1.5 SSIM: 0.984362
+
+Num of Samples = 25
+Alpha = 2.5 center = 0.26 AccFactor = 1.5 finished in 78283 ms
+Alpha = 2.5 center = 5 AccFactor = 1.5 PSNR: 28.3316
+Alpha = 2.5 center = 5 AccFactor = 1.5 SSIM: 0.982333
+
+Num of Samples = 25
+Alpha = 3 center = 0.26 AccFactor = 1.5 finished in 78705 ms
+Alpha = 3 center = 5 AccFactor = 1.5 PSNR: 18.9202
+Alpha = 3 center = 5 AccFactor = 1.5 SSIM: 0.838392
+
+Num of Samples = 25
+Alpha = 3.5 center = 0.26 AccFactor = 1.5 finished in 78446 ms
+Alpha = 3.5 center = 5 AccFactor = 1.5 PSNR: 29.2683
+Alpha = 3.5 center = 5 AccFactor = 1.5 SSIM: 0.985022
+
+Num of Samples = 25
+Alpha = 4 center = 0.26 AccFactor = 1.5 finished in 78843 ms
+Alpha = 4 center = 5 AccFactor = 1.5 PSNR: 20.9721
+Alpha = 4 center = 5 AccFactor = 1.5 SSIM: 0.899011
+
+Num of Samples = 25
+Alpha = 4.5 center = 0.26 AccFactor = 1.5 finished in 78430 ms
+Alpha = 4.5 center = 5 AccFactor = 1.5 PSNR: 23.3871
+Alpha = 4.5 center = 5 AccFactor = 1.5 SSIM: 0.942593
+
+Num of Samples = 25
+Alpha = 5 center = 0.26 AccFactor = 1.5 finished in 78761 ms
+Alpha = 5 center = 5 AccFactor = 1.5 PSNR: 17.7846
+Alpha = 5 center = 5 AccFactor = 1.5 SSIM: 0.787462
+
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 2 finished in 62295 ms
+Alpha = 0 center = 0 AccFactor = 2 PSNR: 21.6633
+Alpha = 0 center = 0 AccFactor = 2 SSIM: 0.901853
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 2 finished in 62304 ms
+Alpha = 0.5 center = 0 AccFactor = 2 PSNR: 20.59
+Alpha = 0.5 center = 0 AccFactor = 2 SSIM: 0.872728
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 2 finished in 62309 ms
+Alpha = 1 center = 0 AccFactor = 2 PSNR: 19.7344
+Alpha = 1 center = 0 AccFactor = 2 SSIM: 0.853173
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 2 finished in 62093 ms
+Alpha = 1.5 center = 0 AccFactor = 2 PSNR: 19.2741
+Alpha = 1.5 center = 0 AccFactor = 2 SSIM: 0.850834
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 2 finished in 62653 ms
+Alpha = 2 center = 0 AccFactor = 2 PSNR: 23.2313
+Alpha = 2 center = 0 AccFactor = 2 SSIM: 0.938989
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 2 finished in 62593 ms
+Alpha = 2.5 center = 0 AccFactor = 2 PSNR: 20.616
+Alpha = 2.5 center = 0 AccFactor = 2 SSIM: 0.889905
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 2 finished in 172444 ms
+Alpha = 3 center = 0 AccFactor = 2 PSNR: 18.3669
+Alpha = 3 center = 0 AccFactor = 2 SSIM: 0.806963
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 2 finished in 62522 ms
+Alpha = 3.5 center = 0 AccFactor = 2 PSNR: 15.6599
+Alpha = 3.5 center = 0 AccFactor = 2 SSIM: 0.62874
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 2 finished in 62256 ms
+Alpha = 4 center = 0 AccFactor = 2 PSNR: 18.0337
+Alpha = 4 center = 0 AccFactor = 2 SSIM: 0.79475
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 2 finished in 62482 ms
+Alpha = 4.5 center = 0 AccFactor = 2 PSNR: 20.1388
+Alpha = 4.5 center = 0 AccFactor = 2 SSIM: 0.873306
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 2 finished in 62301 ms
+Alpha = 5 center = 0 AccFactor = 2 PSNR: 15.5013
+Alpha = 5 center = 0 AccFactor = 2 SSIM: 0.641053
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 2 finished in 61868 ms
+Alpha = 0 center = 1 AccFactor = 2 PSNR: 26.1963
+Alpha = 0 center = 1 AccFactor = 2 SSIM: 0.969606
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 2 finished in 62133 ms
+Alpha = 0.5 center = 1 AccFactor = 2 PSNR: 24.5245
+Alpha = 0.5 center = 1 AccFactor = 2 SSIM: 0.954608
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 2 finished in 62361 ms
+Alpha = 1 center = 1 AccFactor = 2 PSNR: 26.5937
+Alpha = 1 center = 1 AccFactor = 2 SSIM: 0.972009
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 2 finished in 62639 ms
+Alpha = 1.5 center = 1 AccFactor = 2 PSNR: 24.9618
+Alpha = 1.5 center = 1 AccFactor = 2 SSIM: 0.955236
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 2 finished in 163967 ms
+Alpha = 2 center = 1 AccFactor = 2 PSNR: 19.5396
+Alpha = 2 center = 1 AccFactor = 2 SSIM: 0.857321
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 2 finished in 62394 ms
+Alpha = 2.5 center = 1 AccFactor = 2 PSNR: 23.1428
+Alpha = 2.5 center = 1 AccFactor = 2 SSIM: 0.94076
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 2 finished in 62564 ms
+Alpha = 3 center = 1 AccFactor = 2 PSNR: 18.7547
+Alpha = 3 center = 1 AccFactor = 2 SSIM: 0.823259
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 2 finished in 95320 ms
+Alpha = 3.5 center = 1 AccFactor = 2 PSNR: 26.7069
+Alpha = 3.5 center = 1 AccFactor = 2 SSIM: 0.974571
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 2 finished in 62397 ms
+Alpha = 4 center = 1 AccFactor = 2 PSNR: 23.8594
+Alpha = 4 center = 1 AccFactor = 2 SSIM: 0.947335
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 2 finished in 63011 ms
+Alpha = 4.5 center = 1 AccFactor = 2 PSNR: 21.9921
+Alpha = 4.5 center = 1 AccFactor = 2 SSIM: 0.923294
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 2 finished in 62818 ms
+Alpha = 5 center = 1 AccFactor = 2 PSNR: 20.2187
+Alpha = 5 center = 1 AccFactor = 2 SSIM: 0.881556
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 2 finished in 181897 ms
+Alpha = 0 center = 2 AccFactor = 2 PSNR: 26.6561
+Alpha = 0 center = 2 AccFactor = 2 SSIM: 0.975216
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 2 finished in 63900 ms
+Alpha = 0.5 center = 2 AccFactor = 2 PSNR: 27.5983
+Alpha = 0.5 center = 2 AccFactor = 2 SSIM: 0.97885
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 2 finished in 65696 ms
+Alpha = 1 center = 2 AccFactor = 2 PSNR: 27.4779
+Alpha = 1 center = 2 AccFactor = 2 SSIM: 0.980373
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 2 finished in 64028 ms
+Alpha = 1.5 center = 2 AccFactor = 2 PSNR: 22.3972
+Alpha = 1.5 center = 2 AccFactor = 2 SSIM: 0.927338
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 2 finished in 63057 ms
+Alpha = 2 center = 2 AccFactor = 2 PSNR: 25.6108
+Alpha = 2 center = 2 AccFactor = 2 SSIM: 0.965474
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 2 finished in 63619 ms
+Alpha = 2.5 center = 2 AccFactor = 2 PSNR: 27.5812
+Alpha = 2.5 center = 2 AccFactor = 2 SSIM: 0.978527
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 2 finished in 103693 ms
+Alpha = 3 center = 2 AccFactor = 2 PSNR: 17.889
+Alpha = 3 center = 2 AccFactor = 2 SSIM: 0.795579
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 2 finished in 63429 ms
+Alpha = 3.5 center = 2 AccFactor = 2 PSNR: 22.3918
+Alpha = 3.5 center = 2 AccFactor = 2 SSIM: 0.926966
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 2 finished in 85951 ms
+Alpha = 4 center = 2 AccFactor = 2 PSNR: 22.3839
+Alpha = 4 center = 2 AccFactor = 2 SSIM: 0.926628
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 2 finished in 63009 ms
+Alpha = 4.5 center = 2 AccFactor = 2 PSNR: 15.9379
+Alpha = 4.5 center = 2 AccFactor = 2 SSIM: 0.673461
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 2 finished in 62989 ms
+Alpha = 5 center = 2 AccFactor = 2 PSNR: 15.3128
+Alpha = 5 center = 2 AccFactor = 2 SSIM: 0.618097
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 2 finished in 62869 ms
+Alpha = 0 center = 3 AccFactor = 2 PSNR: 27.7755
+Alpha = 0 center = 3 AccFactor = 2 SSIM: 0.980022
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 2 finished in 63339 ms
+Alpha = 0.5 center = 3 AccFactor = 2 PSNR: 27.5762
+Alpha = 0.5 center = 3 AccFactor = 2 SSIM: 0.978643
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 2 finished in 63186 ms
+Alpha = 1 center = 3 AccFactor = 2 PSNR: 28.0824
+Alpha = 1 center = 3 AccFactor = 2 SSIM: 0.981693
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 2 finished in 63336 ms
+Alpha = 1.5 center = 3 AccFactor = 2 PSNR: 17.1424
+Alpha = 1.5 center = 3 AccFactor = 2 SSIM: 0.74859
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 2 finished in 95131 ms
+Alpha = 2 center = 3 AccFactor = 2 PSNR: 23.8304
+Alpha = 2 center = 3 AccFactor = 2 SSIM: 0.947819
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 2 finished in 63064 ms
+Alpha = 2.5 center = 3 AccFactor = 2 PSNR: 22.0652
+Alpha = 2.5 center = 3 AccFactor = 2 SSIM: 0.924554
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 2 finished in 62926 ms
+Alpha = 3 center = 3 AccFactor = 2 PSNR: 23.7423
+Alpha = 3 center = 3 AccFactor = 2 SSIM: 0.947316
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 2 finished in 62984 ms
+Alpha = 3.5 center = 3 AccFactor = 2 PSNR: 23.5501
+Alpha = 3.5 center = 3 AccFactor = 2 SSIM: 0.945276
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 2 finished in 63081 ms
+Alpha = 4 center = 3 AccFactor = 2 PSNR: 23.7383
+Alpha = 4 center = 3 AccFactor = 2 SSIM: 0.947073
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 2 finished in 63377 ms
+Alpha = 4.5 center = 3 AccFactor = 2 PSNR: 18.2059
+Alpha = 4.5 center = 3 AccFactor = 2 SSIM: 0.808364
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 2 finished in 95493 ms
+Alpha = 5 center = 3 AccFactor = 2 PSNR: 17.344
+Alpha = 5 center = 3 AccFactor = 2 SSIM: 0.760734
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 2 finished in 63209 ms
+Alpha = 0 center = 4 AccFactor = 2 PSNR: 27.588
+Alpha = 0 center = 4 AccFactor = 2 SSIM: 0.978717
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 2 finished in 62576 ms
+Alpha = 0.5 center = 4 AccFactor = 2 PSNR: 28.3195
+Alpha = 0.5 center = 4 AccFactor = 2 SSIM: 0.981612
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 2 finished in 62667 ms
+Alpha = 1 center = 4 AccFactor = 2 PSNR: 28.1011
+Alpha = 1 center = 4 AccFactor = 2 SSIM: 0.980965
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 2 finished in 62861 ms
+Alpha = 1.5 center = 4 AccFactor = 2 PSNR: 23.8731
+Alpha = 1.5 center = 4 AccFactor = 2 SSIM: 0.949151
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 2 finished in 119073 ms
+Alpha = 2 center = 4 AccFactor = 2 PSNR: 21.3309
+Alpha = 2 center = 4 AccFactor = 2 SSIM: 0.906623
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 2 finished in 62924 ms
+Alpha = 2.5 center = 4 AccFactor = 2 PSNR: 25.7422
+Alpha = 2.5 center = 4 AccFactor = 2 SSIM: 0.967161
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 2 finished in 62969 ms
+Alpha = 3 center = 4 AccFactor = 2 PSNR: 27.965
+Alpha = 3 center = 4 AccFactor = 2 SSIM: 0.979888
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 2 finished in 62716 ms
+Alpha = 3.5 center = 4 AccFactor = 2 PSNR: 25.7636
+Alpha = 3.5 center = 4 AccFactor = 2 SSIM: 0.966538
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 2 finished in 172562 ms
+Alpha = 4 center = 4 AccFactor = 2 PSNR: 21.1762
+Alpha = 4 center = 4 AccFactor = 2 SSIM: 0.903384
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 2 finished in 66010 ms
+Alpha = 4.5 center = 4 AccFactor = 2 PSNR: 28.5776
+Alpha = 4.5 center = 4 AccFactor = 2 SSIM: 0.983907
+
+Num of Samples = 16
+Alpha = 5 center = 0.21 AccFactor = 2 finished in 63260 ms
+Alpha = 5 center = 4 AccFactor = 2 PSNR: 25.4398
+Alpha = 5 center = 4 AccFactor = 2 SSIM: 0.966826
+
+Num of Samples = 25
+Alpha = 0 center = 0.26 AccFactor = 2 finished in 193264 ms
+Alpha = 0 center = 5 AccFactor = 2 PSNR: 25.969
+Alpha = 0 center = 5 AccFactor = 2 SSIM: 0.967342
+
+Num of Samples = 25
+Alpha = 0.5 center = 0.26 AccFactor = 2 finished in 63676 ms
+Alpha = 0.5 center = 5 AccFactor = 2 PSNR: 23.8635
+Alpha = 0.5 center = 5 AccFactor = 2 SSIM: 0.948139
+
+Num of Samples = 25
+Alpha = 1 center = 0.26 AccFactor = 2 finished in 63351 ms
+Alpha = 1 center = 5 AccFactor = 2 PSNR: 22.3961
+Alpha = 1 center = 5 AccFactor = 2 SSIM: 0.927944
+
+Num of Samples = 25
+Alpha = 1.5 center = 0.26 AccFactor = 2 finished in 63473 ms
+Alpha = 1.5 center = 5 AccFactor = 2 PSNR: 17.9478
+Alpha = 1.5 center = 5 AccFactor = 2 SSIM: 0.793251
+
+Num of Samples = 25
+Alpha = 2 center = 0.26 AccFactor = 2 finished in 63374 ms
+Alpha = 2 center = 5 AccFactor = 2 PSNR: 21.3893
+Alpha = 2 center = 5 AccFactor = 2 SSIM: 0.905912
+
+Num of Samples = 25
+Alpha = 2.5 center = 0.26 AccFactor = 2 finished in 63675 ms
+Alpha = 2.5 center = 5 AccFactor = 2 PSNR: 28.765
+Alpha = 2.5 center = 5 AccFactor = 2 SSIM: 0.98629
+
+Num of Samples = 25
+Alpha = 3 center = 0.26 AccFactor = 2 finished in 63092 ms
+Alpha = 3 center = 5 AccFactor = 2 PSNR: 25.7017
+Alpha = 3 center = 5 AccFactor = 2 SSIM: 0.96699
+
+Num of Samples = 25
+Alpha = 3.5 center = 0.26 AccFactor = 2 finished in 63293 ms
+Alpha = 3.5 center = 5 AccFactor = 2 PSNR: 18.3824
+Alpha = 3.5 center = 5 AccFactor = 2 SSIM: 0.809176
+
+Num of Samples = 25
+Alpha = 4 center = 0.26 AccFactor = 2 finished in 63230 ms
+Alpha = 4 center = 5 AccFactor = 2 PSNR: 17.5783
+Alpha = 4 center = 5 AccFactor = 2 SSIM: 0.775979
+
+Num of Samples = 25
+Alpha = 4.5 center = 0.26 AccFactor = 2 finished in 63576 ms
+Alpha = 4.5 center = 5 AccFactor = 2 PSNR: 17.058
+Alpha = 4.5 center = 5 AccFactor = 2 SSIM: 0.7456
+
+Num of Samples = 25
+Alpha = 5 center = 0.26 AccFactor = 2 finished in 63642 ms
+Alpha = 5 center = 5 AccFactor = 2 PSNR: 16.7728
+Alpha = 5 center = 5 AccFactor = 2 SSIM: 0.729335
+
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 2.5 finished in 53287 ms
+Alpha = 0 center = 0 AccFactor = 2.5 PSNR: 18.1999
+Alpha = 0 center = 0 AccFactor = 2.5 SSIM: 0.773177
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 2.5 finished in 117922 ms
+Alpha = 0.5 center = 0 AccFactor = 2.5 PSNR: 18.9536
+Alpha = 0.5 center = 0 AccFactor = 2.5 SSIM: 0.816386
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 2.5 finished in 53580 ms
+Alpha = 1 center = 0 AccFactor = 2.5 PSNR: 20.6124
+Alpha = 1 center = 0 AccFactor = 2.5 SSIM: 0.870408
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 2.5 finished in 53531 ms
+Alpha = 1.5 center = 0 AccFactor = 2.5 PSNR: 21.761
+Alpha = 1.5 center = 0 AccFactor = 2.5 SSIM: 0.910116
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 2.5 finished in 53270 ms
+Alpha = 2 center = 0 AccFactor = 2.5 PSNR: 21.5977
+Alpha = 2 center = 0 AccFactor = 2.5 SSIM: 0.903979
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 2.5 finished in 53630 ms
+Alpha = 2.5 center = 0 AccFactor = 2.5 PSNR: 18.706
+Alpha = 2.5 center = 0 AccFactor = 2.5 SSIM: 0.821638
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 2.5 finished in 53599 ms
+Alpha = 3 center = 0 AccFactor = 2.5 PSNR: 24.5161
+Alpha = 3 center = 0 AccFactor = 2.5 SSIM: 0.953482
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 2.5 finished in 53166 ms
+Alpha = 3.5 center = 0 AccFactor = 2.5 PSNR: 24.2885
+Alpha = 3.5 center = 0 AccFactor = 2.5 SSIM: 0.949885
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 2.5 finished in 53753 ms
+Alpha = 4 center = 0 AccFactor = 2.5 PSNR: 18.5172
+Alpha = 4 center = 0 AccFactor = 2.5 SSIM: 0.798694
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 2.5 finished in 53876 ms
+Alpha = 4.5 center = 0 AccFactor = 2.5 PSNR: 22.9664
+Alpha = 4.5 center = 0 AccFactor = 2.5 SSIM: 0.931276
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 2.5 finished in 53785 ms
+Alpha = 5 center = 0 AccFactor = 2.5 PSNR: 15.3095
+Alpha = 5 center = 0 AccFactor = 2.5 SSIM: 0.601465
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 2.5 finished in 52729 ms
+Alpha = 0 center = 1 AccFactor = 2.5 PSNR: 24.3368
+Alpha = 0 center = 1 AccFactor = 2.5 SSIM: 0.951638
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 2.5 finished in 53135 ms
+Alpha = 0.5 center = 1 AccFactor = 2.5 PSNR: 21.4182
+Alpha = 0.5 center = 1 AccFactor = 2.5 SSIM: 0.902169
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 2.5 finished in 53654 ms
+Alpha = 1 center = 1 AccFactor = 2.5 PSNR: 26.0842
+Alpha = 1 center = 1 AccFactor = 2.5 SSIM: 0.965951
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 2.5 finished in 53526 ms
+Alpha = 1.5 center = 1 AccFactor = 2.5 PSNR: 24.64
+Alpha = 1.5 center = 1 AccFactor = 2.5 SSIM: 0.95804
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 2.5 finished in 53093 ms
+Alpha = 2 center = 1 AccFactor = 2.5 PSNR: 21.4742
+Alpha = 2 center = 1 AccFactor = 2.5 SSIM: 0.905835
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 2.5 finished in 53353 ms
+Alpha = 2.5 center = 1 AccFactor = 2.5 PSNR: 23.117
+Alpha = 2.5 center = 1 AccFactor = 2.5 SSIM: 0.935956
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 2.5 finished in 53465 ms
+Alpha = 3 center = 1 AccFactor = 2.5 PSNR: 21.7779
+Alpha = 3 center = 1 AccFactor = 2.5 SSIM: 0.913907
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 2.5 finished in 53565 ms
+Alpha = 3.5 center = 1 AccFactor = 2.5 PSNR: 23.9343
+Alpha = 3.5 center = 1 AccFactor = 2.5 SSIM: 0.947481
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 2.5 finished in 53379 ms
+Alpha = 4 center = 1 AccFactor = 2.5 PSNR: 25.7808
+Alpha = 4 center = 1 AccFactor = 2.5 SSIM: 0.964689
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 2.5 finished in 53472 ms
+Alpha = 4.5 center = 1 AccFactor = 2.5 PSNR: 27.1385
+Alpha = 4.5 center = 1 AccFactor = 2.5 SSIM: 0.976666
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 2.5 finished in 53986 ms
+Alpha = 5 center = 1 AccFactor = 2.5 PSNR: 26.5318
+Alpha = 5 center = 1 AccFactor = 2.5 SSIM: 0.974432
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 2.5 finished in 53751 ms
+Alpha = 0 center = 2 AccFactor = 2.5 PSNR: 26.2534
+Alpha = 0 center = 2 AccFactor = 2.5 SSIM: 0.969735
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 2.5 finished in 53893 ms
+Alpha = 0.5 center = 2 AccFactor = 2.5 PSNR: 24.0263
+Alpha = 0.5 center = 2 AccFactor = 2.5 SSIM: 0.948481
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 2.5 finished in 53978 ms
+Alpha = 1 center = 2 AccFactor = 2.5 PSNR: 25.0845
+Alpha = 1 center = 2 AccFactor = 2.5 SSIM: 0.960475
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 2.5 finished in 53940 ms
+Alpha = 1.5 center = 2 AccFactor = 2.5 PSNR: 20.352
+Alpha = 1.5 center = 2 AccFactor = 2.5 SSIM: 0.880219
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 2.5 finished in 53709 ms
+Alpha = 2 center = 2 AccFactor = 2.5 PSNR: 22.7714
+Alpha = 2 center = 2 AccFactor = 2.5 SSIM: 0.932141
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 2.5 finished in 53710 ms
+Alpha = 2.5 center = 2 AccFactor = 2.5 PSNR: 27.1329
+Alpha = 2.5 center = 2 AccFactor = 2.5 SSIM: 0.977085
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 2.5 finished in 54347 ms
+Alpha = 3 center = 2 AccFactor = 2.5 PSNR: 25.6068
+Alpha = 3 center = 2 AccFactor = 2.5 SSIM: 0.964639
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 2.5 finished in 54976 ms
+Alpha = 3.5 center = 2 AccFactor = 2.5 PSNR: 16.787
+Alpha = 3.5 center = 2 AccFactor = 2.5 SSIM: 0.737061
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 2.5 finished in 54022 ms
+Alpha = 4 center = 2 AccFactor = 2.5 PSNR: 17.4714
+Alpha = 4 center = 2 AccFactor = 2.5 SSIM: 0.771731
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 2.5 finished in 53969 ms
+Alpha = 4.5 center = 2 AccFactor = 2.5 PSNR: 19.2023
+Alpha = 4.5 center = 2 AccFactor = 2.5 SSIM: 0.851403
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 2.5 finished in 53882 ms
+Alpha = 5 center = 2 AccFactor = 2.5 PSNR: 23.6708
+Alpha = 5 center = 2 AccFactor = 2.5 SSIM: 0.945971
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 2.5 finished in 54369 ms
+Alpha = 0 center = 3 AccFactor = 2.5 PSNR: 26.9966
+Alpha = 0 center = 3 AccFactor = 2.5 SSIM: 0.977195
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 2.5 finished in 53482 ms
+Alpha = 0.5 center = 3 AccFactor = 2.5 PSNR: 21.7086
+Alpha = 0.5 center = 3 AccFactor = 2.5 SSIM: 0.915159
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 2.5 finished in 53739 ms
+Alpha = 1 center = 3 AccFactor = 2.5 PSNR: 25.9241
+Alpha = 1 center = 3 AccFactor = 2.5 SSIM: 0.966594
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 2.5 finished in 53379 ms
+Alpha = 1.5 center = 3 AccFactor = 2.5 PSNR: 23.3436
+Alpha = 1.5 center = 3 AccFactor = 2.5 SSIM: 0.949027
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 2.5 finished in 53966 ms
+Alpha = 2 center = 3 AccFactor = 2.5 PSNR: 21.4777
+Alpha = 2 center = 3 AccFactor = 2.5 SSIM: 0.912108
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 2.5 finished in 54207 ms
+Alpha = 2.5 center = 3 AccFactor = 2.5 PSNR: 21.6352
+Alpha = 2.5 center = 3 AccFactor = 2.5 SSIM: 0.913789
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 2.5 finished in 53964 ms
+Alpha = 3 center = 3 AccFactor = 2.5 PSNR: 26.3907
+Alpha = 3 center = 3 AccFactor = 2.5 SSIM: 0.975084
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 2.5 finished in 153948 ms
+Alpha = 3.5 center = 3 AccFactor = 2.5 PSNR: 16.8431
+Alpha = 3.5 center = 3 AccFactor = 2.5 SSIM: 0.737085
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 2.5 finished in 53798 ms
+Alpha = 4 center = 3 AccFactor = 2.5 PSNR: 16.1092
+Alpha = 4 center = 3 AccFactor = 2.5 SSIM: 0.690237
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 2.5 finished in 54001 ms
+Alpha = 4.5 center = 3 AccFactor = 2.5 PSNR: 15.784
+Alpha = 4.5 center = 3 AccFactor = 2.5 SSIM: 0.648994
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 2.5 finished in 54676 ms
+Alpha = 5 center = 3 AccFactor = 2.5 PSNR: 17.9733
+Alpha = 5 center = 3 AccFactor = 2.5 SSIM: 0.797413
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 2.5 finished in 53410 ms
+Alpha = 0 center = 4 AccFactor = 2.5 PSNR: 28.0334
+Alpha = 0 center = 4 AccFactor = 2.5 SSIM: 0.979417
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 2.5 finished in 53324 ms
+Alpha = 0.5 center = 4 AccFactor = 2.5 PSNR: 28.4412
+Alpha = 0.5 center = 4 AccFactor = 2.5 SSIM: 0.981109
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 2.5 finished in 53554 ms
+Alpha = 1 center = 4 AccFactor = 2.5 PSNR: 25.9566
+Alpha = 1 center = 4 AccFactor = 2.5 SSIM: 0.967188
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 2.5 finished in 53712 ms
+Alpha = 1.5 center = 4 AccFactor = 2.5 PSNR: 25.6157
+Alpha = 1.5 center = 4 AccFactor = 2.5 SSIM: 0.96633
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 2.5 finished in 53510 ms
+Alpha = 2 center = 4 AccFactor = 2.5 PSNR: 21.6597
+Alpha = 2 center = 4 AccFactor = 2.5 SSIM: 0.911812
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 2.5 finished in 53197 ms
+Alpha = 2.5 center = 4 AccFactor = 2.5 PSNR: 27.6357
+Alpha = 2.5 center = 4 AccFactor = 2.5 SSIM: 0.977862
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 2.5 finished in 53569 ms
+Alpha = 3 center = 4 AccFactor = 2.5 PSNR: 25.8881
+Alpha = 3 center = 4 AccFactor = 2.5 SSIM: 0.96736
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 2.5 finished in 53395 ms
+Alpha = 3.5 center = 4 AccFactor = 2.5 PSNR: 16.5861
+Alpha = 3.5 center = 4 AccFactor = 2.5 SSIM: 0.719048
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 2.5 finished in 53678 ms
+Alpha = 4 center = 4 AccFactor = 2.5 PSNR: 25.9824
+Alpha = 4 center = 4 AccFactor = 2.5 SSIM: 0.967638
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 2.5 finished in 53738 ms
+Alpha = 4.5 center = 4 AccFactor = 2.5 PSNR: 25.9645
+Alpha = 4.5 center = 4 AccFactor = 2.5 SSIM: 0.967632
+
+Num of Samples = 16
+Alpha = 5 center = 0.21 AccFactor = 2.5 finished in 53682 ms
+Alpha = 5 center = 4 AccFactor = 2.5 PSNR: 18.0559
+Alpha = 5 center = 4 AccFactor = 2.5 SSIM: 0.795847
+
+Num of Samples = 25
+Alpha = 0 center = 0.26 AccFactor = 2.5 finished in 54704 ms
+Alpha = 0 center = 5 AccFactor = 2.5 PSNR: 27.9878
+Alpha = 0 center = 5 AccFactor = 2.5 SSIM: 0.979526
+
+Num of Samples = 25
+Alpha = 0.5 center = 0.26 AccFactor = 2.5 finished in 83563 ms
+Alpha = 0.5 center = 5 AccFactor = 2.5 PSNR: 27.9953
+Alpha = 0.5 center = 5 AccFactor = 2.5 SSIM: 0.979647
+
+Num of Samples = 25
+Alpha = 1 center = 0.26 AccFactor = 2.5 finished in 53899 ms
+Alpha = 1 center = 5 AccFactor = 2.5 PSNR: 28.6691
+Alpha = 1 center = 5 AccFactor = 2.5 SSIM: 0.982883
+
+Num of Samples = 25
+Alpha = 1.5 center = 0.26 AccFactor = 2.5 finished in 54159 ms
+Alpha = 1.5 center = 5 AccFactor = 2.5 PSNR: 21.6568
+Alpha = 1.5 center = 5 AccFactor = 2.5 SSIM: 0.910415
+
+Num of Samples = 25
+Alpha = 2 center = 0.26 AccFactor = 2.5 finished in 54062 ms
+Alpha = 2 center = 5 AccFactor = 2.5 PSNR: 17.3821
+Alpha = 2 center = 5 AccFactor = 2.5 SSIM: 0.763458
+
+Num of Samples = 25
+Alpha = 2.5 center = 0.26 AccFactor = 2.5 finished in 53952 ms
+Alpha = 2.5 center = 5 AccFactor = 2.5 PSNR: 24.2034
+Alpha = 2.5 center = 5 AccFactor = 2.5 SSIM: 0.950788
+
+Num of Samples = 25
+Alpha = 3 center = 0.26 AccFactor = 2.5 finished in 53790 ms
+Alpha = 3 center = 5 AccFactor = 2.5 PSNR: 22.7197
+Alpha = 3 center = 5 AccFactor = 2.5 SSIM: 0.930162
+
+Num of Samples = 25
+Alpha = 3.5 center = 0.26 AccFactor = 2.5 finished in 54345 ms
+Alpha = 3.5 center = 5 AccFactor = 2.5 PSNR: 19.688
+Alpha = 3.5 center = 5 AccFactor = 2.5 SSIM: 0.863769
+
+Num of Samples = 25
+Alpha = 4 center = 0.26 AccFactor = 2.5 finished in 54093 ms
+Alpha = 4 center = 5 AccFactor = 2.5 PSNR: 15.3318
+Alpha = 4 center = 5 AccFactor = 2.5 SSIM: 0.619581
+
+Num of Samples = 25
+Alpha = 4.5 center = 0.26 AccFactor = 2.5 finished in 54460 ms
+Alpha = 4.5 center = 5 AccFactor = 2.5 PSNR: 15.8866
+Alpha = 4.5 center = 5 AccFactor = 2.5 SSIM: 0.659525
+
+Num of Samples = 25
+Alpha = 5 center = 0.26 AccFactor = 2.5 finished in 53894 ms
+Alpha = 5 center = 5 AccFactor = 2.5 PSNR: 15.8993
+Alpha = 5 center = 5 AccFactor = 2.5 SSIM: 0.659384
+
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 3 finished in 48248 ms
+Alpha = 0 center = 0 AccFactor = 3 PSNR: 21.4169
+Alpha = 0 center = 0 AccFactor = 3 SSIM: 0.90333
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 3 finished in 47207 ms
+Alpha = 0.5 center = 0 AccFactor = 3 PSNR: 19.4369
+Alpha = 0.5 center = 0 AccFactor = 3 SSIM: 0.838414
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 3 finished in 47852 ms
+Alpha = 1 center = 0 AccFactor = 3 PSNR: 17.5783
+Alpha = 1 center = 0 AccFactor = 3 SSIM: 0.776554
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 3 finished in 48327 ms
+Alpha = 1.5 center = 0 AccFactor = 3 PSNR: 18.6924
+Alpha = 1.5 center = 0 AccFactor = 3 SSIM: 0.816907
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 3 finished in 47358 ms
+Alpha = 2 center = 0 AccFactor = 3 PSNR: 22.5101
+Alpha = 2 center = 0 AccFactor = 3 SSIM: 0.926244
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 3 finished in 48832 ms
+Alpha = 2.5 center = 0 AccFactor = 3 PSNR: 18.0371
+Alpha = 2.5 center = 0 AccFactor = 3 SSIM: 0.76815
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 3 finished in 47494 ms
+Alpha = 3 center = 0 AccFactor = 3 PSNR: 21.32
+Alpha = 3 center = 0 AccFactor = 3 SSIM: 0.888468
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 3 finished in 47168 ms
+Alpha = 3.5 center = 0 AccFactor = 3 PSNR: 18.7879
+Alpha = 3.5 center = 0 AccFactor = 3 SSIM: 0.808614
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 3 finished in 47130 ms
+Alpha = 4 center = 0 AccFactor = 3 PSNR: 15.5804
+Alpha = 4 center = 0 AccFactor = 3 SSIM: 0.650744
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 3 finished in 127492 ms
+Alpha = 4.5 center = 0 AccFactor = 3 PSNR: 14.7245
+Alpha = 4.5 center = 0 AccFactor = 3 SSIM: 0.509886
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 3 finished in 47318 ms
+Alpha = 5 center = 0 AccFactor = 3 PSNR: 16.8603
+Alpha = 5 center = 0 AccFactor = 3 SSIM: 0.717721
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 3 finished in 46925 ms
+Alpha = 0 center = 1 AccFactor = 3 PSNR: 24.9032
+Alpha = 0 center = 1 AccFactor = 3 SSIM: 0.953867
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 3 finished in 166888 ms
+Alpha = 0.5 center = 1 AccFactor = 3 PSNR: 24.4215
+Alpha = 0.5 center = 1 AccFactor = 3 SSIM: 0.952193
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 3 finished in 46988 ms
+Alpha = 1 center = 1 AccFactor = 3 PSNR: 24.3569
+Alpha = 1 center = 1 AccFactor = 3 SSIM: 0.952656
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 3 finished in 47104 ms
+Alpha = 1.5 center = 1 AccFactor = 3 PSNR: 21.2049
+Alpha = 1.5 center = 1 AccFactor = 3 SSIM: 0.897123
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 3 finished in 47327 ms
+Alpha = 2 center = 1 AccFactor = 3 PSNR: 19.4846
+Alpha = 2 center = 1 AccFactor = 3 SSIM: 0.847196
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 3 finished in 47428 ms
+Alpha = 2.5 center = 1 AccFactor = 3 PSNR: 22.4309
+Alpha = 2.5 center = 1 AccFactor = 3 SSIM: 0.921968
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 3 finished in 48369 ms
+Alpha = 3 center = 1 AccFactor = 3 PSNR: 19.7945
+Alpha = 3 center = 1 AccFactor = 3 SSIM: 0.858667
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 3 finished in 46960 ms
+Alpha = 3.5 center = 1 AccFactor = 3 PSNR: 21.2033
+Alpha = 3.5 center = 1 AccFactor = 3 SSIM: 0.900807
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 3 finished in 46987 ms
+Alpha = 4 center = 1 AccFactor = 3 PSNR: 24.0636
+Alpha = 4 center = 1 AccFactor = 3 SSIM: 0.95751
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 3 finished in 47068 ms
+Alpha = 4.5 center = 1 AccFactor = 3 PSNR: 24.1181
+Alpha = 4.5 center = 1 AccFactor = 3 SSIM: 0.947603
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 3 finished in 47277 ms
+Alpha = 5 center = 1 AccFactor = 3 PSNR: 14.8537
+Alpha = 5 center = 1 AccFactor = 3 SSIM: 0.562729
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 3 finished in 47341 ms
+Alpha = 0 center = 2 AccFactor = 3 PSNR: 25.6829
+Alpha = 0 center = 2 AccFactor = 3 SSIM: 0.96528
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 3 finished in 47480 ms
+Alpha = 0.5 center = 2 AccFactor = 3 PSNR: 24.6551
+Alpha = 0.5 center = 2 AccFactor = 3 SSIM: 0.955528
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 3 finished in 47418 ms
+Alpha = 1 center = 2 AccFactor = 3 PSNR: 22.0932
+Alpha = 1 center = 2 AccFactor = 3 SSIM: 0.918074
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 3 finished in 47442 ms
+Alpha = 1.5 center = 2 AccFactor = 3 PSNR: 23.8647
+Alpha = 1.5 center = 2 AccFactor = 3 SSIM: 0.9481
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 3 finished in 105234 ms
+Alpha = 2 center = 2 AccFactor = 3 PSNR: 26.4813
+Alpha = 2 center = 2 AccFactor = 3 SSIM: 0.970528
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 3 finished in 47445 ms
+Alpha = 2.5 center = 2 AccFactor = 3 PSNR: 18.6356
+Alpha = 2.5 center = 2 AccFactor = 3 SSIM: 0.826701
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 3 finished in 151678 ms
+Alpha = 3 center = 2 AccFactor = 3 PSNR: 18.7319
+Alpha = 3 center = 2 AccFactor = 3 SSIM: 0.817328
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 3 finished in 47622 ms
+Alpha = 3.5 center = 2 AccFactor = 3 PSNR: 14.9666
+Alpha = 3.5 center = 2 AccFactor = 3 SSIM: 0.590991
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 3 finished in 47165 ms
+Alpha = 4 center = 2 AccFactor = 3 PSNR: 17.609
+Alpha = 4 center = 2 AccFactor = 3 SSIM: 0.7757
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 3 finished in 47452 ms
+Alpha = 4.5 center = 2 AccFactor = 3 PSNR: 18.7822
+Alpha = 4.5 center = 2 AccFactor = 3 SSIM: 0.82665
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 3 finished in 47477 ms
+Alpha = 5 center = 2 AccFactor = 3 PSNR: 15.9766
+Alpha = 5 center = 2 AccFactor = 3 SSIM: 0.652794
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 3 finished in 176637 ms
+Alpha = 0 center = 3 AccFactor = 3 PSNR: 24.4115
+Alpha = 0 center = 3 AccFactor = 3 SSIM: 0.961431
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 3 finished in 48507 ms
+Alpha = 0.5 center = 3 AccFactor = 3 PSNR: 23.3016
+Alpha = 0.5 center = 3 AccFactor = 3 SSIM: 0.948843
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 3 finished in 47866 ms
+Alpha = 1 center = 3 AccFactor = 3 PSNR: 23.9263
+Alpha = 1 center = 3 AccFactor = 3 SSIM: 0.950342
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 3 finished in 47895 ms
+Alpha = 1.5 center = 3 AccFactor = 3 PSNR: 26.1438
+Alpha = 1.5 center = 3 AccFactor = 3 SSIM: 0.973789
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 3 finished in 48209 ms
+Alpha = 2 center = 3 AccFactor = 3 PSNR: 19.0277
+Alpha = 2 center = 3 AccFactor = 3 SSIM: 0.840088
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 3 finished in 48284 ms
+Alpha = 2.5 center = 3 AccFactor = 3 PSNR: 15.7622
+Alpha = 2.5 center = 3 AccFactor = 3 SSIM: 0.663637
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 3 finished in 47760 ms
+Alpha = 3 center = 3 AccFactor = 3 PSNR: 17.4323
+Alpha = 3 center = 3 AccFactor = 3 SSIM: 0.767828
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 3 finished in 48178 ms
+Alpha = 3.5 center = 3 AccFactor = 3 PSNR: 21.4671
+Alpha = 3.5 center = 3 AccFactor = 3 SSIM: 0.915595
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 3 finished in 47747 ms
+Alpha = 4 center = 3 AccFactor = 3 PSNR: 14.7347
+Alpha = 4 center = 3 AccFactor = 3 SSIM: 0.565015
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 3 finished in 47744 ms
+Alpha = 4.5 center = 3 AccFactor = 3 PSNR: 16.9826
+Alpha = 4.5 center = 3 AccFactor = 3 SSIM: 0.739868
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 3 finished in 48538 ms
+Alpha = 5 center = 3 AccFactor = 3 PSNR: 18.153
+Alpha = 5 center = 3 AccFactor = 3 SSIM: 0.80248
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 3 finished in 47794 ms
+Alpha = 0 center = 4 AccFactor = 3 PSNR: 16.8494
+Alpha = 0 center = 4 AccFactor = 3 SSIM: 0.723304
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 3 finished in 47759 ms
+Alpha = 0.5 center = 4 AccFactor = 3 PSNR: 22.0739
+Alpha = 0.5 center = 4 AccFactor = 3 SSIM: 0.91618
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 3 finished in 47902 ms
+Alpha = 1 center = 4 AccFactor = 3 PSNR: 19.5855
+Alpha = 1 center = 4 AccFactor = 3 SSIM: 0.853796
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 3 finished in 47466 ms
+Alpha = 1.5 center = 4 AccFactor = 3 PSNR: 21.0125
+Alpha = 1.5 center = 4 AccFactor = 3 SSIM: 0.894366
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 3 finished in 47327 ms
+Alpha = 2 center = 4 AccFactor = 3 PSNR: 16.4961
+Alpha = 2 center = 4 AccFactor = 3 SSIM: 0.706443
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 3 finished in 47644 ms
+Alpha = 2.5 center = 4 AccFactor = 3 PSNR: 16.5527
+Alpha = 2.5 center = 4 AccFactor = 3 SSIM: 0.707139
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 3 finished in 47600 ms
+Alpha = 3 center = 4 AccFactor = 3 PSNR: 18.234
+Alpha = 3 center = 4 AccFactor = 3 SSIM: 0.800409
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 3 finished in 50220 ms
+Alpha = 3.5 center = 4 AccFactor = 3 PSNR: 18.914
+Alpha = 3.5 center = 4 AccFactor = 3 SSIM: 0.833921
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 3 finished in 50923 ms
+Alpha = 4 center = 4 AccFactor = 3 PSNR: 23.0424
+Alpha = 4 center = 4 AccFactor = 3 SSIM: 0.934252
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 3 finished in 48130 ms
+Alpha = 4.5 center = 4 AccFactor = 3 PSNR: 16.7115
+Alpha = 4.5 center = 4 AccFactor = 3 SSIM: 0.72086
+
+Num of Samples = 16
+Alpha = 5 center = 0.21 AccFactor = 3 finished in 46400 ms
+Alpha = 5 center = 4 AccFactor = 3 PSNR: 17.6406
+Alpha = 5 center = 4 AccFactor = 3 SSIM: 0.781245
+
+Num of Samples = 25
+Alpha = 0 center = 0.26 AccFactor = 3 finished in 47166 ms
+Alpha = 0 center = 5 AccFactor = 3 PSNR: 18.5516
+Alpha = 0 center = 5 AccFactor = 3 SSIM: 0.814491
+
+Num of Samples = 25
+Alpha = 0.5 center = 0.26 AccFactor = 3 finished in 47171 ms
+Alpha = 0.5 center = 5 AccFactor = 3 PSNR: 16.9324
+Alpha = 0.5 center = 5 AccFactor = 3 SSIM: 0.734576
+
+Num of Samples = 25
+Alpha = 1 center = 0.26 AccFactor = 3 finished in 46346 ms
+Alpha = 1 center = 5 AccFactor = 3 PSNR: 21.6393
+Alpha = 1 center = 5 AccFactor = 3 SSIM: 0.910639
+
+Num of Samples = 25
+Alpha = 1.5 center = 0.26 AccFactor = 3 finished in 46923 ms
+Alpha = 1.5 center = 5 AccFactor = 3 PSNR: 17.7882
+Alpha = 1.5 center = 5 AccFactor = 3 SSIM: 0.781093
+
+Num of Samples = 25
+Alpha = 2 center = 0.26 AccFactor = 3 finished in 46987 ms
+Alpha = 2 center = 5 AccFactor = 3 PSNR: 18.1441
+Alpha = 2 center = 5 AccFactor = 3 SSIM: 0.797499
+
+Num of Samples = 25
+Alpha = 2.5 center = 0.26 AccFactor = 3 finished in 47309 ms
+Alpha = 2.5 center = 5 AccFactor = 3 PSNR: 24.155
+Alpha = 2.5 center = 5 AccFactor = 3 SSIM: 0.950682
+
+Num of Samples = 25
+Alpha = 3 center = 0.26 AccFactor = 3 finished in 50191 ms
+Alpha = 3 center = 5 AccFactor = 3 PSNR: 28.1593
+Alpha = 3 center = 5 AccFactor = 3 SSIM: 0.980474
+
+Num of Samples = 25
+Alpha = 3.5 center = 0.26 AccFactor = 3 finished in 48558 ms
+Alpha = 3.5 center = 5 AccFactor = 3 PSNR: 15.6422
+Alpha = 3.5 center = 5 AccFactor = 3 SSIM: 0.646101
+
+Num of Samples = 25
+Alpha = 4 center = 0.26 AccFactor = 3 finished in 47473 ms
+Alpha = 4 center = 5 AccFactor = 3 PSNR: 19.9996
+Alpha = 4 center = 5 AccFactor = 3 SSIM: 0.868678
+
+Num of Samples = 25
+Alpha = 4.5 center = 0.26 AccFactor = 3 finished in 48687 ms
+Alpha = 4.5 center = 5 AccFactor = 3 PSNR: 21.57
+Alpha = 4.5 center = 5 AccFactor = 3 SSIM: 0.90959
+
+Num of Samples = 25
+Alpha = 5 center = 0.26 AccFactor = 3 finished in 49411 ms
+Alpha = 5 center = 5 AccFactor = 3 PSNR: 13.7961
+Alpha = 5 center = 5 AccFactor = 3 SSIM: 0.454799
+
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 3.5 finished in 41857 ms
+Alpha = 0 center = 0 AccFactor = 3.5 PSNR: 19.0348
+Alpha = 0 center = 0 AccFactor = 3.5 SSIM: 0.820721
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 3.5 finished in 41836 ms
+Alpha = 0.5 center = 0 AccFactor = 3.5 PSNR: 19.6777
+Alpha = 0.5 center = 0 AccFactor = 3.5 SSIM: 0.832466
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 3.5 finished in 41925 ms
+Alpha = 1 center = 0 AccFactor = 3.5 PSNR: 18.592
+Alpha = 1 center = 0 AccFactor = 3.5 SSIM: 0.807305
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 3.5 finished in 41818 ms
+Alpha = 1.5 center = 0 AccFactor = 3.5 PSNR: 21.7607
+Alpha = 1.5 center = 0 AccFactor = 3.5 SSIM: 0.908509
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 3.5 finished in 41957 ms
+Alpha = 2 center = 0 AccFactor = 3.5 PSNR: 21.0469
+Alpha = 2 center = 0 AccFactor = 3.5 SSIM: 0.890559
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 3.5 finished in 41657 ms
+Alpha = 2.5 center = 0 AccFactor = 3.5 PSNR: 16.879
+Alpha = 2.5 center = 0 AccFactor = 3.5 SSIM: 0.709968
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 3.5 finished in 41838 ms
+Alpha = 3 center = 0 AccFactor = 3.5 PSNR: 22.3452
+Alpha = 3 center = 0 AccFactor = 3.5 SSIM: 0.917028
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 3.5 finished in 41892 ms
+Alpha = 3.5 center = 0 AccFactor = 3.5 PSNR: 17.4709
+Alpha = 3.5 center = 0 AccFactor = 3.5 SSIM: 0.733814
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 3.5 finished in 42003 ms
+Alpha = 4 center = 0 AccFactor = 3.5 PSNR: 17.4454
+Alpha = 4 center = 0 AccFactor = 3.5 SSIM: 0.733732
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 3.5 finished in 42173 ms
+Alpha = 4.5 center = 0 AccFactor = 3.5 PSNR: 15.9916
+Alpha = 4.5 center = 0 AccFactor = 3.5 SSIM: 0.662239
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 3.5 finished in 41890 ms
+Alpha = 5 center = 0 AccFactor = 3.5 PSNR: 15.0535
+Alpha = 5 center = 0 AccFactor = 3.5 SSIM: 0.550448
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 3.5 finished in 41494 ms
+Alpha = 0 center = 1 AccFactor = 3.5 PSNR: 24.0766
+Alpha = 0 center = 1 AccFactor = 3.5 SSIM: 0.94433
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 3.5 finished in 41320 ms
+Alpha = 0.5 center = 1 AccFactor = 3.5 PSNR: 24.8205
+Alpha = 0.5 center = 1 AccFactor = 3.5 SSIM: 0.955957
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 3.5 finished in 41566 ms
+Alpha = 1 center = 1 AccFactor = 3.5 PSNR: 23.9083
+Alpha = 1 center = 1 AccFactor = 3.5 SSIM: 0.942429
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 3.5 finished in 41424 ms
+Alpha = 1.5 center = 1 AccFactor = 3.5 PSNR: 22.2708
+Alpha = 1.5 center = 1 AccFactor = 3.5 SSIM: 0.924859
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 3.5 finished in 41650 ms
+Alpha = 2 center = 1 AccFactor = 3.5 PSNR: 22.7572
+Alpha = 2 center = 1 AccFactor = 3.5 SSIM: 0.928223
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 3.5 finished in 41793 ms
+Alpha = 2.5 center = 1 AccFactor = 3.5 PSNR: 25.1334
+Alpha = 2.5 center = 1 AccFactor = 3.5 SSIM: 0.958178
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 3.5 finished in 126149 ms
+Alpha = 3 center = 1 AccFactor = 3.5 PSNR: 24.664
+Alpha = 3 center = 1 AccFactor = 3.5 SSIM: 0.954744
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 3.5 finished in 41444 ms
+Alpha = 3.5 center = 1 AccFactor = 3.5 PSNR: 24.0018
+Alpha = 3.5 center = 1 AccFactor = 3.5 SSIM: 0.943504
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 3.5 finished in 41518 ms
+Alpha = 4 center = 1 AccFactor = 3.5 PSNR: 17.3648
+Alpha = 4 center = 1 AccFactor = 3.5 SSIM: 0.757443
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 3.5 finished in 41771 ms
+Alpha = 4.5 center = 1 AccFactor = 3.5 PSNR: 19.2499
+Alpha = 4.5 center = 1 AccFactor = 3.5 SSIM: 0.851838
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 3.5 finished in 41708 ms
+Alpha = 5 center = 1 AccFactor = 3.5 PSNR: 14.1155
+Alpha = 5 center = 1 AccFactor = 3.5 SSIM: 0.47391
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 3.5 finished in 42553 ms
+Alpha = 0 center = 2 AccFactor = 3.5 PSNR: 24.5551
+Alpha = 0 center = 2 AccFactor = 3.5 SSIM: 0.955078
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 3.5 finished in 44843 ms
+Alpha = 0.5 center = 2 AccFactor = 3.5 PSNR: 21.9619
+Alpha = 0.5 center = 2 AccFactor = 3.5 SSIM: 0.918933
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 3.5 finished in 41931 ms
+Alpha = 1 center = 2 AccFactor = 3.5 PSNR: 25.8621
+Alpha = 1 center = 2 AccFactor = 3.5 SSIM: 0.966083
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 3.5 finished in 41699 ms
+Alpha = 1.5 center = 2 AccFactor = 3.5 PSNR: 25.6009
+Alpha = 1.5 center = 2 AccFactor = 3.5 SSIM: 0.965318
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 3.5 finished in 41806 ms
+Alpha = 2 center = 2 AccFactor = 3.5 PSNR: 25.8541
+Alpha = 2 center = 2 AccFactor = 3.5 SSIM: 0.966253
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 3.5 finished in 42000 ms
+Alpha = 2.5 center = 2 AccFactor = 3.5 PSNR: 19.2145
+Alpha = 2.5 center = 2 AccFactor = 3.5 SSIM: 0.83782
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 3.5 finished in 41763 ms
+Alpha = 3 center = 2 AccFactor = 3.5 PSNR: 15.5021
+Alpha = 3 center = 2 AccFactor = 3.5 SSIM: 0.620749
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 3.5 finished in 42279 ms
+Alpha = 3.5 center = 2 AccFactor = 3.5 PSNR: 25.0255
+Alpha = 3.5 center = 2 AccFactor = 3.5 SSIM: 0.961034
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 3.5 finished in 41868 ms
+Alpha = 4 center = 2 AccFactor = 3.5 PSNR: 16.987
+Alpha = 4 center = 2 AccFactor = 3.5 SSIM: 0.73312
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 3.5 finished in 42114 ms
+Alpha = 4.5 center = 2 AccFactor = 3.5 PSNR: 16.1807
+Alpha = 4.5 center = 2 AccFactor = 3.5 SSIM: 0.685983
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 3.5 finished in 41938 ms
+Alpha = 5 center = 2 AccFactor = 3.5 PSNR: 13.996
+Alpha = 5 center = 2 AccFactor = 3.5 SSIM: 0.489374
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 3.5 finished in 41951 ms
+Alpha = 0 center = 3 AccFactor = 3.5 PSNR: 19.9099
+Alpha = 0 center = 3 AccFactor = 3.5 SSIM: 0.878954
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 3.5 finished in 41728 ms
+Alpha = 0.5 center = 3 AccFactor = 3.5 PSNR: 15.4195
+Alpha = 0.5 center = 3 AccFactor = 3.5 SSIM: 0.626758
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 3.5 finished in 42201 ms
+Alpha = 1 center = 3 AccFactor = 3.5 PSNR: 25.5054
+Alpha = 1 center = 3 AccFactor = 3.5 SSIM: 0.970625
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 3.5 finished in 42048 ms
+Alpha = 1.5 center = 3 AccFactor = 3.5 PSNR: 24.8502
+Alpha = 1.5 center = 3 AccFactor = 3.5 SSIM: 0.96282
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 3.5 finished in 41947 ms
+Alpha = 2 center = 3 AccFactor = 3.5 PSNR: 22.4723
+Alpha = 2 center = 3 AccFactor = 3.5 SSIM: 0.934831
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 3.5 finished in 42120 ms
+Alpha = 2.5 center = 3 AccFactor = 3.5 PSNR: 23.1335
+Alpha = 2.5 center = 3 AccFactor = 3.5 SSIM: 0.949689
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 3.5 finished in 41926 ms
+Alpha = 3 center = 3 AccFactor = 3.5 PSNR: 21.5649
+Alpha = 3 center = 3 AccFactor = 3.5 SSIM: 0.91629
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 3.5 finished in 42031 ms
+Alpha = 3.5 center = 3 AccFactor = 3.5 PSNR: 15.4367
+Alpha = 3.5 center = 3 AccFactor = 3.5 SSIM: 0.614912
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 3.5 finished in 41974 ms
+Alpha = 4 center = 3 AccFactor = 3.5 PSNR: 19.4782
+Alpha = 4 center = 3 AccFactor = 3.5 SSIM: 0.857066
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 3.5 finished in 42256 ms
+Alpha = 4.5 center = 3 AccFactor = 3.5 PSNR: 13.7611
+Alpha = 4.5 center = 3 AccFactor = 3.5 SSIM: 0.449068
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 3.5 finished in 42047 ms
+Alpha = 5 center = 3 AccFactor = 3.5 PSNR: 25.6872
+Alpha = 5 center = 3 AccFactor = 3.5 SSIM: 0.97393
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 3.5 finished in 41642 ms
+Alpha = 0 center = 4 AccFactor = 3.5 PSNR: 18.8853
+Alpha = 0 center = 4 AccFactor = 3.5 SSIM: 0.834274
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 3.5 finished in 41873 ms
+Alpha = 0.5 center = 4 AccFactor = 3.5 PSNR: 16.3394
+Alpha = 0.5 center = 4 AccFactor = 3.5 SSIM: 0.693199
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 3.5 finished in 41910 ms
+Alpha = 1 center = 4 AccFactor = 3.5 PSNR: 16.1347
+Alpha = 1 center = 4 AccFactor = 3.5 SSIM: 0.678232
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 3.5 finished in 42856 ms
+Alpha = 1.5 center = 4 AccFactor = 3.5 PSNR: 25.4359
+Alpha = 1.5 center = 4 AccFactor = 3.5 SSIM: 0.965696
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 3.5 finished in 43211 ms
+Alpha = 2 center = 4 AccFactor = 3.5 PSNR: 23.0404
+Alpha = 2 center = 4 AccFactor = 3.5 SSIM: 0.935497
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 3.5 finished in 42194 ms
+Alpha = 2.5 center = 4 AccFactor = 3.5 PSNR: 19.1691
+Alpha = 2.5 center = 4 AccFactor = 3.5 SSIM: 0.836603
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 3.5 finished in 41646 ms
+Alpha = 3 center = 4 AccFactor = 3.5 PSNR: 24.5155
+Alpha = 3 center = 4 AccFactor = 3.5 SSIM: 0.953275
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 3.5 finished in 41947 ms
+Alpha = 3.5 center = 4 AccFactor = 3.5 PSNR: 14.2055
+Alpha = 3.5 center = 4 AccFactor = 3.5 SSIM: 0.497036
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 3.5 finished in 42125 ms
+Alpha = 4 center = 4 AccFactor = 3.5 PSNR: 15.9322
+Alpha = 4 center = 4 AccFactor = 3.5 SSIM: 0.66381
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 3.5 finished in 41865 ms
+Alpha = 4.5 center = 4 AccFactor = 3.5 PSNR: 15.5529
+Alpha = 4.5 center = 4 AccFactor = 3.5 SSIM: 0.6359
+
+Num of Samples = 16
+Alpha = 5 center = 0.21 AccFactor = 3.5 finished in 42022 ms
+Alpha = 5 center = 4 AccFactor = 3.5 PSNR: 14.427
+Alpha = 5 center = 4 AccFactor = 3.5 SSIM: 0.509016
+
+Num of Samples = 25
+Alpha = 0 center = 0.26 AccFactor = 3.5 finished in 42044 ms
+Alpha = 0 center = 5 AccFactor = 3.5 PSNR: 19.9706
+Alpha = 0 center = 5 AccFactor = 3.5 SSIM: 0.868807
+
+Num of Samples = 25
+Alpha = 0.5 center = 0.26 AccFactor = 3.5 finished in 42223 ms
+Alpha = 0.5 center = 5 AccFactor = 3.5 PSNR: 14.2096
+Alpha = 0.5 center = 5 AccFactor = 3.5 SSIM: 0.495913
+
+Num of Samples = 25
+Alpha = 1 center = 0.26 AccFactor = 3.5 finished in 41871 ms
+Alpha = 1 center = 5 AccFactor = 3.5 PSNR: 24.5354
+Alpha = 1 center = 5 AccFactor = 3.5 SSIM: 0.953177
+
+Num of Samples = 25
+Alpha = 1.5 center = 0.26 AccFactor = 3.5 finished in 42267 ms
+Alpha = 1.5 center = 5 AccFactor = 3.5 PSNR: 16.3637
+Alpha = 1.5 center = 5 AccFactor = 3.5 SSIM: 0.690786
+
+Num of Samples = 25
+Alpha = 2 center = 0.26 AccFactor = 3.5 finished in 42274 ms
+Alpha = 2 center = 5 AccFactor = 3.5 PSNR: 14.698
+Alpha = 2 center = 5 AccFactor = 3.5 SSIM: 0.553131
+
+Num of Samples = 25
+Alpha = 2.5 center = 0.26 AccFactor = 3.5 finished in 141739 ms
+Alpha = 2.5 center = 5 AccFactor = 3.5 PSNR: 15.7821
+Alpha = 2.5 center = 5 AccFactor = 3.5 SSIM: 0.647848
+
+Num of Samples = 25
+Alpha = 3 center = 0.26 AccFactor = 3.5 finished in 42075 ms
+Alpha = 3 center = 5 AccFactor = 3.5 PSNR: 13.403
+Alpha = 3 center = 5 AccFactor = 3.5 SSIM: 0.38656
+
+Num of Samples = 25
+Alpha = 3.5 center = 0.26 AccFactor = 3.5 finished in 42075 ms
+Alpha = 3.5 center = 5 AccFactor = 3.5 PSNR: 11.8075
+Alpha = 3.5 center = 5 AccFactor = 3.5 SSIM: 0.162265
+
+Num of Samples = 25
+Alpha = 4 center = 0.26 AccFactor = 3.5 finished in 51074 ms
+Alpha = 4 center = 5 AccFactor = 3.5 PSNR: 15.2353
+Alpha = 4 center = 5 AccFactor = 3.5 SSIM: 0.5985
+
+Num of Samples = 25
+Alpha = 4.5 center = 0.26 AccFactor = 3.5 finished in 42175 ms
+Alpha = 4.5 center = 5 AccFactor = 3.5 PSNR: 14.2212
+Alpha = 4.5 center = 5 AccFactor = 3.5 SSIM: 0.495931
+
+Num of Samples = 25
+Alpha = 5 center = 0.26 AccFactor = 3.5 finished in 42301 ms
+Alpha = 5 center = 5 AccFactor = 3.5 PSNR: 14.8375
+Alpha = 5 center = 5 AccFactor = 3.5 SSIM: 0.56446
+
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 4 finished in 39467 ms
+Alpha = 0 center = 0 AccFactor = 4 PSNR: 18.6891
+Alpha = 0 center = 0 AccFactor = 4 SSIM: 0.80481
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 4 finished in 39358 ms
+Alpha = 0.5 center = 0 AccFactor = 4 PSNR: 18.9755
+Alpha = 0.5 center = 0 AccFactor = 4 SSIM: 0.814991
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 4 finished in 38607 ms
+Alpha = 1 center = 0 AccFactor = 4 PSNR: 19.4749
+Alpha = 1 center = 0 AccFactor = 4 SSIM: 0.84101
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 4 finished in 39398 ms
+Alpha = 1.5 center = 0 AccFactor = 4 PSNR: 17.357
+Alpha = 1.5 center = 0 AccFactor = 4 SSIM: 0.73524
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 4 finished in 39013 ms
+Alpha = 2 center = 0 AccFactor = 4 PSNR: 17.5141
+Alpha = 2 center = 0 AccFactor = 4 SSIM: 0.731623
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 4 finished in 38886 ms
+Alpha = 2.5 center = 0 AccFactor = 4 PSNR: 17.3482
+Alpha = 2.5 center = 0 AccFactor = 4 SSIM: 0.739446
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 4 finished in 39045 ms
+Alpha = 3 center = 0 AccFactor = 4 PSNR: 17.6139
+Alpha = 3 center = 0 AccFactor = 4 SSIM: 0.761045
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 4 finished in 38886 ms
+Alpha = 3.5 center = 0 AccFactor = 4 PSNR: 15.2024
+Alpha = 3.5 center = 0 AccFactor = 4 SSIM: 0.589887
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 4 finished in 38998 ms
+Alpha = 4 center = 0 AccFactor = 4 PSNR: 17.7316
+Alpha = 4 center = 0 AccFactor = 4 SSIM: 0.747916
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 4 finished in 38715 ms
+Alpha = 4.5 center = 0 AccFactor = 4 PSNR: 19.2736
+Alpha = 4.5 center = 0 AccFactor = 4 SSIM: 0.830667
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 4 finished in 38953 ms
+Alpha = 5 center = 0 AccFactor = 4 PSNR: 18.8491
+Alpha = 5 center = 0 AccFactor = 4 SSIM: 0.806511
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 4 finished in 38416 ms
+Alpha = 0 center = 1 AccFactor = 4 PSNR: 23.1926
+Alpha = 0 center = 1 AccFactor = 4 SSIM: 0.931971
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 4 finished in 38547 ms
+Alpha = 0.5 center = 1 AccFactor = 4 PSNR: 23.486
+Alpha = 0.5 center = 1 AccFactor = 4 SSIM: 0.939395
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 4 finished in 38705 ms
+Alpha = 1 center = 1 AccFactor = 4 PSNR: 23.3783
+Alpha = 1 center = 1 AccFactor = 4 SSIM: 0.94071
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 4 finished in 38507 ms
+Alpha = 1.5 center = 1 AccFactor = 4 PSNR: 20.1118
+Alpha = 1.5 center = 1 AccFactor = 4 SSIM: 0.860999
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 4 finished in 38437 ms
+Alpha = 2 center = 1 AccFactor = 4 PSNR: 22.9644
+Alpha = 2 center = 1 AccFactor = 4 SSIM: 0.928781
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 4 finished in 38357 ms
+Alpha = 2.5 center = 1 AccFactor = 4 PSNR: 16.1687
+Alpha = 2.5 center = 1 AccFactor = 4 SSIM: 0.661465
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 4 finished in 38154 ms
+Alpha = 3 center = 1 AccFactor = 4 PSNR: 21.8944
+Alpha = 3 center = 1 AccFactor = 4 SSIM: 0.914725
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 4 finished in 38429 ms
+Alpha = 3.5 center = 1 AccFactor = 4 PSNR: 19.9366
+Alpha = 3.5 center = 1 AccFactor = 4 SSIM: 0.871103
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 4 finished in 40180 ms
+Alpha = 4 center = 1 AccFactor = 4 PSNR: 14.4708
+Alpha = 4 center = 1 AccFactor = 4 SSIM: 0.486413
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 4 finished in 38668 ms
+Alpha = 4.5 center = 1 AccFactor = 4 PSNR: 20.3355
+Alpha = 4.5 center = 1 AccFactor = 4 SSIM: 0.876364
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 4 finished in 38942 ms
+Alpha = 5 center = 1 AccFactor = 4 PSNR: 13.3783
+Alpha = 5 center = 1 AccFactor = 4 SSIM: 0.383887
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 4 finished in 40533 ms
+Alpha = 0 center = 2 AccFactor = 4 PSNR: 23.7651
+Alpha = 0 center = 2 AccFactor = 4 SSIM: 0.944369
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 4 finished in 38607 ms
+Alpha = 0.5 center = 2 AccFactor = 4 PSNR: 23.1003
+Alpha = 0.5 center = 2 AccFactor = 4 SSIM: 0.935828
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 4 finished in 39091 ms
+Alpha = 1 center = 2 AccFactor = 4 PSNR: 24.6682
+Alpha = 1 center = 2 AccFactor = 4 SSIM: 0.95492
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 4 finished in 39155 ms
+Alpha = 1.5 center = 2 AccFactor = 4 PSNR: 22.218
+Alpha = 1.5 center = 2 AccFactor = 4 SSIM: 0.920199
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 4 finished in 38625 ms
+Alpha = 2 center = 2 AccFactor = 4 PSNR: 24.6717
+Alpha = 2 center = 2 AccFactor = 4 SSIM: 0.956879
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 4 finished in 39269 ms
+Alpha = 2.5 center = 2 AccFactor = 4 PSNR: 18.8482
+Alpha = 2.5 center = 2 AccFactor = 4 SSIM: 0.819974
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 4 finished in 38813 ms
+Alpha = 3 center = 2 AccFactor = 4 PSNR: 20.7835
+Alpha = 3 center = 2 AccFactor = 4 SSIM: 0.889968
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 4 finished in 39363 ms
+Alpha = 3.5 center = 2 AccFactor = 4 PSNR: 15.7388
+Alpha = 3.5 center = 2 AccFactor = 4 SSIM: 0.646131
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 4 finished in 39170 ms
+Alpha = 4 center = 2 AccFactor = 4 PSNR: 14.6662
+Alpha = 4 center = 2 AccFactor = 4 SSIM: 0.527699
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 4 finished in 39100 ms
+Alpha = 4.5 center = 2 AccFactor = 4 PSNR: 21.3536
+Alpha = 4.5 center = 2 AccFactor = 4 SSIM: 0.904029
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 4 finished in 39168 ms
+Alpha = 5 center = 2 AccFactor = 4 PSNR: 15.3029
+Alpha = 5 center = 2 AccFactor = 4 SSIM: 0.607973
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 4 finished in 38772 ms
+Alpha = 0 center = 3 AccFactor = 4 PSNR: 19.4569
+Alpha = 0 center = 3 AccFactor = 4 SSIM: 0.861421
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 4 finished in 38851 ms
+Alpha = 0.5 center = 3 AccFactor = 4 PSNR: 23.6398
+Alpha = 0.5 center = 3 AccFactor = 4 SSIM: 0.950909
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 4 finished in 39047 ms
+Alpha = 1 center = 3 AccFactor = 4 PSNR: 21.3612
+Alpha = 1 center = 3 AccFactor = 4 SSIM: 0.916952
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 4 finished in 39134 ms
+Alpha = 1.5 center = 3 AccFactor = 4 PSNR: 16.951
+Alpha = 1.5 center = 3 AccFactor = 4 SSIM: 0.728332
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 4 finished in 39543 ms
+Alpha = 2 center = 3 AccFactor = 4 PSNR: 23.1067
+Alpha = 2 center = 3 AccFactor = 4 SSIM: 0.936398
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 4 finished in 39022 ms
+Alpha = 2.5 center = 3 AccFactor = 4 PSNR: 14.3009
+Alpha = 2.5 center = 3 AccFactor = 4 SSIM: 0.499572
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 4 finished in 39226 ms
+Alpha = 3 center = 3 AccFactor = 4 PSNR: 14.6483
+Alpha = 3 center = 3 AccFactor = 4 SSIM: 0.545505
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 4 finished in 39259 ms
+Alpha = 3.5 center = 3 AccFactor = 4 PSNR: 15.7791
+Alpha = 3.5 center = 3 AccFactor = 4 SSIM: 0.653413
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 4 finished in 39086 ms
+Alpha = 4 center = 3 AccFactor = 4 PSNR: 14.3949
+Alpha = 4 center = 3 AccFactor = 4 SSIM: 0.521968
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 4 finished in 39225 ms
+Alpha = 4.5 center = 3 AccFactor = 4 PSNR: 14.5441
+Alpha = 4.5 center = 3 AccFactor = 4 SSIM: 0.533813
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 4 finished in 38919 ms
+Alpha = 5 center = 3 AccFactor = 4 PSNR: 15.1544
+Alpha = 5 center = 3 AccFactor = 4 SSIM: 0.601738
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 4 finished in 38896 ms
+Alpha = 0 center = 4 AccFactor = 4 PSNR: 18.8665
+Alpha = 0 center = 4 AccFactor = 4 SSIM: 0.820693
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 4 finished in 38558 ms
+Alpha = 0.5 center = 4 AccFactor = 4 PSNR: 14.5838
+Alpha = 0.5 center = 4 AccFactor = 4 SSIM: 0.522073
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 4 finished in 38519 ms
+Alpha = 1 center = 4 AccFactor = 4 PSNR: 15.2814
+Alpha = 1 center = 4 AccFactor = 4 SSIM: 0.600422
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 4 finished in 38941 ms
+Alpha = 1.5 center = 4 AccFactor = 4 PSNR: 15.5858
+Alpha = 1.5 center = 4 AccFactor = 4 SSIM: 0.624932
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 4 finished in 39307 ms
+Alpha = 2 center = 4 AccFactor = 4 PSNR: 15.7172
+Alpha = 2 center = 4 AccFactor = 4 SSIM: 0.637811
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 4 finished in 38697 ms
+Alpha = 2.5 center = 4 AccFactor = 4 PSNR: 20.4486
+Alpha = 2.5 center = 4 AccFactor = 4 SSIM: 0.87703
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 4 finished in 38626 ms
+Alpha = 3 center = 4 AccFactor = 4 PSNR: 23.3731
+Alpha = 3 center = 4 AccFactor = 4 SSIM: 0.9371
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 4 finished in 38594 ms
+Alpha = 3.5 center = 4 AccFactor = 4 PSNR: 13.709
+Alpha = 3.5 center = 4 AccFactor = 4 SSIM: 0.431279
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 4 finished in 38668 ms
+Alpha = 4 center = 4 AccFactor = 4 PSNR: 16.8487
+Alpha = 4 center = 4 AccFactor = 4 SSIM: 0.724041
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 4 finished in 38668 ms
+Alpha = 4.5 center = 4 AccFactor = 4 PSNR: 11.9932
+Alpha = 4.5 center = 4 AccFactor = 4 SSIM: 0.18021
+
+Num of Samples = 16
+Alpha = 5 center = 0.21 AccFactor = 4 finished in 38884 ms
+Alpha = 5 center = 4 AccFactor = 4 PSNR: 12.6855
+Alpha = 5 center = 4 AccFactor = 4 SSIM: 0.269272
+
+Num of Samples = 25
+Alpha = 0 center = 0.26 AccFactor = 4 finished in 39626 ms
+Alpha = 0 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 0 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 0.5 center = 0.26 AccFactor = 4 finished in 39863 ms
+Alpha = 0.5 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 0.5 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 1 center = 0.26 AccFactor = 4 finished in 39763 ms
+Alpha = 1 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 1 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 1.5 center = 0.26 AccFactor = 4 finished in 39952 ms
+Alpha = 1.5 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 1.5 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 2 center = 0.26 AccFactor = 4 finished in 39963 ms
+Alpha = 2 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 2 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 2.5 center = 0.26 AccFactor = 4 finished in 39829 ms
+Alpha = 2.5 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 2.5 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 3 center = 0.26 AccFactor = 4 finished in 39978 ms
+Alpha = 3 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 3 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 3.5 center = 0.26 AccFactor = 4 finished in 40420 ms
+Alpha = 3.5 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 3.5 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 4 center = 0.26 AccFactor = 4 finished in 40001 ms
+Alpha = 4 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 4 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 4.5 center = 0.26 AccFactor = 4 finished in 39974 ms
+Alpha = 4.5 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 4.5 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 5 center = 0.26 AccFactor = 4 finished in 39916 ms
+Alpha = 5 center = 5 AccFactor = 4 PSNR: 12.4761
+Alpha = 5 center = 5 AccFactor = 4 SSIM: 0.257183
+
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 4.5 finished in 36026 ms
+Alpha = 0 center = 0 AccFactor = 4.5 PSNR: 19.0773
+Alpha = 0 center = 0 AccFactor = 4.5 SSIM: 0.820978
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 4.5 finished in 35975 ms
+Alpha = 0.5 center = 0 AccFactor = 4.5 PSNR: 19.5438
+Alpha = 0.5 center = 0 AccFactor = 4.5 SSIM: 0.846974
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 4.5 finished in 36479 ms
+Alpha = 1 center = 0 AccFactor = 4.5 PSNR: 18.5338
+Alpha = 1 center = 0 AccFactor = 4.5 SSIM: 0.803724
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 4.5 finished in 36270 ms
+Alpha = 1.5 center = 0 AccFactor = 4.5 PSNR: 19.0899
+Alpha = 1.5 center = 0 AccFactor = 4.5 SSIM: 0.822124
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 4.5 finished in 36326 ms
+Alpha = 2 center = 0 AccFactor = 4.5 PSNR: 18.1222
+Alpha = 2 center = 0 AccFactor = 4.5 SSIM: 0.772981
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 4.5 finished in 36033 ms
+Alpha = 2.5 center = 0 AccFactor = 4.5 PSNR: 19.7366
+Alpha = 2.5 center = 0 AccFactor = 4.5 SSIM: 0.852102
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 4.5 finished in 36228 ms
+Alpha = 3 center = 0 AccFactor = 4.5 PSNR: 16.5113
+Alpha = 3 center = 0 AccFactor = 4.5 SSIM: 0.671362
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 4.5 finished in 36025 ms
+Alpha = 3.5 center = 0 AccFactor = 4.5 PSNR: 16.1012
+Alpha = 3.5 center = 0 AccFactor = 4.5 SSIM: 0.647431
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 4.5 finished in 35836 ms
+Alpha = 4 center = 0 AccFactor = 4.5 PSNR: 17.2897
+Alpha = 4 center = 0 AccFactor = 4.5 SSIM: 0.729922
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 4.5 finished in 36003 ms
+Alpha = 4.5 center = 0 AccFactor = 4.5 PSNR: 18.503
+Alpha = 4.5 center = 0 AccFactor = 4.5 SSIM: 0.8052
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 4.5 finished in 36123 ms
+Alpha = 5 center = 0 AccFactor = 4.5 PSNR: 15.2869
+Alpha = 5 center = 0 AccFactor = 4.5 SSIM: 0.602715
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 4.5 finished in 35628 ms
+Alpha = 0 center = 1 AccFactor = 4.5 PSNR: 21.9888
+Alpha = 0 center = 1 AccFactor = 4.5 SSIM: 0.906818
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 4.5 finished in 35564 ms
+Alpha = 0.5 center = 1 AccFactor = 4.5 PSNR: 22.3888
+Alpha = 0.5 center = 1 AccFactor = 4.5 SSIM: 0.923452
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 4.5 finished in 35769 ms
+Alpha = 1 center = 1 AccFactor = 4.5 PSNR: 23.8967
+Alpha = 1 center = 1 AccFactor = 4.5 SSIM: 0.945406
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 4.5 finished in 35548 ms
+Alpha = 1.5 center = 1 AccFactor = 4.5 PSNR: 21.2196
+Alpha = 1.5 center = 1 AccFactor = 4.5 SSIM: 0.894873
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 4.5 finished in 35831 ms
+Alpha = 2 center = 1 AccFactor = 4.5 PSNR: 18.9535
+Alpha = 2 center = 1 AccFactor = 4.5 SSIM: 0.810978
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 4.5 finished in 35750 ms
+Alpha = 2.5 center = 1 AccFactor = 4.5 PSNR: 23.9863
+Alpha = 2.5 center = 1 AccFactor = 4.5 SSIM: 0.944176
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 4.5 finished in 35725 ms
+Alpha = 3 center = 1 AccFactor = 4.5 PSNR: 14.6288
+Alpha = 3 center = 1 AccFactor = 4.5 SSIM: 0.54018
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 4.5 finished in 35728 ms
+Alpha = 3.5 center = 1 AccFactor = 4.5 PSNR: 20.2069
+Alpha = 3.5 center = 1 AccFactor = 4.5 SSIM: 0.860975
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 4.5 finished in 35820 ms
+Alpha = 4 center = 1 AccFactor = 4.5 PSNR: 16.9008
+Alpha = 4 center = 1 AccFactor = 4.5 SSIM: 0.713007
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 4.5 finished in 35696 ms
+Alpha = 4.5 center = 1 AccFactor = 4.5 PSNR: 24.381
+Alpha = 4.5 center = 1 AccFactor = 4.5 SSIM: 0.946783
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 4.5 finished in 35638 ms
+Alpha = 5 center = 1 AccFactor = 4.5 PSNR: 14.665
+Alpha = 5 center = 1 AccFactor = 4.5 SSIM: 0.526746
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 4.5 finished in 36165 ms
+Alpha = 0 center = 2 AccFactor = 4.5 PSNR: 22.1924
+Alpha = 0 center = 2 AccFactor = 4.5 SSIM: 0.921521
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 4.5 finished in 36200 ms
+Alpha = 0.5 center = 2 AccFactor = 4.5 PSNR: 21.6446
+Alpha = 0.5 center = 2 AccFactor = 4.5 SSIM: 0.908703
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 4.5 finished in 36614 ms
+Alpha = 1 center = 2 AccFactor = 4.5 PSNR: 24.7264
+Alpha = 1 center = 2 AccFactor = 4.5 SSIM: 0.955566
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 4.5 finished in 36214 ms
+Alpha = 1.5 center = 2 AccFactor = 4.5 PSNR: 24.0875
+Alpha = 1.5 center = 2 AccFactor = 4.5 SSIM: 0.947647
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 4.5 finished in 36524 ms
+Alpha = 2 center = 2 AccFactor = 4.5 PSNR: 20.9376
+Alpha = 2 center = 2 AccFactor = 4.5 SSIM: 0.89155
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 4.5 finished in 36417 ms
+Alpha = 2.5 center = 2 AccFactor = 4.5 PSNR: 16.8493
+Alpha = 2.5 center = 2 AccFactor = 4.5 SSIM: 0.721559
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 4.5 finished in 36190 ms
+Alpha = 3 center = 2 AccFactor = 4.5 PSNR: 24.8499
+Alpha = 3 center = 2 AccFactor = 4.5 SSIM: 0.958303
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 4.5 finished in 36067 ms
+Alpha = 3.5 center = 2 AccFactor = 4.5 PSNR: 17.1254
+Alpha = 3.5 center = 2 AccFactor = 4.5 SSIM: 0.735831
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 4.5 finished in 36307 ms
+Alpha = 4 center = 2 AccFactor = 4.5 PSNR: 14.9366
+Alpha = 4 center = 2 AccFactor = 4.5 SSIM: 0.552993
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 4.5 finished in 36731 ms
+Alpha = 4.5 center = 2 AccFactor = 4.5 PSNR: 17.211
+Alpha = 4.5 center = 2 AccFactor = 4.5 SSIM: 0.747964
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 4.5 finished in 36528 ms
+Alpha = 5 center = 2 AccFactor = 4.5 PSNR: 12.8191
+Alpha = 5 center = 2 AccFactor = 4.5 SSIM: 0.319159
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 4.5 finished in 35981 ms
+Alpha = 0 center = 3 AccFactor = 4.5 PSNR: 22.3819
+Alpha = 0 center = 3 AccFactor = 4.5 SSIM: 0.935567
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 4.5 finished in 36219 ms
+Alpha = 0.5 center = 3 AccFactor = 4.5 PSNR: 18.6482
+Alpha = 0.5 center = 3 AccFactor = 4.5 SSIM: 0.824668
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 4.5 finished in 36101 ms
+Alpha = 1 center = 3 AccFactor = 4.5 PSNR: 23.0958
+Alpha = 1 center = 3 AccFactor = 4.5 SSIM: 0.949024
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 4.5 finished in 36284 ms
+Alpha = 1.5 center = 3 AccFactor = 4.5 PSNR: 18.9847
+Alpha = 1.5 center = 3 AccFactor = 4.5 SSIM: 0.842857
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 4.5 finished in 36330 ms
+Alpha = 2 center = 3 AccFactor = 4.5 PSNR: 16.8101
+Alpha = 2 center = 3 AccFactor = 4.5 SSIM: 0.728004
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 4.5 finished in 36616 ms
+Alpha = 2.5 center = 3 AccFactor = 4.5 PSNR: 25.3687
+Alpha = 2.5 center = 3 AccFactor = 4.5 SSIM: 0.96965
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 4.5 finished in 36679 ms
+Alpha = 3 center = 3 AccFactor = 4.5 PSNR: 21.0502
+Alpha = 3 center = 3 AccFactor = 4.5 SSIM: 0.900775
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 4.5 finished in 36253 ms
+Alpha = 3.5 center = 3 AccFactor = 4.5 PSNR: 12.9458
+Alpha = 3.5 center = 3 AccFactor = 4.5 SSIM: 0.348601
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 4.5 finished in 35933 ms
+Alpha = 4 center = 3 AccFactor = 4.5 PSNR: 16.7665
+Alpha = 4 center = 3 AccFactor = 4.5 SSIM: 0.727701
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 4.5 finished in 36300 ms
+Alpha = 4.5 center = 3 AccFactor = 4.5 PSNR: 17.3483
+Alpha = 4.5 center = 3 AccFactor = 4.5 SSIM: 0.759175
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 4.5 finished in 36237 ms
+Alpha = 5 center = 3 AccFactor = 4.5 PSNR: 13.4385
+Alpha = 5 center = 3 AccFactor = 4.5 SSIM: 0.389673
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 4.5 finished in 35894 ms
+Alpha = 0 center = 4 AccFactor = 4.5 PSNR: 14.1048
+Alpha = 0 center = 4 AccFactor = 4.5 SSIM: 0.459536
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 4.5 finished in 35919 ms
+Alpha = 0.5 center = 4 AccFactor = 4.5 PSNR: 18.8191
+Alpha = 0.5 center = 4 AccFactor = 4.5 SSIM: 0.820763
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 4.5 finished in 36166 ms
+Alpha = 1 center = 4 AccFactor = 4.5 PSNR: 15.984
+Alpha = 1 center = 4 AccFactor = 4.5 SSIM: 0.652143
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 4.5 finished in 35985 ms
+Alpha = 1.5 center = 4 AccFactor = 4.5 PSNR: 13.9105
+Alpha = 1.5 center = 4 AccFactor = 4.5 SSIM: 0.441246
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 4.5 finished in 36065 ms
+Alpha = 2 center = 4 AccFactor = 4.5 PSNR: 16.2923
+Alpha = 2 center = 4 AccFactor = 4.5 SSIM: 0.68025
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 4.5 finished in 35997 ms
+Alpha = 2.5 center = 4 AccFactor = 4.5 PSNR: 15.2371
+Alpha = 2.5 center = 4 AccFactor = 4.5 SSIM: 0.589689
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 4.5 finished in 35865 ms
+Alpha = 3 center = 4 AccFactor = 4.5 PSNR: 14.2995
+Alpha = 3 center = 4 AccFactor = 4.5 SSIM: 0.488024
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 4.5 finished in 35891 ms
+Alpha = 3.5 center = 4 AccFactor = 4.5 PSNR: 13.0993
+Alpha = 3.5 center = 4 AccFactor = 4.5 SSIM: 0.337342
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 4.5 finished in 35762 ms
+Alpha = 4 center = 4 AccFactor = 4.5 PSNR: 15.9611
+Alpha = 4 center = 4 AccFactor = 4.5 SSIM: 0.652056
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 4.5 finished in 35855 ms
+Alpha = 4.5 center = 4 AccFactor = 4.5 PSNR: 12.859
+Alpha = 4.5 center = 4 AccFactor = 4.5 SSIM: 0.292275
+
+Num of Samples = 16
+Alpha = 5 center = 0.21 AccFactor = 4.5 finished in 35858 ms
+Alpha = 5 center = 4 AccFactor = 4.5 PSNR: 13.5571
+Alpha = 5 center = 4 AccFactor = 4.5 SSIM: 0.39716
+
+Num of Samples = 25
+Alpha = 0 center = 0.26 AccFactor = 4.5 finished in 40066 ms
+Alpha = 0 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 0 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 0.5 center = 0.26 AccFactor = 4.5 finished in 40158 ms
+Alpha = 0.5 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 0.5 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 1 center = 0.26 AccFactor = 4.5 finished in 39757 ms
+Alpha = 1 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 1 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 1.5 center = 0.26 AccFactor = 4.5 finished in 40010 ms
+Alpha = 1.5 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 1.5 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 2 center = 0.26 AccFactor = 4.5 finished in 40272 ms
+Alpha = 2 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 2 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 2.5 center = 0.26 AccFactor = 4.5 finished in 40153 ms
+Alpha = 2.5 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 2.5 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 3 center = 0.26 AccFactor = 4.5 finished in 40197 ms
+Alpha = 3 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 3 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 3.5 center = 0.26 AccFactor = 4.5 finished in 40466 ms
+Alpha = 3.5 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 3.5 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 4 center = 0.26 AccFactor = 4.5 finished in 40019 ms
+Alpha = 4 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 4 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 4.5 center = 0.26 AccFactor = 4.5 finished in 40375 ms
+Alpha = 4.5 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 4.5 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 25
+Alpha = 5 center = 0.26 AccFactor = 4.5 finished in 40031 ms
+Alpha = 5 center = 5 AccFactor = 4.5 PSNR: 12.4761
+Alpha = 5 center = 5 AccFactor = 4.5 SSIM: 0.257183
+
+Num of Samples = 0
+Alpha = 0 center = 0.01 AccFactor = 5 finished in 34569 ms
+Alpha = 0 center = 0 AccFactor = 5 PSNR: 17.9542
+Alpha = 0 center = 0 AccFactor = 5 SSIM: 0.766622
+
+Num of Samples = 0
+Alpha = 0.5 center = 0.01 AccFactor = 5 finished in 34726 ms
+Alpha = 0.5 center = 0 AccFactor = 5 PSNR: 17.7797
+Alpha = 0.5 center = 0 AccFactor = 5 SSIM: 0.759998
+
+Num of Samples = 0
+Alpha = 1 center = 0.01 AccFactor = 5 finished in 34861 ms
+Alpha = 1 center = 0 AccFactor = 5 PSNR: 19.7762
+Alpha = 1 center = 0 AccFactor = 5 SSIM: 0.852564
+
+Num of Samples = 0
+Alpha = 1.5 center = 0.01 AccFactor = 5 finished in 34788 ms
+Alpha = 1.5 center = 0 AccFactor = 5 PSNR: 18.1329
+Alpha = 1.5 center = 0 AccFactor = 5 SSIM: 0.787774
+
+Num of Samples = 0
+Alpha = 2 center = 0.01 AccFactor = 5 finished in 34842 ms
+Alpha = 2 center = 0 AccFactor = 5 PSNR: 18.3298
+Alpha = 2 center = 0 AccFactor = 5 SSIM: 0.785297
+
+Num of Samples = 0
+Alpha = 2.5 center = 0.01 AccFactor = 5 finished in 34911 ms
+Alpha = 2.5 center = 0 AccFactor = 5 PSNR: 18.6356
+Alpha = 2.5 center = 0 AccFactor = 5 SSIM: 0.814151
+
+Num of Samples = 0
+Alpha = 3 center = 0.01 AccFactor = 5 finished in 34682 ms
+Alpha = 3 center = 0 AccFactor = 5 PSNR: 16.3362
+Alpha = 3 center = 0 AccFactor = 5 SSIM: 0.65824
+
+Num of Samples = 0
+Alpha = 3.5 center = 0.01 AccFactor = 5 finished in 34514 ms
+Alpha = 3.5 center = 0 AccFactor = 5 PSNR: 17.1212
+Alpha = 3.5 center = 0 AccFactor = 5 SSIM: 0.713356
+
+Num of Samples = 0
+Alpha = 4 center = 0.01 AccFactor = 5 finished in 34472 ms
+Alpha = 4 center = 0 AccFactor = 5 PSNR: 12.9346
+Alpha = 4 center = 0 AccFactor = 5 SSIM: 0.301662
+
+Num of Samples = 0
+Alpha = 4.5 center = 0.01 AccFactor = 5 finished in 34445 ms
+Alpha = 4.5 center = 0 AccFactor = 5 PSNR: 15.6436
+Alpha = 4.5 center = 0 AccFactor = 5 SSIM: 0.581376
+
+Num of Samples = 0
+Alpha = 5 center = 0.01 AccFactor = 5 finished in 34463 ms
+Alpha = 5 center = 0 AccFactor = 5 PSNR: 16.3869
+Alpha = 5 center = 0 AccFactor = 5 SSIM: 0.683137
+
+Num of Samples = 1
+Alpha = 0 center = 0.06 AccFactor = 5 finished in 34181 ms
+Alpha = 0 center = 1 AccFactor = 5 PSNR: 22.8287
+Alpha = 0 center = 1 AccFactor = 5 SSIM: 0.928332
+
+Num of Samples = 1
+Alpha = 0.5 center = 0.06 AccFactor = 5 finished in 34382 ms
+Alpha = 0.5 center = 1 AccFactor = 5 PSNR: 22.0496
+Alpha = 0.5 center = 1 AccFactor = 5 SSIM: 0.910265
+
+Num of Samples = 1
+Alpha = 1 center = 0.06 AccFactor = 5 finished in 34518 ms
+Alpha = 1 center = 1 AccFactor = 5 PSNR: 23.776
+Alpha = 1 center = 1 AccFactor = 5 SSIM: 0.945321
+
+Num of Samples = 1
+Alpha = 1.5 center = 0.06 AccFactor = 5 finished in 34237 ms
+Alpha = 1.5 center = 1 AccFactor = 5 PSNR: 23.3165
+Alpha = 1.5 center = 1 AccFactor = 5 SSIM: 0.932633
+
+Num of Samples = 1
+Alpha = 2 center = 0.06 AccFactor = 5 finished in 34665 ms
+Alpha = 2 center = 1 AccFactor = 5 PSNR: 22.3484
+Alpha = 2 center = 1 AccFactor = 5 SSIM: 0.920585
+
+Num of Samples = 1
+Alpha = 2.5 center = 0.06 AccFactor = 5 finished in 33948 ms
+Alpha = 2.5 center = 1 AccFactor = 5 PSNR: 19.8779
+Alpha = 2.5 center = 1 AccFactor = 5 SSIM: 0.852558
+
+Num of Samples = 1
+Alpha = 3 center = 0.06 AccFactor = 5 finished in 34477 ms
+Alpha = 3 center = 1 AccFactor = 5 PSNR: 16.5594
+Alpha = 3 center = 1 AccFactor = 5 SSIM: 0.685442
+
+Num of Samples = 1
+Alpha = 3.5 center = 0.06 AccFactor = 5 finished in 34080 ms
+Alpha = 3.5 center = 1 AccFactor = 5 PSNR: 23.3103
+Alpha = 3.5 center = 1 AccFactor = 5 SSIM: 0.941922
+
+Num of Samples = 1
+Alpha = 4 center = 0.06 AccFactor = 5 finished in 34177 ms
+Alpha = 4 center = 1 AccFactor = 5 PSNR: 19.4064
+Alpha = 4 center = 1 AccFactor = 5 SSIM: 0.833653
+
+Num of Samples = 1
+Alpha = 4.5 center = 0.06 AccFactor = 5 finished in 34264 ms
+Alpha = 4.5 center = 1 AccFactor = 5 PSNR: 15.3925
+Alpha = 4.5 center = 1 AccFactor = 5 SSIM: 0.589578
+
+Num of Samples = 1
+Alpha = 5 center = 0.06 AccFactor = 5 finished in 34348 ms
+Alpha = 5 center = 1 AccFactor = 5 PSNR: 18.8555
+Alpha = 5 center = 1 AccFactor = 5 SSIM: 0.822279
+
+Num of Samples = 4
+Alpha = 0 center = 0.11 AccFactor = 5 finished in 34528 ms
+Alpha = 0 center = 2 AccFactor = 5 PSNR: 24.1965
+Alpha = 0 center = 2 AccFactor = 5 SSIM: 0.950151
+
+Num of Samples = 4
+Alpha = 0.5 center = 0.11 AccFactor = 5 finished in 34651 ms
+Alpha = 0.5 center = 2 AccFactor = 5 PSNR: 20.9233
+Alpha = 0.5 center = 2 AccFactor = 5 SSIM: 0.892966
+
+Num of Samples = 4
+Alpha = 1 center = 0.11 AccFactor = 5 finished in 34493 ms
+Alpha = 1 center = 2 AccFactor = 5 PSNR: 23.8335
+Alpha = 1 center = 2 AccFactor = 5 SSIM: 0.944355
+
+Num of Samples = 4
+Alpha = 1.5 center = 0.11 AccFactor = 5 finished in 34404 ms
+Alpha = 1.5 center = 2 AccFactor = 5 PSNR: 21.6712
+Alpha = 1.5 center = 2 AccFactor = 5 SSIM: 0.907382
+
+Num of Samples = 4
+Alpha = 2 center = 0.11 AccFactor = 5 finished in 34692 ms
+Alpha = 2 center = 2 AccFactor = 5 PSNR: 17.9142
+Alpha = 2 center = 2 AccFactor = 5 SSIM: 0.785263
+
+Num of Samples = 4
+Alpha = 2.5 center = 0.11 AccFactor = 5 finished in 34510 ms
+Alpha = 2.5 center = 2 AccFactor = 5 PSNR: 14.4062
+Alpha = 2.5 center = 2 AccFactor = 5 SSIM: 0.496048
+
+Num of Samples = 4
+Alpha = 3 center = 0.11 AccFactor = 5 finished in 34295 ms
+Alpha = 3 center = 2 AccFactor = 5 PSNR: 16.2532
+Alpha = 3 center = 2 AccFactor = 5 SSIM: 0.679285
+
+Num of Samples = 4
+Alpha = 3.5 center = 0.11 AccFactor = 5 finished in 34686 ms
+Alpha = 3.5 center = 2 AccFactor = 5 PSNR: 15.9822
+Alpha = 3.5 center = 2 AccFactor = 5 SSIM: 0.652652
+
+Num of Samples = 4
+Alpha = 4 center = 0.11 AccFactor = 5 finished in 34613 ms
+Alpha = 4 center = 2 AccFactor = 5 PSNR: 15.241
+Alpha = 4 center = 2 AccFactor = 5 SSIM: 0.589015
+
+Num of Samples = 4
+Alpha = 4.5 center = 0.11 AccFactor = 5 finished in 34873 ms
+Alpha = 4.5 center = 2 AccFactor = 5 PSNR: 16.8969
+Alpha = 4.5 center = 2 AccFactor = 5 SSIM: 0.721905
+
+Num of Samples = 4
+Alpha = 5 center = 0.11 AccFactor = 5 finished in 34755 ms
+Alpha = 5 center = 2 AccFactor = 5 PSNR: 16.079
+Alpha = 5 center = 2 AccFactor = 5 SSIM: 0.676768
+
+Num of Samples = 9
+Alpha = 0 center = 0.16 AccFactor = 5 finished in 34435 ms
+Alpha = 0 center = 3 AccFactor = 5 PSNR: 22.3162
+Alpha = 0 center = 3 AccFactor = 5 SSIM: 0.935264
+
+Num of Samples = 9
+Alpha = 0.5 center = 0.16 AccFactor = 5 finished in 34722 ms
+Alpha = 0.5 center = 3 AccFactor = 5 PSNR: 14.619
+Alpha = 0.5 center = 3 AccFactor = 5 SSIM: 0.534334
+
+Num of Samples = 9
+Alpha = 1 center = 0.16 AccFactor = 5 finished in 34646 ms
+Alpha = 1 center = 3 AccFactor = 5 PSNR: 13.4026
+Alpha = 1 center = 3 AccFactor = 5 SSIM: 0.398038
+
+Num of Samples = 9
+Alpha = 1.5 center = 0.16 AccFactor = 5 finished in 34572 ms
+Alpha = 1.5 center = 3 AccFactor = 5 PSNR: 14.9777
+Alpha = 1.5 center = 3 AccFactor = 5 SSIM: 0.579725
+
+Num of Samples = 9
+Alpha = 2 center = 0.16 AccFactor = 5 finished in 34933 ms
+Alpha = 2 center = 3 AccFactor = 5 PSNR: 13.3444
+Alpha = 2 center = 3 AccFactor = 5 SSIM: 0.389371
+
+Num of Samples = 9
+Alpha = 2.5 center = 0.16 AccFactor = 5 finished in 34542 ms
+Alpha = 2.5 center = 3 AccFactor = 5 PSNR: 15.5244
+Alpha = 2.5 center = 3 AccFactor = 5 SSIM: 0.639713
+
+Num of Samples = 9
+Alpha = 3 center = 0.16 AccFactor = 5 finished in 34791 ms
+Alpha = 3 center = 3 AccFactor = 5 PSNR: 18.5861
+Alpha = 3 center = 3 AccFactor = 5 SSIM: 0.824694
+
+Num of Samples = 9
+Alpha = 3.5 center = 0.16 AccFactor = 5 finished in 34667 ms
+Alpha = 3.5 center = 3 AccFactor = 5 PSNR: 18.2774
+Alpha = 3.5 center = 3 AccFactor = 5 SSIM: 0.807306
+
+Num of Samples = 9
+Alpha = 4 center = 0.16 AccFactor = 5 finished in 34764 ms
+Alpha = 4 center = 3 AccFactor = 5 PSNR: 13.1211
+Alpha = 4 center = 3 AccFactor = 5 SSIM: 0.349858
+
+Num of Samples = 9
+Alpha = 4.5 center = 0.16 AccFactor = 5 finished in 34415 ms
+Alpha = 4.5 center = 3 AccFactor = 5 PSNR: 12.6413
+Alpha = 4.5 center = 3 AccFactor = 5 SSIM: 0.292917
+
+Num of Samples = 9
+Alpha = 5 center = 0.16 AccFactor = 5 finished in 34571 ms
+Alpha = 5 center = 3 AccFactor = 5 PSNR: 13.7179
+Alpha = 5 center = 3 AccFactor = 5 SSIM: 0.442305
+
+Num of Samples = 16
+Alpha = 0 center = 0.21 AccFactor = 5 finished in 35017 ms
+Alpha = 0 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 0 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 0.5 center = 0.21 AccFactor = 5 finished in 34870 ms
+Alpha = 0.5 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 0.5 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 1 center = 0.21 AccFactor = 5 finished in 35090 ms
+Alpha = 1 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 1 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 1.5 center = 0.21 AccFactor = 5 finished in 35070 ms
+Alpha = 1.5 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 1.5 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 2 center = 0.21 AccFactor = 5 finished in 34911 ms
+Alpha = 2 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 2 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 2.5 center = 0.21 AccFactor = 5 finished in 35021 ms
+Alpha = 2.5 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 2.5 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 3 center = 0.21 AccFactor = 5 finished in 35101 ms
+Alpha = 3 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 3 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 3.5 center = 0.21 AccFactor = 5 finished in 34443 ms
+Alpha = 3.5 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 3.5 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 4 center = 0.21 AccFactor = 5 finished in 34737 ms
+Alpha = 4 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 4 center = 4 AccFactor = 5 SSIM: 0.224525
+
+Num of Samples = 16
+Alpha = 4.5 center = 0.21 AccFactor = 5 finished in 35084 ms
+Alpha = 4.5 center = 4 AccFactor = 5 PSNR: 12.319
+Alpha = 4.5 center = 4 AccFactor = 5 SSIM: 0.224525
+

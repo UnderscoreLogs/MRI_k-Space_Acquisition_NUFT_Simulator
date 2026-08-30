@@ -1,0 +1,54 @@
+Number of samples = 10000
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 2 finished in 90791 ms
+Num of Wraps = 2 PSNR: 14.2638
+Num of Wraps = 2 SSIM: 0.30216
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 4 finished in 89957 ms
+Num of Wraps = 4 PSNR: 13.8259
+Num of Wraps = 4 SSIM: 0.22897
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 8 finished in 90285 ms
+Num of Wraps = 8 PSNR: 13.5756
+Num of Wraps = 8 SSIM: 0.272129
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 16 finished in 90582 ms
+Num of Wraps = 16 PSNR: 12.9651
+Num of Wraps = 16 SSIM: 0.187757
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 32 finished in 91014 ms
+Num of Wraps = 32 PSNR: 12.4235
+Num of Wraps = 32 SSIM: 0.227994
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 64 finished in 91406 ms
+Num of Wraps = 64 PSNR: 14.9693
+Num of Wraps = 64 SSIM: 0.652565
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 128 finished in 91745 ms
+Num of Wraps = 128 PSNR: 16.8372
+Num of Wraps = 128 SSIM: 0.667921
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 256 finished in 91729 ms
+Num of Wraps = 256 PSNR: 17.3417
+Num of Wraps = 256 SSIM: 0.680769
+
+Foward Transform Started.
+k-Space Constructed.
+Num of Wraps = 512 finished in 91853 ms
+Num of Wraps = 512 PSNR: 17.5072
+Num of Wraps = 512 SSIM: 0.660188

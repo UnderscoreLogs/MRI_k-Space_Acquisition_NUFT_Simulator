@@ -1,0 +1,393 @@
+Vector size: 256 x 256
+Number of samples = 16384
+Num of Wraps = 1Num of Interleaves = 1 finished in 37765 ms
+Num of Wraps = 1Num of Interleaves = 1 PSNR: 12.0718
+Num of Wraps = 1Num of Interleaves = 1 SSIM: 0.207551
+
+Num of Wraps = 2Num of Interleaves = 1 finished in 36056 ms
+Num of Wraps = 2Num of Interleaves = 1 PSNR: 13.256
+Num of Wraps = 2Num of Interleaves = 1 SSIM: 0.21053
+
+Num of Wraps = 4Num of Interleaves = 1 finished in 36269 ms
+Num of Wraps = 4Num of Interleaves = 1 PSNR: 13.6028
+Num of Wraps = 4Num of Interleaves = 1 SSIM: 0.15797
+
+Num of Wraps = 8Num of Interleaves = 1 finished in 36710 ms
+Num of Wraps = 8Num of Interleaves = 1 PSNR: 13.9208
+Num of Wraps = 8Num of Interleaves = 1 SSIM: 0.239788
+
+Num of Wraps = 16Num of Interleaves = 1 finished in 36251 ms
+Num of Wraps = 16Num of Interleaves = 1 PSNR: 13.6891
+Num of Wraps = 16Num of Interleaves = 1 SSIM: 0.21317
+
+Num of Wraps = 32Num of Interleaves = 1 finished in 36429 ms
+Num of Wraps = 32Num of Interleaves = 1 PSNR: 14.408
+Num of Wraps = 32Num of Interleaves = 1 SSIM: 0.416971
+
+Num of Wraps = 64Num of Interleaves = 1 finished in 36393 ms
+Num of Wraps = 64Num of Interleaves = 1 PSNR: 13.4461
+Num of Wraps = 64Num of Interleaves = 1 SSIM: 0.552645
+
+Num of Wraps = 128Num of Interleaves = 1 finished in 36325 ms
+Num of Wraps = 128Num of Interleaves = 1 PSNR: 17.5749
+Num of Wraps = 128Num of Interleaves = 1 SSIM: 0.694981
+
+Num of Wraps = 1Num of Interleaves = 2 finished in 36203 ms
+Num of Wraps = 1Num of Interleaves = 2 PSNR: 10.8913
+Num of Wraps = 1Num of Interleaves = 2 SSIM: 0.195088
+
+Num of Wraps = 2Num of Interleaves = 2 finished in 36758 ms
+Num of Wraps = 2Num of Interleaves = 2 PSNR: 12.3003
+Num of Wraps = 2Num of Interleaves = 2 SSIM: 0.24216
+
+Num of Wraps = 4Num of Interleaves = 2 finished in 36408 ms
+Num of Wraps = 4Num of Interleaves = 2 PSNR: 12.7105
+Num of Wraps = 4Num of Interleaves = 2 SSIM: 0.178325
+
+Num of Wraps = 8Num of Interleaves = 2 finished in 36082 ms
+Num of Wraps = 8Num of Interleaves = 2 PSNR: 13.1811
+Num of Wraps = 8Num of Interleaves = 2 SSIM: 0.251884
+
+Num of Wraps = 16Num of Interleaves = 2 finished in 36598 ms
+Num of Wraps = 16Num of Interleaves = 2 PSNR: 12.7841
+Num of Wraps = 16Num of Interleaves = 2 SSIM: 0.176028
+
+Num of Wraps = 32Num of Interleaves = 2 finished in 36080 ms
+Num of Wraps = 32Num of Interleaves = 2 PSNR: 12.6097
+Num of Wraps = 32Num of Interleaves = 2 SSIM: 0.22489
+
+Num of Wraps = 64Num of Interleaves = 2 finished in 35975 ms
+Num of Wraps = 64Num of Interleaves = 2 PSNR: 13.766
+Num of Wraps = 64Num of Interleaves = 2 SSIM: 0.609701
+
+Num of Wraps = 128Num of Interleaves = 2 finished in 36387 ms
+Num of Wraps = 128Num of Interleaves = 2 PSNR: 16.381
+Num of Wraps = 128Num of Interleaves = 2 SSIM: 0.614484
+
+Num of Wraps = 1Num of Interleaves = 4 finished in 35963 ms
+Num of Wraps = 1Num of Interleaves = 4 PSNR: 13.4921
+Num of Wraps = 1Num of Interleaves = 4 SSIM: 0.302589
+
+Num of Wraps = 2Num of Interleaves = 4 finished in 36262 ms
+Num of Wraps = 2Num of Interleaves = 4 PSNR: 14.2462
+Num of Wraps = 2Num of Interleaves = 4 SSIM: 0.336846
+
+Num of Wraps = 4Num of Interleaves = 4 finished in 36354 ms
+Num of Wraps = 4Num of Interleaves = 4 PSNR: 14.3784
+Num of Wraps = 4Num of Interleaves = 4 SSIM: 0.328978
+
+Num of Wraps = 8Num of Interleaves = 4 finished in 35962 ms
+Num of Wraps = 8Num of Interleaves = 4 PSNR: 15.1527
+Num of Wraps = 8Num of Interleaves = 4 SSIM: 0.426431
+
+Num of Wraps = 16Num of Interleaves = 4 finished in 36372 ms
+Num of Wraps = 16Num of Interleaves = 4 PSNR: 14.8954
+Num of Wraps = 16Num of Interleaves = 4 SSIM: 0.497846
+
+Num of Wraps = 32Num of Interleaves = 4 finished in 36142 ms
+Num of Wraps = 32Num of Interleaves = 4 PSNR: 15.8294
+Num of Wraps = 32Num of Interleaves = 4 SSIM: 0.579375
+
+Num of Wraps = 64Num of Interleaves = 4 finished in 36403 ms
+Num of Wraps = 64Num of Interleaves = 4 PSNR: 16.3971
+Num of Wraps = 64Num of Interleaves = 4 SSIM: 0.616964
+
+Num of Wraps = 128Num of Interleaves = 4 finished in 36813 ms
+Num of Wraps = 128Num of Interleaves = 4 PSNR: 16.0462
+Num of Wraps = 128Num of Interleaves = 4 SSIM: 0.512938
+
+Num of Wraps = 1Num of Interleaves = 8 finished in 36431 ms
+Num of Wraps = 1Num of Interleaves = 8 PSNR: 14.9444
+Num of Wraps = 1Num of Interleaves = 8 SSIM: 0.36032
+
+Num of Wraps = 2Num of Interleaves = 8 finished in 36471 ms
+Num of Wraps = 2Num of Interleaves = 8 PSNR: 14.9846
+Num of Wraps = 2Num of Interleaves = 8 SSIM: 0.390174
+
+Num of Wraps = 4Num of Interleaves = 8 finished in 36267 ms
+Num of Wraps = 4Num of Interleaves = 8 PSNR: 15.3465
+Num of Wraps = 4Num of Interleaves = 8 SSIM: 0.456008
+
+Num of Wraps = 8Num of Interleaves = 8 finished in 36887 ms
+Num of Wraps = 8Num of Interleaves = 8 PSNR: 16.1735
+Num of Wraps = 8Num of Interleaves = 8 SSIM: 0.588766
+
+Num of Wraps = 16Num of Interleaves = 8 finished in 37276 ms
+Num of Wraps = 16Num of Interleaves = 8 PSNR: 15.8648
+Num of Wraps = 16Num of Interleaves = 8 SSIM: 0.60452
+
+Num of Wraps = 32Num of Interleaves = 8 finished in 36693 ms
+Num of Wraps = 32Num of Interleaves = 8 PSNR: 16.3968
+Num of Wraps = 32Num of Interleaves = 8 SSIM: 0.616372
+
+Num of Wraps = 64Num of Interleaves = 8 finished in 36449 ms
+Num of Wraps = 64Num of Interleaves = 8 PSNR: 16.051
+Num of Wraps = 64Num of Interleaves = 8 SSIM: 0.513171
+
+Num of Wraps = 128Num of Interleaves = 8 finished in 36379 ms
+Num of Wraps = 128Num of Interleaves = 8 PSNR: 15.3766
+Num of Wraps = 128Num of Interleaves = 8 SSIM: 0.43215
+
+Num of Wraps = 1Num of Interleaves = 16 finished in 36033 ms
+Num of Wraps = 1Num of Interleaves = 16 PSNR: 15.5752
+Num of Wraps = 1Num of Interleaves = 16 SSIM: 0.471321
+
+Num of Wraps = 2Num of Interleaves = 16 finished in 35935 ms
+Num of Wraps = 2Num of Interleaves = 16 PSNR: 15.8232
+Num of Wraps = 2Num of Interleaves = 16 SSIM: 0.536469
+
+Num of Wraps = 4Num of Interleaves = 16 finished in 36641 ms
+Num of Wraps = 4Num of Interleaves = 16 PSNR: 15.2522
+Num of Wraps = 4Num of Interleaves = 16 SSIM: 0.574036
+
+Num of Wraps = 8Num of Interleaves = 16 finished in 36215 ms
+Num of Wraps = 8Num of Interleaves = 16 PSNR: 16.1578
+Num of Wraps = 8Num of Interleaves = 16 SSIM: 0.632017
+
+Num of Wraps = 16Num of Interleaves = 16 finished in 36386 ms
+Num of Wraps = 16Num of Interleaves = 16 PSNR: 16.3914
+Num of Wraps = 16Num of Interleaves = 16 SSIM: 0.61639
+
+Num of Wraps = 32Num of Interleaves = 16 finished in 36200 ms
+Num of Wraps = 32Num of Interleaves = 16 PSNR: 16.0513
+Num of Wraps = 32Num of Interleaves = 16 SSIM: 0.513001
+
+Num of Wraps = 64Num of Interleaves = 16 finished in 36055 ms
+Num of Wraps = 64Num of Interleaves = 16 PSNR: 15.377
+Num of Wraps = 64Num of Interleaves = 16 SSIM: 0.431931
+
+Num of Wraps = 128Num of Interleaves = 16 finished in 36449 ms
+Num of Wraps = 128Num of Interleaves = 16 PSNR: 14.8942
+Num of Wraps = 128Num of Interleaves = 16 SSIM: 0.4245
+
+Num of Wraps = 1Num of Interleaves = 32 finished in 140350 ms
+Num of Wraps = 1Num of Interleaves = 32 PSNR: 15.5572
+Num of Wraps = 1Num of Interleaves = 32 SSIM: 0.59639
+
+Num of Wraps = 2Num of Interleaves = 32 finished in 127863 ms
+Num of Wraps = 2Num of Interleaves = 32 PSNR: 15.437
+Num of Wraps = 2Num of Interleaves = 32 SSIM: 0.604636
+
+Num of Wraps = 4Num of Interleaves = 32 finished in 150275 ms
+Num of Wraps = 4Num of Interleaves = 32 PSNR: 15.8527
+Num of Wraps = 4Num of Interleaves = 32 SSIM: 0.631471
+
+Num of Wraps = 8Num of Interleaves = 32 finished in 36155 ms
+Num of Wraps = 8Num of Interleaves = 32 PSNR: 16.3765
+Num of Wraps = 8Num of Interleaves = 32 SSIM: 0.616104
+
+Num of Wraps = 16Num of Interleaves = 32 finished in 36485 ms
+Num of Wraps = 16Num of Interleaves = 32 PSNR: 16.0511
+Num of Wraps = 16Num of Interleaves = 32 SSIM: 0.512955
+
+Num of Wraps = 32Num of Interleaves = 32 finished in 36306 ms
+Num of Wraps = 32Num of Interleaves = 32 PSNR: 15.9738
+Num of Wraps = 32Num of Interleaves = 32 SSIM: 0.515865
+Num of Wraps = 64Num of Interleaves = 32 finished in 36598 ms
+Num of Wraps = 64Num of Interleaves = 32 PSNR: 15.9078
+
+Num of Wraps = 128Num of Interleaves = 32 finished in 36391 ms
+Num of Wraps = 128Num of Interleaves = 32 PSNR: 16.0809
+Num of Wraps = 128Num of Interleaves = 32 SSIM: 0.536269
+
+Program Finished.
+QThreadStorage: entry 1 destroyed before end of thread 0x78a910
+QThreadStorage: entry 0 destroyed before end of thread 0x78a910
+PS C:\Users\smegl\OneDrive\Desktop\Code\C++\MRIImageRescale> ^C
+PS C:\Users\smegl\OneDrive\Desktop\Code\C++\MRIImageRescale> 
+PS C:\Users\smegl\OneDrive\Desktop\Code\C++\MRIImageRescale>  & 'c:\Users\smegl\.vscode\extensions\ms-vscode.cpptools-1.32.2-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-01kslvek.z5a' '--stdout=Microsoft-MIEngine-Out-amuu34en.t5b' '--stderr=Microsoft-MIEngine-Error-dgd0yo52.vlw' '--pid=Microsoft-MIEngine-Pid-5glwg5yg.eda' '--dbgExe=C:/msys64/ucrt64/bin/gdb.exe' '--interpreter=mi' 
+Vector size: 256 x 256
+Number of samples = 32768
+Num of Wraps = 1Num of Interleaves = 1 finished in 60839 ms
+Num of Wraps = 1Num of Interleaves = 1 PSNR: 12.0451
+Num of Wraps = 1Num of Interleaves = 1 SSIM: 0.20721
+
+Num of Wraps = 2Num of Interleaves = 1 finished in 59544 ms
+Num of Wraps = 2Num of Interleaves = 1 PSNR: 13.2425
+Num of Wraps = 2Num of Interleaves = 1 SSIM: 0.210213
+
+Num of Wraps = 4Num of Interleaves = 1 finished in 60196 ms
+Num of Wraps = 4Num of Interleaves = 1 PSNR: 13.5923
+Num of Wraps = 4Num of Interleaves = 1 SSIM: 0.157864
+
+Num of Wraps = 8Num of Interleaves = 1 finished in 60913 ms
+Num of Wraps = 8Num of Interleaves = 1 PSNR: 13.92
+Num of Wraps = 8Num of Interleaves = 1 SSIM: 0.239668
+
+Num of Wraps = 16Num of Interleaves = 1 finished in 60186 ms
+Num of Wraps = 16Num of Interleaves = 1 PSNR: 13.6913
+Num of Wraps = 16Num of Interleaves = 1 SSIM: 0.213245
+
+Num of Wraps = 32Num of Interleaves = 1 finished in 61150 ms
+Num of Wraps = 32Num of Interleaves = 1 PSNR: 14.4126
+Num of Wraps = 32Num of Interleaves = 1 SSIM: 0.419662
+
+Num of Wraps = 64Num of Interleaves = 1 finished in 59752 ms
+Num of Wraps = 64Num of Interleaves = 1 PSNR: 14.9922
+Num of Wraps = 64Num of Interleaves = 1 SSIM: 0.589721
+
+Num of Wraps = 128Num of Interleaves = 1 finished in 59571 ms
+Num of Wraps = 128Num of Interleaves = 1 PSNR: 16.4176
+Num of Wraps = 128Num of Interleaves = 1 SSIM: 0.752046
+
+Num of Wraps = 1Num of Interleaves = 2 finished in 59822 ms
+Num of Wraps = 1Num of Interleaves = 2 PSNR: 10.8566
+Num of Wraps = 1Num of Interleaves = 2 SSIM: 0.194547
+
+Num of Wraps = 2Num of Interleaves = 2 finished in 59383 ms
+Num of Wraps = 2Num of Interleaves = 2 PSNR: 12.2605
+Num of Wraps = 2Num of Interleaves = 2 SSIM: 0.241803
+
+Num of Wraps = 4Num of Interleaves = 2 finished in 59845 ms
+Num of Wraps = 4Num of Interleaves = 2 PSNR: 12.6756
+Num of Wraps = 4Num of Interleaves = 2 SSIM: 0.178283
+
+Num of Wraps = 8Num of Interleaves = 2 finished in 59283 ms
+Num of Wraps = 8Num of Interleaves = 2 PSNR: 13.1581
+Num of Wraps = 8Num of Interleaves = 2 SSIM: 0.251819
+
+Num of Wraps = 16Num of Interleaves = 2 finished in 59377 ms
+Num of Wraps = 16Num of Interleaves = 2 PSNR: 12.7701
+Num of Wraps = 16Num of Interleaves = 2 SSIM: 0.176228
+
+Num of Wraps = 32Num of Interleaves = 2 finished in 59061 ms
+Num of Wraps = 32Num of Interleaves = 2 PSNR: 12.4111
+Num of Wraps = 32Num of Interleaves = 2 SSIM: 0.225907
+
+Num of Wraps = 64Num of Interleaves = 2 finished in 59463 ms
+Num of Wraps = 64Num of Interleaves = 2 PSNR: 12.2834
+Num of Wraps = 64Num of Interleaves = 2 SSIM: 0.629899
+
+Num of Wraps = 128Num of Interleaves = 2 finished in 59308 ms
+Num of Wraps = 128Num of Interleaves = 2 PSNR: 16.7645
+Num of Wraps = 128Num of Interleaves = 2 SSIM: 0.667881
+
+Num of Wraps = 1Num of Interleaves = 4 finished in 59487 ms
+Num of Wraps = 1Num of Interleaves = 4 PSNR: 13.4147
+Num of Wraps = 1Num of Interleaves = 4 SSIM: 0.302515
+
+Num of Wraps = 2Num of Interleaves = 4 finished in 59810 ms
+Num of Wraps = 2Num of Interleaves = 4 PSNR: 14.1984
+Num of Wraps = 2Num of Interleaves = 4 SSIM: 0.337294
+
+Num of Wraps = 4Num of Interleaves = 4 finished in 59180 ms
+Num of Wraps = 4Num of Interleaves = 4 PSNR: 14.3772
+Num of Wraps = 4Num of Interleaves = 4 SSIM: 0.329619
+
+Num of Wraps = 8Num of Interleaves = 4 finished in 59533 ms
+Num of Wraps = 8Num of Interleaves = 4 PSNR: 15.1015
+Num of Wraps = 8Num of Interleaves = 4 SSIM: 0.427309
+
+Num of Wraps = 16Num of Interleaves = 4 finished in 59218 ms
+Num of Wraps = 16Num of Interleaves = 4 PSNR: 14.8641
+Num of Wraps = 16Num of Interleaves = 4 SSIM: 0.507468
+
+Num of Wraps = 32Num of Interleaves = 4 finished in 59614 ms
+Num of Wraps = 32Num of Interleaves = 4 PSNR: 13.9336
+Num of Wraps = 32Num of Interleaves = 4 SSIM: 0.594032
+
+Num of Wraps = 64Num of Interleaves = 4 finished in 59233 ms
+Num of Wraps = 64Num of Interleaves = 4 PSNR: 17.0406
+Num of Wraps = 64Num of Interleaves = 4 SSIM: 0.66739
+
+Num of Wraps = 128Num of Interleaves = 4 finished in 59417 ms
+Num of Wraps = 128Num of Interleaves = 4 PSNR: 16.37
+Num of Wraps = 128Num of Interleaves = 4 SSIM: 0.615793
+
+Num of Wraps = 1Num of Interleaves = 8 finished in 59314 ms
+Num of Wraps = 1Num of Interleaves = 8 PSNR: 14.8199
+Num of Wraps = 1Num of Interleaves = 8 SSIM: 0.363775
+
+Num of Wraps = 2Num of Interleaves = 8 finished in 59397 ms
+Num of Wraps = 2Num of Interleaves = 8 PSNR: 14.9838
+Num of Wraps = 2Num of Interleaves = 8 SSIM: 0.390297
+
+Num of Wraps = 4Num of Interleaves = 8 finished in 147802 ms
+Num of Wraps = 4Num of Interleaves = 8 PSNR: 15.3609
+Num of Wraps = 4Num of Interleaves = 8 SSIM: 0.461707
+
+Num of Wraps = 8Num of Interleaves = 8 finished in 59174 ms
+Num of Wraps = 8Num of Interleaves = 8 PSNR: 16.4589
+Num of Wraps = 8Num of Interleaves = 8 SSIM: 0.604583
+
+Num of Wraps = 16Num of Interleaves = 8 finished in 59446 ms
+Num of Wraps = 16Num of Interleaves = 8 PSNR: 13.7245
+Num of Wraps = 16Num of Interleaves = 8 SSIM: 0.621935
+
+Num of Wraps = 32Num of Interleaves = 8 finished in 59146 ms
+Num of Wraps = 32Num of Interleaves = 8 PSNR: 17.0342
+Num of Wraps = 32Num of Interleaves = 8 SSIM: 0.666644
+
+Num of Wraps = 64Num of Interleaves = 8 finished in 59651 ms
+Num of Wraps = 64Num of Interleaves = 8 PSNR: 16.376
+Num of Wraps = 64Num of Interleaves = 8 SSIM: 0.615912
+
+Num of Wraps = 128Num of Interleaves = 8 finished in 60274 ms
+Num of Wraps = 128Num of Interleaves = 8 PSNR: 16.044
+Num of Wraps = 128Num of Interleaves = 8 SSIM: 0.512713
+
+Num of Wraps = 1Num of Interleaves = 16 finished in 59823 ms
+Num of Wraps = 1Num of Interleaves = 16 PSNR: 15.5751
+Num of Wraps = 1Num of Interleaves = 16 SSIM: 0.471357
+
+Num of Wraps = 2Num of Interleaves = 16 finished in 59479 ms
+Num of Wraps = 2Num of Interleaves = 16 PSNR: 15.9041
+Num of Wraps = 2Num of Interleaves = 16 SSIM: 0.539492
+
+Num of Wraps = 4Num of Interleaves = 16 finished in 60000 ms
+Num of Wraps = 4Num of Interleaves = 16 PSNR: 15.5013
+Num of Wraps = 4Num of Interleaves = 16 SSIM: 0.600201
+
+Num of Wraps = 8Num of Interleaves = 16 finished in 59890 ms
+Num of Wraps = 8Num of Interleaves = 16 PSNR: 13.8398
+Num of Wraps = 8Num of Interleaves = 16 SSIM: 0.654556
+
+Num of Wraps = 16Num of Interleaves = 16 finished in 59300 ms
+Num of Wraps = 16Num of Interleaves = 16 PSNR: 17.0266
+Num of Wraps = 16Num of Interleaves = 16 SSIM: 0.666421
+
+Num of Wraps = 32Num of Interleaves = 16 finished in 59633 ms
+Num of Wraps = 32Num of Interleaves = 16 PSNR: 16.3734
+Num of Wraps = 32Num of Interleaves = 16 SSIM: 0.615998
+
+Num of Wraps = 64Num of Interleaves = 16 finished in 59592 ms
+Num of Wraps = 64Num of Interleaves = 16 PSNR: 16.0444
+Num of Wraps = 64Num of Interleaves = 16 SSIM: 0.512655
+
+Num of Wraps = 128Num of Interleaves = 16 finished in 59550 ms
+Num of Wraps = 128Num of Interleaves = 16 PSNR: 15.3758
+Num of Wraps = 128Num of Interleaves = 16 SSIM: 0.432084
+
+Num of Wraps = 1Num of Interleaves = 32 finished in 151427 ms
+Num of Wraps = 1Num of Interleaves = 32 PSNR: 15.7575
+Num of Wraps = 1Num of Interleaves = 32 SSIM: 0.605866
+
+Num of Wraps = 2Num of Interleaves = 32 finished in 92468 ms
+Num of Wraps = 2Num of Interleaves = 32 PSNR: 15.5808
+Num of Wraps = 2Num of Interleaves = 32 SSIM: 0.63506
+
+Num of Wraps = 4Num of Interleaves = 32 finished in 60729 ms
+Num of Wraps = 4Num of Interleaves = 32 PSNR: 13.9603
+Num of Wraps = 4Num of Interleaves = 32 SSIM: 0.670808
+
+Num of Wraps = 8Num of Interleaves = 32 finished in 183925 ms
+Num of Wraps = 8Num of Interleaves = 32 PSNR: 17.0173
+Num of Wraps = 8Num of Interleaves = 32 SSIM: 0.666156
+
+Num of Wraps = 16Num of Interleaves = 32 finished in 114116 ms
+Num of Wraps = 16Num of Interleaves = 32 PSNR: 16.3681
+Num of Wraps = 16Num of Interleaves = 32 SSIM: 0.615988
+
+Num of Wraps = 32Num of Interleaves = 32 finished in 59492 ms
+Num of Wraps = 32Num of Interleaves = 32 PSNR: 16.0452
+Num of Wraps = 32Num of Interleaves = 32 SSIM: 0.512729
+
+Num of Wraps = 64Num of Interleaves = 32 finished in 60149 ms
+Num of Wraps = 64Num of Interleaves = 32 PSNR: 15.9721
+Num of Wraps = 64Num of Interleaves = 32 SSIM: 0.515683
+
+Num of Wraps = 128Num of Interleaves = 32 finished in 148071 ms
+Num of Wraps = 128Num of Interleaves = 32 PSNR: 15.9041
+Num of Wraps = 128Num of Interleaves = 32 SSIM: 0.519674
+
+Program Finished.

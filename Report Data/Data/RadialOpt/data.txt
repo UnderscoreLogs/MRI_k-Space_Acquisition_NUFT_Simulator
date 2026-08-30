@@ -1,0 +1,120 @@
+Num of Samples = 512
+Num of Spokes = 16 Num of SamplesPerSpoke = 32 finished in 15040 ms
+Num of Spokes = 16 Num of SamplesPerSpoke = 32 PSNR: 13.9243
+Num of Spokes = 16 Num of SamplesPerSpoke = 32 SSIM: 0.054434
+
+Num of Samples = 1024
+Num of Spokes = 32 Num of SamplesPerSpoke = 32 finished in 14249 ms
+Num of Spokes = 32 Num of SamplesPerSpoke = 32 PSNR: 14.0574
+Num of Spokes = 32 Num of SamplesPerSpoke = 32 SSIM: 0.0827372
+
+Num of Samples = 2048
+Num of Spokes = 64 Num of SamplesPerSpoke = 32 finished in 15891 ms
+Num of Spokes = 64 Num of SamplesPerSpoke = 32 PSNR: 14.1078
+Num of Spokes = 64 Num of SamplesPerSpoke = 32 SSIM: 0.141278
+
+Num of Samples = 4096
+Num of Spokes = 128 Num of SamplesPerSpoke = 32 finished in 18772 ms
+Num of Spokes = 128 Num of SamplesPerSpoke = 32 PSNR: 14.1251
+Num of Spokes = 128 Num of SamplesPerSpoke = 32 SSIM: 0.225722
+
+Num of Samples = 8192
+Num of Spokes = 256 Num of SamplesPerSpoke = 32 finished in 24786 ms
+Num of Spokes = 256 Num of SamplesPerSpoke = 32 PSNR: 14.2866
+Num of Spokes = 256 Num of SamplesPerSpoke = 32 SSIM: 0.28873
+
+Num of Samples = 16384
+Num of Spokes = 512 Num of SamplesPerSpoke = 32 finished in 35872 ms
+Num of Spokes = 512 Num of SamplesPerSpoke = 32 PSNR: 13.8346
+Num of Spokes = 512 Num of SamplesPerSpoke = 32 SSIM: 0.30788
+
+Num of Samples = 1024
+Num of Spokes = 16 Num of SamplesPerSpoke = 64 finished in 14105 ms
+Num of Spokes = 16 Num of SamplesPerSpoke = 64 PSNR: 11.7202
+Num of Spokes = 16 Num of SamplesPerSpoke = 64 SSIM: 0.0744576
+
+Num of Samples = 2048
+Num of Spokes = 32 Num of SamplesPerSpoke = 64 finished in 15814 ms
+Num of Spokes = 32 Num of SamplesPerSpoke = 64 PSNR: 13.8116
+Num of Spokes = 32 Num of SamplesPerSpoke = 64 SSIM: 0.117223
+
+Num of Samples = 4096
+Num of Spokes = 64 Num of SamplesPerSpoke = 64 finished in 18500 ms
+Num of Spokes = 64 Num of SamplesPerSpoke = 64 PSNR: 14.2218
+Num of Spokes = 64 Num of SamplesPerSpoke = 64 SSIM: 0.19813
+
+Num of Samples = 8192
+Num of Spokes = 128 Num of SamplesPerSpoke = 64 finished in 24647 ms
+Num of Spokes = 128 Num of SamplesPerSpoke = 64 PSNR: 14.6952
+Num of Spokes = 128 Num of SamplesPerSpoke = 64 SSIM: 0.319721
+
+Num of Samples = 16384
+Num of Spokes = 256 Num of SamplesPerSpoke = 64 finished in 36312 ms
+Num of Spokes = 256 Num of SamplesPerSpoke = 64 PSNR: 15.1006
+Num of Spokes = 256 Num of SamplesPerSpoke = 64 SSIM: 0.439664
+
+Num of Samples = 32768
+Num of Spokes = 512 Num of SamplesPerSpoke = 64 finished in 60041 ms
+Num of Spokes = 512 Num of SamplesPerSpoke = 64 PSNR: 15.8094
+Num of Spokes = 512 Num of SamplesPerSpoke = 64 SSIM: 0.489938
+
+Num of Samples = 2048
+Num of Spokes = 16 Num of SamplesPerSpoke = 128 finished in 15391 ms
+Num of Spokes = 16 Num of SamplesPerSpoke = 128 PSNR: 8.49198
+Num of Spokes = 16 Num of SamplesPerSpoke = 128 SSIM: 0.0587868
+
+Num of Samples = 4096
+Num of Spokes = 32 Num of SamplesPerSpoke = 128 finished in 18523 ms
+Num of Spokes = 32 Num of SamplesPerSpoke = 128 PSNR: 10.6834
+Num of Spokes = 32 Num of SamplesPerSpoke = 128 SSIM: 0.124132
+
+Num of Samples = 8192
+Num of Spokes = 64 Num of SamplesPerSpoke = 128 finished in 23952 ms
+Num of Spokes = 64 Num of SamplesPerSpoke = 128 PSNR: 12.0603
+Num of Spokes = 64 Num of SamplesPerSpoke = 128 SSIM: 0.221379
+
+Num of Samples = 16384
+Num of Spokes = 128 Num of SamplesPerSpoke = 128 finished in 36844 ms
+Num of Spokes = 128 Num of SamplesPerSpoke = 128 PSNR: 12.4969
+Num of Spokes = 128 Num of SamplesPerSpoke = 128 SSIM: 0.379097
+
+Num of Samples = 32768
+Num of Spokes = 256 Num of SamplesPerSpoke = 128 finished in 59327 ms
+Num of Spokes = 256 Num of SamplesPerSpoke = 128 PSNR: 14.8417
+Num of Spokes = 256 Num of SamplesPerSpoke = 128 SSIM: 0.577684
+
+Num of Samples = 65536
+Num of Spokes = 512 Num of SamplesPerSpoke = 128 finished in 106494 ms
+Num of Spokes = 512 Num of SamplesPerSpoke = 128 PSNR: 17.8405
+Num of Spokes = 512 Num of SamplesPerSpoke = 128 SSIM: 0.716819
+
+Num of Samples = 4096
+Num of Spokes = 16 Num of SamplesPerSpoke = 256 finished in 18337 ms
+Num of Spokes = 16 Num of SamplesPerSpoke = 256 PSNR: 8.2447
+Num of Spokes = 16 Num of SamplesPerSpoke = 256 SSIM: 0.0840986
+
+Num of Samples = 8192
+Num of Spokes = 32 Num of SamplesPerSpoke = 256 finished in 24118 ms
+Num of Spokes = 32 Num of SamplesPerSpoke = 256 PSNR: 9.90508
+Num of Spokes = 32 Num of SamplesPerSpoke = 256 SSIM: 0.186375
+
+Num of Samples = 16384
+Num of Spokes = 64 Num of SamplesPerSpoke = 256 finished in 36065 ms
+Num of Spokes = 64 Num of SamplesPerSpoke = 256 PSNR: 11.834
+Num of Spokes = 64 Num of SamplesPerSpoke = 256 SSIM: 0.368847
+
+Num of Samples = 32768
+Num of Spokes = 128 Num of SamplesPerSpoke = 256 finished in 59778 ms
+Num of Spokes = 128 Num of SamplesPerSpoke = 256 PSNR: 16.9898
+Num of Spokes = 128 Num of SamplesPerSpoke = 256 SSIM: 0.622563
+
+Num of Samples = 65536
+Num of Spokes = 256 Num of SamplesPerSpoke = 256 finished in 106475 ms
+Num of Spokes = 256 Num of SamplesPerSpoke = 256 PSNR: 16.7917
+Num of Spokes = 256 Num of SamplesPerSpoke = 256 SSIM: 0.7297
+
+Num of Samples = 131072
+Num of Spokes = 512 Num of SamplesPerSpoke = 256 finished in 200417 ms
+Num of Spokes = 512 Num of SamplesPerSpoke = 256 PSNR: 16.4181
+Num of Spokes = 512 Num of SamplesPerSpoke = 256 SSIM: 0.74435
+

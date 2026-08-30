@@ -1,0 +1,880 @@
+Num of Samples = 1024
+Alpha = 0 xRes = 32 yRes = 32 finished in 15340 ms
+Alpha = 0 xRes = 32 yRes = 32 PSNR: 11.7666
+Alpha = 0 xRes = 32 yRes = 32 SSIM: 0.134902
+
+Num of Samples = 1024
+Alpha = 0.5 xRes = 32 yRes = 32 finished in 13794 ms
+Alpha = 0.5 xRes = 32 yRes = 32 PSNR: 11.7652
+Alpha = 0.5 xRes = 32 yRes = 32 SSIM: 0.134859
+
+Num of Samples = 1024
+Alpha = 1 xRes = 32 yRes = 32 finished in 13152 ms
+Alpha = 1 xRes = 32 yRes = 32 PSNR: 11.6398
+Alpha = 1 xRes = 32 yRes = 32 SSIM: 0.109953
+
+Num of Samples = 1024
+Alpha = 1.5 xRes = 32 yRes = 32 finished in 13201 ms
+Alpha = 1.5 xRes = 32 yRes = 32 PSNR: 11.6093
+Alpha = 1.5 xRes = 32 yRes = 32 SSIM: 0.134062
+
+Num of Samples = 1024
+Alpha = 2 xRes = 32 yRes = 32 finished in 13641 ms
+Alpha = 2 xRes = 32 yRes = 32 PSNR: 11.2025
+Alpha = 2 xRes = 32 yRes = 32 SSIM: 0.109011
+
+Num of Samples = 1024
+Alpha = 2.5 xRes = 32 yRes = 32 finished in 13355 ms
+Alpha = 2.5 xRes = 32 yRes = 32 PSNR: 11.4849
+Alpha = 2.5 xRes = 32 yRes = 32 SSIM: 0.109707
+
+Num of Samples = 1024
+Alpha = 3 xRes = 32 yRes = 32 finished in 12983 ms
+Alpha = 3 xRes = 32 yRes = 32 PSNR: 11.0382
+Alpha = 3 xRes = 32 yRes = 32 SSIM: 0.105488
+
+Num of Samples = 1024
+Alpha = 3.5 xRes = 32 yRes = 32 finished in 13346 ms
+Alpha = 3.5 xRes = 32 yRes = 32 PSNR: 11.1366
+Alpha = 3.5 xRes = 32 yRes = 32 SSIM: 0.105761
+
+Num of Samples = 1024
+Alpha = 4 xRes = 32 yRes = 32 finished in 13379 ms
+Alpha = 4 xRes = 32 yRes = 32 PSNR: 11.3654
+Alpha = 4 xRes = 32 yRes = 32 SSIM: 0.108902
+
+Num of Samples = 1024
+Alpha = 4.5 xRes = 32 yRes = 32 finished in 12979 ms
+Alpha = 4.5 xRes = 32 yRes = 32 PSNR: 11.0234
+Alpha = 4.5 xRes = 32 yRes = 32 SSIM: 0.110952
+
+Num of Samples = 1024
+Alpha = 5 xRes = 32 yRes = 32 finished in 13251 ms
+Alpha = 5 xRes = 32 yRes = 32 PSNR: 11.2413
+Alpha = 5 xRes = 32 yRes = 32 SSIM: 0.111482
+
+Num of Samples = 4096
+Alpha = 0 xRes = 64 yRes = 32 finished in 15271 ms
+Alpha = 0 xRes = 64 yRes = 32 PSNR: 12.9583
+Alpha = 0 xRes = 64 yRes = 32 SSIM: 0.176719
+
+Num of Samples = 4096
+Alpha = 0.5 xRes = 64 yRes = 32 finished in 14637 ms
+Alpha = 0.5 xRes = 64 yRes = 32 PSNR: 12.813
+Alpha = 0.5 xRes = 64 yRes = 32 SSIM: 0.160458
+
+Num of Samples = 4096
+Alpha = 1 xRes = 64 yRes = 32 finished in 14535 ms
+Alpha = 1 xRes = 64 yRes = 32 PSNR: 12.8179
+Alpha = 1 xRes = 64 yRes = 32 SSIM: 0.161394
+
+Num of Samples = 4096
+Alpha = 1.5 xRes = 64 yRes = 32 finished in 14045 ms
+Alpha = 1.5 xRes = 64 yRes = 32 PSNR: 12.7563
+Alpha = 1.5 xRes = 64 yRes = 32 SSIM: 0.176089
+
+Num of Samples = 4096
+Alpha = 2 xRes = 64 yRes = 32 finished in 13768 ms
+Alpha = 2 xRes = 64 yRes = 32 PSNR: 12.3392
+Alpha = 2 xRes = 64 yRes = 32 SSIM: 0.162897
+
+Num of Samples = 4096
+Alpha = 2.5 xRes = 64 yRes = 32 finished in 14190 ms
+Alpha = 2.5 xRes = 64 yRes = 32 PSNR: 12.5534
+Alpha = 2.5 xRes = 64 yRes = 32 SSIM: 0.161685
+
+Num of Samples = 4096
+Alpha = 3 xRes = 64 yRes = 32 finished in 14182 ms
+Alpha = 3 xRes = 64 yRes = 32 PSNR: 12.3986
+Alpha = 3 xRes = 64 yRes = 32 SSIM: 0.145454
+
+Num of Samples = 4096
+Alpha = 3.5 xRes = 64 yRes = 32 finished in 13739 ms
+Alpha = 3.5 xRes = 64 yRes = 32 PSNR: 11.8609
+Alpha = 3.5 xRes = 64 yRes = 32 SSIM: 0.10391
+
+Num of Samples = 4096
+Alpha = 4 xRes = 64 yRes = 32 finished in 13524 ms
+Alpha = 4 xRes = 64 yRes = 32 PSNR: 12.045
+Alpha = 4 xRes = 64 yRes = 32 SSIM: 0.0640763
+
+Num of Samples = 4096
+Alpha = 4.5 xRes = 64 yRes = 32 finished in 13543 ms
+Alpha = 4.5 xRes = 64 yRes = 32 PSNR: 11.8885
+Alpha = 4.5 xRes = 64 yRes = 32 SSIM: 0.0637279
+
+Num of Samples = 4096
+Alpha = 5 xRes = 64 yRes = 32 finished in 13476 ms
+Alpha = 5 xRes = 64 yRes = 32 PSNR: 11.8783
+Alpha = 5 xRes = 64 yRes = 32 SSIM: 0.0570885
+
+Num of Samples = 16384
+Alpha = 0 xRes = 128 yRes = 32 finished in 18051 ms
+Alpha = 0 xRes = 128 yRes = 32 PSNR: 12.8573
+Alpha = 0 xRes = 128 yRes = 32 SSIM: 0.213015
+
+Num of Samples = 16384
+Alpha = 0.5 xRes = 128 yRes = 32 finished in 17653 ms
+Alpha = 0.5 xRes = 128 yRes = 32 PSNR: 12.8739
+Alpha = 0.5 xRes = 128 yRes = 32 SSIM: 0.213276
+
+Num of Samples = 16384
+Alpha = 1 xRes = 128 yRes = 32 finished in 16577 ms
+Alpha = 1 xRes = 128 yRes = 32 PSNR: 12.9517
+Alpha = 1 xRes = 128 yRes = 32 SSIM: 0.212623
+
+Num of Samples = 16384
+Alpha = 1.5 xRes = 128 yRes = 32 finished in 16749 ms
+Alpha = 1.5 xRes = 128 yRes = 32 PSNR: 12.7436
+Alpha = 1.5 xRes = 128 yRes = 32 SSIM: 0.203695
+
+Num of Samples = 16384
+Alpha = 2 xRes = 128 yRes = 32 finished in 32774 ms
+Alpha = 2 xRes = 128 yRes = 32 PSNR: 12.5431
+Alpha = 2 xRes = 128 yRes = 32 SSIM: 0.176567
+
+Num of Samples = 16384
+Alpha = 2.5 xRes = 128 yRes = 32 finished in 15769 ms
+Alpha = 2.5 xRes = 128 yRes = 32 PSNR: 12.3631
+Alpha = 2.5 xRes = 128 yRes = 32 SSIM: 0.13614
+
+Num of Samples = 16384
+Alpha = 3 xRes = 128 yRes = 32 finished in 15081 ms
+Alpha = 3 xRes = 128 yRes = 32 PSNR: 12.1638
+Alpha = 3 xRes = 128 yRes = 32 SSIM: 0.111417
+
+Num of Samples = 16384
+Alpha = 3.5 xRes = 128 yRes = 32 finished in 15153 ms
+Alpha = 3.5 xRes = 128 yRes = 32 PSNR: 12.4255
+Alpha = 3.5 xRes = 128 yRes = 32 SSIM: 0.138255
+
+Num of Samples = 16384
+Alpha = 4 xRes = 128 yRes = 32 finished in 14938 ms
+Alpha = 4 xRes = 128 yRes = 32 PSNR: 12.0279
+Alpha = 4 xRes = 128 yRes = 32 SSIM: 0.0892181
+
+Num of Samples = 16384
+Alpha = 4.5 xRes = 128 yRes = 32 finished in 14949 ms
+Alpha = 4.5 xRes = 128 yRes = 32 PSNR: 12.4191
+Alpha = 4.5 xRes = 128 yRes = 32 SSIM: 0.137921
+
+Num of Samples = 16384
+Alpha = 5 xRes = 128 yRes = 32 finished in 32646 ms
+Alpha = 5 xRes = 128 yRes = 32 PSNR: 12.0958
+Alpha = 5 xRes = 128 yRes = 32 SSIM: 0.0881789
+
+Num of Samples = 65536
+Alpha = 0 xRes = 256 yRes = 32 finished in 24266 ms
+Alpha = 0 xRes = 256 yRes = 32 PSNR: 13.2466
+Alpha = 0 xRes = 256 yRes = 32 SSIM: 0.302763
+
+Num of Samples = 65536
+Alpha = 0.5 xRes = 256 yRes = 32 finished in 22999 ms
+Alpha = 0.5 xRes = 256 yRes = 32 PSNR: 13.1775
+Alpha = 0.5 xRes = 256 yRes = 32 SSIM: 0.289381
+
+Num of Samples = 65536
+Alpha = 1 xRes = 256 yRes = 32 finished in 21497 ms
+Alpha = 1 xRes = 256 yRes = 32 PSNR: 13.1782
+Alpha = 1 xRes = 256 yRes = 32 SSIM: 0.302264
+
+Num of Samples = 65536
+Alpha = 1.5 xRes = 256 yRes = 32 finished in 20451 ms
+Alpha = 1.5 xRes = 256 yRes = 32 PSNR: 13.4373
+Alpha = 1.5 xRes = 256 yRes = 32 SSIM: 0.301039
+
+Num of Samples = 65536
+Alpha = 2 xRes = 256 yRes = 32 finished in 19149 ms
+Alpha = 2 xRes = 256 yRes = 32 PSNR: 13.1919
+Alpha = 2 xRes = 256 yRes = 32 SSIM: 0.283598
+
+Num of Samples = 65536
+Alpha = 2.5 xRes = 256 yRes = 32 finished in 18862 ms
+Alpha = 2.5 xRes = 256 yRes = 32 PSNR: 13.1642
+Alpha = 2.5 xRes = 256 yRes = 32 SSIM: 0.27423
+
+Num of Samples = 65536
+Alpha = 3 xRes = 256 yRes = 32 finished in 18607 ms
+Alpha = 3 xRes = 256 yRes = 32 PSNR: 12.9074
+Alpha = 3 xRes = 256 yRes = 32 SSIM: 0.221269
+
+Num of Samples = 65536
+Alpha = 3.5 xRes = 256 yRes = 32 finished in 17998 ms
+Alpha = 3.5 xRes = 256 yRes = 32 PSNR: 13.0873
+Alpha = 3.5 xRes = 256 yRes = 32 SSIM: 0.264387
+
+Num of Samples = 65536
+Alpha = 4 xRes = 256 yRes = 32 finished in 17121 ms
+Alpha = 4 xRes = 256 yRes = 32 PSNR: 12.3516
+Alpha = 4 xRes = 256 yRes = 32 SSIM: 0.11973
+
+Num of Samples = 65536
+Alpha = 4.5 xRes = 256 yRes = 32 finished in 16992 ms
+Alpha = 4.5 xRes = 256 yRes = 32 PSNR: 12.5378
+Alpha = 4.5 xRes = 256 yRes = 32 SSIM: 0.149192
+
+Num of Samples = 65536
+Alpha = 5 xRes = 256 yRes = 32 finished in 17410 ms
+Alpha = 5 xRes = 256 yRes = 32 PSNR: 12.5917
+Alpha = 5 xRes = 256 yRes = 32 SSIM: 0.18674
+
+Num of Samples = 1024
+Alpha = 0 xRes = 32 yRes = 64 finished in 14886 ms
+Alpha = 0 xRes = 32 yRes = 64 PSNR: 11.9818
+Alpha = 0 xRes = 32 yRes = 64 SSIM: 0.198281
+
+Num of Samples = 1024
+Alpha = 0.5 xRes = 32 yRes = 64 finished in 15424 ms
+Alpha = 0.5 xRes = 32 yRes = 64 PSNR: 11.9585
+Alpha = 0.5 xRes = 32 yRes = 64 SSIM: 0.19818
+
+Num of Samples = 1024
+Alpha = 1 xRes = 32 yRes = 64 finished in 15149 ms
+Alpha = 1 xRes = 32 yRes = 64 PSNR: 11.7502
+Alpha = 1 xRes = 32 yRes = 64 SSIM: 0.173968
+
+Num of Samples = 1024
+Alpha = 1.5 xRes = 32 yRes = 64 finished in 32644 ms
+Alpha = 1.5 xRes = 32 yRes = 64 PSNR: 11.4913
+Alpha = 1.5 xRes = 32 yRes = 64 SSIM: 0.169947
+
+Num of Samples = 1024
+Alpha = 2 xRes = 32 yRes = 64 finished in 13918 ms
+Alpha = 2 xRes = 32 yRes = 64 PSNR: 11.6979
+Alpha = 2 xRes = 32 yRes = 64 SSIM: 0.174535
+
+Num of Samples = 1024
+Alpha = 2.5 xRes = 32 yRes = 64 finished in 14269 ms
+Alpha = 2.5 xRes = 32 yRes = 64 PSNR: 11.6293
+Alpha = 2.5 xRes = 32 yRes = 64 SSIM: 0.173624
+
+Num of Samples = 1024
+Alpha = 3 xRes = 32 yRes = 64 finished in 14064 ms
+Alpha = 3 xRes = 32 yRes = 64 PSNR: 11.5467
+Alpha = 3 xRes = 32 yRes = 64 SSIM: 0.163673
+
+Num of Samples = 1024
+Alpha = 3.5 xRes = 32 yRes = 64 finished in 13971 ms
+Alpha = 3.5 xRes = 32 yRes = 64 PSNR: 11.4938
+Alpha = 3.5 xRes = 32 yRes = 64 SSIM: 0.164782
+
+Num of Samples = 1024
+Alpha = 4 xRes = 32 yRes = 64 finished in 13614 ms
+Alpha = 4 xRes = 32 yRes = 64 PSNR: 11.4583
+Alpha = 4 xRes = 32 yRes = 64 SSIM: 0.161084
+
+Num of Samples = 1024
+Alpha = 4.5 xRes = 32 yRes = 64 finished in 13456 ms
+Alpha = 4.5 xRes = 32 yRes = 64 PSNR: 11.6704
+Alpha = 4.5 xRes = 32 yRes = 64 SSIM: 0.16606
+
+Num of Samples = 1024
+Alpha = 5 xRes = 32 yRes = 64 finished in 13427 ms
+Alpha = 5 xRes = 32 yRes = 64 PSNR: 11.5509
+Alpha = 5 xRes = 32 yRes = 64 SSIM: 0.167839
+
+Num of Samples = 4096
+Alpha = 0 xRes = 64 yRes = 64 finished in 18025 ms
+Alpha = 0 xRes = 64 yRes = 64 PSNR: 12.9854
+Alpha = 0 xRes = 64 yRes = 64 SSIM: 0.243763
+
+Num of Samples = 4096
+Alpha = 0.5 xRes = 64 yRes = 64 finished in 17886 ms
+Alpha = 0.5 xRes = 64 yRes = 64 PSNR: 12.9134
+Alpha = 0.5 xRes = 64 yRes = 64 SSIM: 0.223614
+
+Num of Samples = 4096
+Alpha = 1 xRes = 64 yRes = 64 finished in 16629 ms
+Alpha = 1 xRes = 64 yRes = 64 PSNR: 12.8969
+Alpha = 1 xRes = 64 yRes = 64 SSIM: 0.226067
+
+Num of Samples = 4096
+Alpha = 1.5 xRes = 64 yRes = 64 finished in 16119 ms
+Alpha = 1.5 xRes = 64 yRes = 64 PSNR: 12.9567
+Alpha = 1.5 xRes = 64 yRes = 64 SSIM: 0.244463
+
+Num of Samples = 4096
+Alpha = 2 xRes = 64 yRes = 64 finished in 16141 ms
+Alpha = 2 xRes = 64 yRes = 64 PSNR: 12.9112
+Alpha = 2 xRes = 64 yRes = 64 SSIM: 0.184772
+
+Num of Samples = 4096
+Alpha = 2.5 xRes = 64 yRes = 64 finished in 15904 ms
+Alpha = 2.5 xRes = 64 yRes = 64 PSNR: 12.2471
+Alpha = 2.5 xRes = 64 yRes = 64 SSIM: 0.119877
+
+Num of Samples = 4096
+Alpha = 3 xRes = 64 yRes = 64 finished in 15579 ms
+Alpha = 3 xRes = 64 yRes = 64 PSNR: 12.8116
+Alpha = 3 xRes = 64 yRes = 64 SSIM: 0.227583
+
+Num of Samples = 4096
+Alpha = 3.5 xRes = 64 yRes = 64 finished in 15441 ms
+Alpha = 3.5 xRes = 64 yRes = 64 PSNR: 12.3158
+Alpha = 3.5 xRes = 64 yRes = 64 SSIM: 0.124824
+
+Num of Samples = 4096
+Alpha = 4 xRes = 64 yRes = 64 finished in 15575 ms
+Alpha = 4 xRes = 64 yRes = 64 PSNR: 12.246
+Alpha = 4 xRes = 64 yRes = 64 SSIM: 0.119234
+
+Num of Samples = 4096
+Alpha = 4.5 xRes = 64 yRes = 64 finished in 15291 ms
+Alpha = 4.5 xRes = 64 yRes = 64 PSNR: 12.7083
+Alpha = 4.5 xRes = 64 yRes = 64 SSIM: 0.208702
+
+Num of Samples = 4096
+Alpha = 5 xRes = 64 yRes = 64 finished in 14806 ms
+Alpha = 5 xRes = 64 yRes = 64 PSNR: 12.2202
+Alpha = 5 xRes = 64 yRes = 64 SSIM: 0.133287
+
+Num of Samples = 16384
+Alpha = 0 xRes = 128 yRes = 64 finished in 24247 ms
+Alpha = 0 xRes = 128 yRes = 64 PSNR: 13.7986
+Alpha = 0 xRes = 128 yRes = 64 SSIM: 0.305644
+
+Num of Samples = 16384
+Alpha = 0.5 xRes = 128 yRes = 64 finished in 23508 ms
+Alpha = 0.5 xRes = 128 yRes = 64 PSNR: 13.6846
+Alpha = 0.5 xRes = 128 yRes = 64 SSIM: 0.294076
+
+Num of Samples = 16384
+Alpha = 1 xRes = 128 yRes = 64 finished in 21124 ms
+Alpha = 1 xRes = 128 yRes = 64 PSNR: 13.5853
+Alpha = 1 xRes = 128 yRes = 64 SSIM: 0.276889
+
+Num of Samples = 16384
+Alpha = 1.5 xRes = 128 yRes = 64 finished in 20618 ms
+Alpha = 1.5 xRes = 128 yRes = 64 PSNR: 13.831
+Alpha = 1.5 xRes = 128 yRes = 64 SSIM: 0.303574
+
+Num of Samples = 16384
+Alpha = 2 xRes = 128 yRes = 64 finished in 19395 ms
+Alpha = 2 xRes = 128 yRes = 64 PSNR: 13.4531
+Alpha = 2 xRes = 128 yRes = 64 SSIM: 0.260872
+
+Num of Samples = 16384
+Alpha = 2.5 xRes = 128 yRes = 64 finished in 18955 ms
+Alpha = 2.5 xRes = 128 yRes = 64 PSNR: 13.0529
+Alpha = 2.5 xRes = 128 yRes = 64 SSIM: 0.199395
+
+Num of Samples = 16384
+Alpha = 3 xRes = 128 yRes = 64 finished in 18217 ms
+Alpha = 3 xRes = 128 yRes = 64 PSNR: 13.44
+Alpha = 3 xRes = 128 yRes = 64 SSIM: 0.26187
+
+Num of Samples = 16384
+Alpha = 3.5 xRes = 128 yRes = 64 finished in 16949 ms
+Alpha = 3.5 xRes = 128 yRes = 64 PSNR: 12.8168
+Alpha = 3.5 xRes = 128 yRes = 64 SSIM: 0.167155
+
+Num of Samples = 16384
+Alpha = 4 xRes = 128 yRes = 64 finished in 18041 ms
+Alpha = 4 xRes = 128 yRes = 64 PSNR: 12.8333
+Alpha = 4 xRes = 128 yRes = 64 SSIM: 0.179991
+
+Num of Samples = 16384
+Alpha = 4.5 xRes = 128 yRes = 64 finished in 17384 ms
+Alpha = 4.5 xRes = 128 yRes = 64 PSNR: 12.6183
+Alpha = 4.5 xRes = 128 yRes = 64 SSIM: 0.125886
+
+Num of Samples = 16384
+Alpha = 5 xRes = 128 yRes = 64 finished in 17218 ms
+Alpha = 5 xRes = 128 yRes = 64 PSNR: 12.4659
+Alpha = 5 xRes = 128 yRes = 64 SSIM: 0.120436
+
+Num of Samples = 65536
+Alpha = 0 xRes = 256 yRes = 64 finished in 36331 ms
+Alpha = 0 xRes = 256 yRes = 64 PSNR: 14.8068
+Alpha = 0 xRes = 256 yRes = 64 SSIM: 0.424807
+
+Num of Samples = 65536
+Alpha = 0.5 xRes = 256 yRes = 64 finished in 32757 ms
+Alpha = 0.5 xRes = 256 yRes = 64 PSNR: 14.7583
+Alpha = 0.5 xRes = 256 yRes = 64 SSIM: 0.424677
+
+Num of Samples = 65536
+Alpha = 1 xRes = 256 yRes = 64 finished in 30042 ms
+Alpha = 1 xRes = 256 yRes = 64 PSNR: 14.8161
+Alpha = 1 xRes = 256 yRes = 64 SSIM: 0.426656
+
+Num of Samples = 65536
+Alpha = 1.5 xRes = 256 yRes = 64 finished in 27320 ms
+Alpha = 1.5 xRes = 256 yRes = 64 PSNR: 14.6188
+Alpha = 1.5 xRes = 256 yRes = 64 SSIM: 0.409325
+
+Num of Samples = 65536
+Alpha = 2 xRes = 256 yRes = 64 finished in 26473 ms
+Alpha = 2 xRes = 256 yRes = 64 PSNR: 13.9282
+Alpha = 2 xRes = 256 yRes = 64 SSIM: 0.2931
+
+Num of Samples = 65536
+Alpha = 2.5 xRes = 256 yRes = 64 finished in 25480 ms
+Alpha = 2.5 xRes = 256 yRes = 64 PSNR: 14.7563
+Alpha = 2.5 xRes = 256 yRes = 64 SSIM: 0.421943
+
+Num of Samples = 65536
+Alpha = 3 xRes = 256 yRes = 64 finished in 32954 ms
+Alpha = 3 xRes = 256 yRes = 64 PSNR: 14.487
+Alpha = 3 xRes = 256 yRes = 64 SSIM: 0.38787
+
+Num of Samples = 65536
+Alpha = 3.5 xRes = 256 yRes = 64 finished in 24393 ms
+Alpha = 3.5 xRes = 256 yRes = 64 PSNR: 13.8788
+Alpha = 3.5 xRes = 256 yRes = 64 SSIM: 0.275955
+
+Num of Samples = 65536
+Alpha = 4 xRes = 256 yRes = 64 finished in 22107 ms
+Alpha = 4 xRes = 256 yRes = 64 PSNR: 14.7423
+Alpha = 4 xRes = 256 yRes = 64 SSIM: 0.421453
+
+Num of Samples = 65536
+Alpha = 4.5 xRes = 256 yRes = 64 finished in 21585 ms
+Alpha = 4.5 xRes = 256 yRes = 64 PSNR: 14.7954
+Alpha = 4.5 xRes = 256 yRes = 64 SSIM: 0.411333
+
+Num of Samples = 65536
+Alpha = 5 xRes = 256 yRes = 64 finished in 22113 ms
+Alpha = 5 xRes = 256 yRes = 64 PSNR: 14.0242
+Alpha = 5 xRes = 256 yRes = 64 SSIM: 0.311958
+
+Num of Samples = 1024
+Alpha = 0 xRes = 32 yRes = 128 finished in 18484 ms
+Alpha = 0 xRes = 32 yRes = 128 PSNR: 12.2967
+Alpha = 0 xRes = 32 yRes = 128 SSIM: 0.345991
+
+Num of Samples = 1024
+Alpha = 0.5 xRes = 32 yRes = 128 finished in 17560 ms
+Alpha = 0.5 xRes = 32 yRes = 128 PSNR: 12.3098
+Alpha = 0.5 xRes = 32 yRes = 128 SSIM: 0.346043
+
+Num of Samples = 1024
+Alpha = 1 xRes = 32 yRes = 128 finished in 16451 ms
+Alpha = 1 xRes = 32 yRes = 128 PSNR: 12.0904
+Alpha = 1 xRes = 32 yRes = 128 SSIM: 0.323128
+
+Num of Samples = 1024
+Alpha = 1.5 xRes = 32 yRes = 128 finished in 17430 ms
+Alpha = 1.5 xRes = 32 yRes = 128 PSNR: 12.3005
+Alpha = 1.5 xRes = 32 yRes = 128 SSIM: 0.345606
+
+Num of Samples = 1024
+Alpha = 2 xRes = 32 yRes = 128 finished in 16013 ms
+Alpha = 2 xRes = 32 yRes = 128 PSNR: 11.8188
+Alpha = 2 xRes = 32 yRes = 128 SSIM: 0.30032
+
+Num of Samples = 1024
+Alpha = 2.5 xRes = 32 yRes = 128 finished in 17540 ms
+Alpha = 2.5 xRes = 32 yRes = 128 PSNR: 12.2296
+Alpha = 2.5 xRes = 32 yRes = 128 SSIM: 0.323058
+
+Num of Samples = 1024
+Alpha = 3 xRes = 32 yRes = 128 finished in 15649 ms
+Alpha = 3 xRes = 32 yRes = 128 PSNR: 11.8828
+Alpha = 3 xRes = 32 yRes = 128 SSIM: 0.300783
+
+Num of Samples = 1024
+Alpha = 3.5 xRes = 32 yRes = 128 finished in 15160 ms
+Alpha = 3.5 xRes = 32 yRes = 128 PSNR: 11.8964
+Alpha = 3.5 xRes = 32 yRes = 128 SSIM: 0.302194
+
+Num of Samples = 1024
+Alpha = 4 xRes = 32 yRes = 128 finished in 14964 ms
+Alpha = 4 xRes = 32 yRes = 128 PSNR: 11.7258
+Alpha = 4 xRes = 32 yRes = 128 SSIM: 0.300676
+
+Num of Samples = 1024
+Alpha = 4.5 xRes = 32 yRes = 128 finished in 16142 ms
+Alpha = 4.5 xRes = 32 yRes = 128 PSNR: 12.1495
+Alpha = 4.5 xRes = 32 yRes = 128 SSIM: 0.304003
+
+Num of Samples = 1024
+Alpha = 5 xRes = 32 yRes = 128 finished in 14777 ms
+Alpha = 5 xRes = 32 yRes = 128 PSNR: 11.924
+Alpha = 5 xRes = 32 yRes = 128 SSIM: 0.30218
+
+Num of Samples = 4096
+Alpha = 0 xRes = 64 yRes = 128 finished in 24488 ms
+Alpha = 0 xRes = 64 yRes = 128 PSNR: 13.8444
+Alpha = 0 xRes = 64 yRes = 128 SSIM: 0.408975
+
+Num of Samples = 4096
+Alpha = 0.5 xRes = 64 yRes = 128 finished in 22856 ms
+Alpha = 0.5 xRes = 64 yRes = 128 PSNR: 13.8222
+Alpha = 0.5 xRes = 64 yRes = 128 SSIM: 0.408774
+
+Num of Samples = 4096
+Alpha = 1 xRes = 64 yRes = 128 finished in 21743 ms
+Alpha = 1 xRes = 64 yRes = 128 PSNR: 13.3064
+Alpha = 1 xRes = 64 yRes = 128 SSIM: 0.335331
+
+Num of Samples = 4096
+Alpha = 1.5 xRes = 64 yRes = 128 finished in 20194 ms
+Alpha = 1.5 xRes = 64 yRes = 128 PSNR: 13.2544
+Alpha = 1.5 xRes = 64 yRes = 128 SSIM: 0.336219
+
+Num of Samples = 4096
+Alpha = 2 xRes = 64 yRes = 128 finished in 20064 ms
+Alpha = 2 xRes = 64 yRes = 128 PSNR: 13.0784
+Alpha = 2 xRes = 64 yRes = 128 SSIM: 0.336732
+
+Num of Samples = 4096
+Alpha = 2.5 xRes = 64 yRes = 128 finished in 29100 ms
+Alpha = 2.5 xRes = 64 yRes = 128 PSNR: 12.9385
+Alpha = 2.5 xRes = 64 yRes = 128 SSIM: 0.275667
+
+Num of Samples = 4096
+Alpha = 3 xRes = 64 yRes = 128 finished in 19122 ms
+Alpha = 3 xRes = 64 yRes = 128 PSNR: 13.4596
+Alpha = 3 xRes = 64 yRes = 128 SSIM: 0.388429
+
+Num of Samples = 4096
+Alpha = 3.5 xRes = 64 yRes = 128 finished in 32766 ms
+Alpha = 3.5 xRes = 64 yRes = 128 PSNR: 12.9129
+Alpha = 3.5 xRes = 64 yRes = 128 SSIM: 0.275817
+
+Num of Samples = 4096
+Alpha = 4 xRes = 64 yRes = 128 finished in 17746 ms
+Alpha = 4 xRes = 64 yRes = 128 PSNR: 12.7215
+Alpha = 4 xRes = 64 yRes = 128 SSIM: 0.25847
+
+Num of Samples = 4096
+Alpha = 4.5 xRes = 64 yRes = 128 finished in 17721 ms
+Alpha = 4.5 xRes = 64 yRes = 128 PSNR: 12.8883
+Alpha = 4.5 xRes = 64 yRes = 128 SSIM: 0.272387
+
+Num of Samples = 4096
+Alpha = 5 xRes = 64 yRes = 128 finished in 32754 ms
+Alpha = 5 xRes = 64 yRes = 128 PSNR: 12.9185
+Alpha = 5 xRes = 64 yRes = 128 SSIM: 0.291793
+
+Num of Samples = 16384
+Alpha = 0 xRes = 128 yRes = 128 finished in 36361 ms
+Alpha = 0 xRes = 128 yRes = 128 PSNR: 14.8477
+Alpha = 0 xRes = 128 yRes = 128 SSIM: 0.497686
+
+Num of Samples = 16384
+Alpha = 0.5 xRes = 128 yRes = 128 finished in 31541 ms
+Alpha = 0.5 xRes = 128 yRes = 128 PSNR: 14.7349
+Alpha = 0.5 xRes = 128 yRes = 128 SSIM: 0.484883
+
+Num of Samples = 16384
+Alpha = 1 xRes = 128 yRes = 128 finished in 31305 ms
+Alpha = 1 xRes = 128 yRes = 128 PSNR: 14.708
+Alpha = 1 xRes = 128 yRes = 128 SSIM: 0.485061
+
+Num of Samples = 16384
+Alpha = 1.5 xRes = 128 yRes = 128 finished in 28768 ms
+Alpha = 1.5 xRes = 128 yRes = 128 PSNR: 14.7661
+Alpha = 1.5 xRes = 128 yRes = 128 SSIM: 0.486011
+
+Num of Samples = 16384
+Alpha = 2 xRes = 128 yRes = 128 finished in 25667 ms
+Alpha = 2 xRes = 128 yRes = 128 PSNR: 13.9771
+Alpha = 2 xRes = 128 yRes = 128 SSIM: 0.393815
+
+Num of Samples = 16384
+Alpha = 2.5 xRes = 128 yRes = 128 finished in 25874 ms
+Alpha = 2.5 xRes = 128 yRes = 128 PSNR: 13.6475
+Alpha = 2.5 xRes = 128 yRes = 128 SSIM: 0.352926
+
+Num of Samples = 16384
+Alpha = 3 xRes = 128 yRes = 128 finished in 25247 ms
+Alpha = 3 xRes = 128 yRes = 128 PSNR: 13.6454
+Alpha = 3 xRes = 128 yRes = 128 SSIM: 0.338831
+
+Num of Samples = 16384
+Alpha = 3.5 xRes = 128 yRes = 128 finished in 23056 ms
+Alpha = 3.5 xRes = 128 yRes = 128 PSNR: 13.6225
+Alpha = 3.5 xRes = 128 yRes = 128 SSIM: 0.355467
+
+Num of Samples = 16384
+Alpha = 4 xRes = 128 yRes = 128 finished in 33127 ms
+Alpha = 4 xRes = 128 yRes = 128 PSNR: 13.0047
+Alpha = 4 xRes = 128 yRes = 128 SSIM: 0.250133
+
+Num of Samples = 16384
+Alpha = 4.5 xRes = 128 yRes = 128 finished in 24258 ms
+Alpha = 4.5 xRes = 128 yRes = 128 PSNR: 13.8076
+Alpha = 4.5 xRes = 128 yRes = 128 SSIM: 0.381034
+
+Num of Samples = 16384
+Alpha = 5 xRes = 128 yRes = 128 finished in 20915 ms
+Alpha = 5 xRes = 128 yRes = 128 PSNR: 13.2819
+Alpha = 5 xRes = 128 yRes = 128 SSIM: 0.2788
+
+Num of Samples = 65536
+Alpha = 0 xRes = 256 yRes = 128 finished in 61261 ms
+Alpha = 0 xRes = 256 yRes = 128 PSNR: 16.5959
+Alpha = 0 xRes = 256 yRes = 128 SSIM: 0.653463
+
+Num of Samples = 65536
+Alpha = 0.5 xRes = 256 yRes = 128 finished in 53057 ms
+Alpha = 0.5 xRes = 256 yRes = 128 PSNR: 16.4288
+Alpha = 0.5 xRes = 256 yRes = 128 SSIM: 0.649103
+
+Num of Samples = 65536
+Alpha = 1 xRes = 256 yRes = 128 finished in 48646 ms
+Alpha = 1 xRes = 256 yRes = 128 PSNR: 16.5833
+Alpha = 1 xRes = 256 yRes = 128 SSIM: 0.652095
+
+Num of Samples = 65536
+Alpha = 1.5 xRes = 256 yRes = 128 finished in 43856 ms
+Alpha = 1.5 xRes = 256 yRes = 128 PSNR: 16.4633
+Alpha = 1.5 xRes = 256 yRes = 128 SSIM: 0.648607
+
+Num of Samples = 65536
+Alpha = 2 xRes = 256 yRes = 128 finished in 41365 ms
+Alpha = 2 xRes = 256 yRes = 128 PSNR: 16.4342
+Alpha = 2 xRes = 256 yRes = 128 SSIM: 0.630368
+
+Num of Samples = 65536
+Alpha = 2.5 xRes = 256 yRes = 128 finished in 40344 ms
+Alpha = 2.5 xRes = 256 yRes = 128 PSNR: 15.3902
+Alpha = 2.5 xRes = 256 yRes = 128 SSIM: 0.537269
+
+Num of Samples = 65536
+Alpha = 3 xRes = 256 yRes = 128 finished in 37294 ms
+Alpha = 3 xRes = 256 yRes = 128 PSNR: 16.5272
+Alpha = 3 xRes = 256 yRes = 128 SSIM: 0.644181
+
+Num of Samples = 65536
+Alpha = 3.5 xRes = 256 yRes = 128 finished in 32675 ms
+Alpha = 3.5 xRes = 256 yRes = 128 PSNR: 14.715
+Alpha = 3.5 xRes = 256 yRes = 128 SSIM: 0.449549
+
+Num of Samples = 65536
+Alpha = 4 xRes = 256 yRes = 128 finished in 33502 ms
+Alpha = 4 xRes = 256 yRes = 128 PSNR: 15.6934
+Alpha = 4 xRes = 256 yRes = 128 SSIM: 0.570625
+
+Num of Samples = 65536
+Alpha = 4.5 xRes = 256 yRes = 128 finished in 32511 ms
+Alpha = 4.5 xRes = 256 yRes = 128 PSNR: 14.4448
+Alpha = 4.5 xRes = 256 yRes = 128 SSIM: 0.414881
+
+Num of Samples = 65536
+Alpha = 5 xRes = 256 yRes = 128 finished in 31553 ms
+Alpha = 5 xRes = 256 yRes = 128 PSNR: 13.8805
+Alpha = 5 xRes = 256 yRes = 128 SSIM: 0.330502
+
+Num of Samples = 1024
+Alpha = 0 xRes = 32 yRes = 256 finished in 24963 ms
+Alpha = 0 xRes = 32 yRes = 256 PSNR: 13.9239
+Alpha = 0 xRes = 32 yRes = 256 SSIM: 0.508595
+
+Num of Samples = 1024
+Alpha = 0.5 xRes = 32 yRes = 256 finished in 22054 ms
+Alpha = 0.5 xRes = 32 yRes = 256 PSNR: 13.565
+Alpha = 0.5 xRes = 32 yRes = 256 SSIM: 0.476665
+
+Num of Samples = 1024
+Alpha = 1 xRes = 32 yRes = 256 finished in 20989 ms
+Alpha = 1 xRes = 32 yRes = 256 PSNR: 13.8188
+Alpha = 1 xRes = 32 yRes = 256 SSIM: 0.507019
+
+Num of Samples = 1024
+Alpha = 1.5 xRes = 32 yRes = 256 finished in 21811 ms
+Alpha = 1.5 xRes = 32 yRes = 256 PSNR: 13.6572
+Alpha = 1.5 xRes = 32 yRes = 256 SSIM: 0.478069
+
+Num of Samples = 1024
+Alpha = 2 xRes = 32 yRes = 256 finished in 20730 ms
+Alpha = 2 xRes = 32 yRes = 256 PSNR: 13.5893
+Alpha = 2 xRes = 32 yRes = 256 SSIM: 0.477385
+
+Num of Samples = 1024
+Alpha = 2.5 xRes = 32 yRes = 256 finished in 18377 ms
+Alpha = 2.5 xRes = 32 yRes = 256 PSNR: 13.3846
+Alpha = 2.5 xRes = 32 yRes = 256 SSIM: 0.454075
+
+Num of Samples = 1024
+Alpha = 3 xRes = 32 yRes = 256 finished in 20725 ms
+Alpha = 3 xRes = 32 yRes = 256 PSNR: 13.4573
+Alpha = 3 xRes = 32 yRes = 256 SSIM: 0.458848
+
+Num of Samples = 1024
+Alpha = 3.5 xRes = 32 yRes = 256 finished in 18636 ms
+Alpha = 3.5 xRes = 32 yRes = 256 PSNR: 13.3237
+Alpha = 3.5 xRes = 32 yRes = 256 SSIM: 0.458478
+
+Num of Samples = 1024
+Alpha = 4 xRes = 32 yRes = 256 finished in 19566 ms
+Alpha = 4 xRes = 32 yRes = 256 PSNR: 13.3994
+Alpha = 4 xRes = 32 yRes = 256 SSIM: 0.454481
+
+Num of Samples = 1024
+Alpha = 4.5 xRes = 32 yRes = 256 finished in 17587 ms
+Alpha = 4.5 xRes = 32 yRes = 256 PSNR: 13.3328
+Alpha = 4.5 xRes = 32 yRes = 256 SSIM: 0.453685
+
+Num of Samples = 1024
+Alpha = 5 xRes = 32 yRes = 256 finished in 19456 ms
+Alpha = 5 xRes = 32 yRes = 256 PSNR: 13.3913
+Alpha = 5 xRes = 32 yRes = 256 SSIM: 0.459249
+
+Num of Samples = 4096
+Alpha = 0 xRes = 64 yRes = 256 finished in 36448 ms
+Alpha = 0 xRes = 64 yRes = 256 PSNR: 14.6821
+Alpha = 0 xRes = 64 yRes = 256 SSIM: 0.573515
+
+Num of Samples = 4096
+Alpha = 0.5 xRes = 64 yRes = 256 finished in 33828 ms
+Alpha = 0.5 xRes = 64 yRes = 256 PSNR: 14.7141
+Alpha = 0.5 xRes = 64 yRes = 256 SSIM: 0.573522
+
+Num of Samples = 4096
+Alpha = 1 xRes = 64 yRes = 256 finished in 30990 ms
+Alpha = 1 xRes = 64 yRes = 256 PSNR: 14.7686
+Alpha = 1 xRes = 64 yRes = 256 SSIM: 0.573669
+
+Num of Samples = 4096
+Alpha = 1.5 xRes = 64 yRes = 256 finished in 28704 ms
+Alpha = 1.5 xRes = 64 yRes = 256 PSNR: 14.4454
+Alpha = 1.5 xRes = 64 yRes = 256 SSIM: 0.543964
+
+Num of Samples = 4096
+Alpha = 2 xRes = 64 yRes = 256 finished in 29131 ms
+Alpha = 2 xRes = 64 yRes = 256 PSNR: 14.4629
+Alpha = 2 xRes = 64 yRes = 256 SSIM: 0.544113
+
+Num of Samples = 4096
+Alpha = 2.5 xRes = 64 yRes = 256 finished in 24877 ms
+Alpha = 2.5 xRes = 64 yRes = 256 PSNR: 14.2305
+Alpha = 2.5 xRes = 64 yRes = 256 SSIM: 0.513787
+
+Num of Samples = 4096
+Alpha = 3 xRes = 64 yRes = 256 finished in 26326 ms
+Alpha = 3 xRes = 64 yRes = 256 PSNR: 13.6157
+Alpha = 3 xRes = 64 yRes = 256 SSIM: 0.449417
+
+Num of Samples = 4096
+Alpha = 3.5 xRes = 64 yRes = 256 finished in 23143 ms
+Alpha = 3.5 xRes = 64 yRes = 256 PSNR: 13.2692
+Alpha = 3.5 xRes = 64 yRes = 256 SSIM: 0.415255
+
+Num of Samples = 4096
+Alpha = 4 xRes = 64 yRes = 256 finished in 24934 ms
+Alpha = 4 xRes = 64 yRes = 256 PSNR: 13.3008
+Alpha = 4 xRes = 64 yRes = 256 SSIM: 0.393613
+
+Num of Samples = 4096
+Alpha = 4.5 xRes = 64 yRes = 256 finished in 23110 ms
+Alpha = 4.5 xRes = 64 yRes = 256 PSNR: 13.2514
+Alpha = 4.5 xRes = 64 yRes = 256 SSIM: 0.414845
+
+Num of Samples = 4096
+Alpha = 5 xRes = 64 yRes = 256 finished in 22257 ms
+Alpha = 5 xRes = 64 yRes = 256 PSNR: 13.2586
+Alpha = 5 xRes = 64 yRes = 256 SSIM: 0.4004
+
+Num of Samples = 16384
+Alpha = 0 xRes = 128 yRes = 256 finished in 60084 ms
+Alpha = 0 xRes = 128 yRes = 256 PSNR: 17.0028
+Alpha = 0 xRes = 128 yRes = 256 SSIM: 0.721906
+
+Num of Samples = 16384
+Alpha = 0.5 xRes = 128 yRes = 256 finished in 53946 ms
+Alpha = 0.5 xRes = 128 yRes = 256 PSNR: 16.8151
+Alpha = 0.5 xRes = 128 yRes = 256 SSIM: 0.705518
+
+Num of Samples = 16384
+Alpha = 1 xRes = 128 yRes = 256 finished in 46497 ms
+Alpha = 1 xRes = 128 yRes = 256 PSNR: 16.9927
+Alpha = 1 xRes = 128 yRes = 256 SSIM: 0.719792
+
+Num of Samples = 16384
+Alpha = 1.5 xRes = 128 yRes = 256 finished in 42483 ms
+Alpha = 1.5 xRes = 128 yRes = 256 PSNR: 15.2046
+Alpha = 1.5 xRes = 128 yRes = 256 SSIM: 0.567631
+
+Num of Samples = 16384
+Alpha = 2 xRes = 128 yRes = 256 finished in 85735 ms
+Alpha = 2 xRes = 128 yRes = 256 PSNR: 16.8284
+Alpha = 2 xRes = 128 yRes = 256 SSIM: 0.707278
+
+Num of Samples = 16384
+Alpha = 2.5 xRes = 128 yRes = 256 finished in 36546 ms
+Alpha = 2.5 xRes = 128 yRes = 256 PSNR: 16.4731
+Alpha = 2.5 xRes = 128 yRes = 256 SSIM: 0.681249
+
+Num of Samples = 16384
+Alpha = 3 xRes = 128 yRes = 256 finished in 38504 ms
+Alpha = 3 xRes = 128 yRes = 256 PSNR: 15.8555
+Alpha = 3 xRes = 128 yRes = 256 SSIM: 0.633739
+
+Num of Samples = 16384
+Alpha = 3.5 xRes = 128 yRes = 256 finished in 35743 ms
+Alpha = 3.5 xRes = 128 yRes = 256 PSNR: 14.3282
+Alpha = 3.5 xRes = 128 yRes = 256 SSIM: 0.454146
+
+Num of Samples = 16384
+Alpha = 4 xRes = 128 yRes = 256 finished in 34102 ms
+Alpha = 4 xRes = 128 yRes = 256 PSNR: 14.5094
+Alpha = 4 xRes = 128 yRes = 256 SSIM: 0.483319
+
+Num of Samples = 16384
+Alpha = 4.5 xRes = 128 yRes = 256 finished in 34089 ms
+Alpha = 4.5 xRes = 128 yRes = 256 PSNR: 14.0721
+Alpha = 4.5 xRes = 128 yRes = 256 SSIM: 0.442306
+
+Num of Samples = 16384
+Alpha = 5 xRes = 128 yRes = 256 finished in 31549 ms
+Alpha = 5 xRes = 128 yRes = 256 PSNR: 14.0552
+Alpha = 5 xRes = 128 yRes = 256 SSIM: 0.430688
+
+Num of Samples = 65536
+Alpha = 0 xRes = 256 yRes = 256 finished in 107072 ms
+Alpha = 0 xRes = 256 yRes = 256 PSNR: 32.5558
+Alpha = 0 xRes = 256 yRes = 256 SSIM: 0.993284
+
+Num of Samples = 65536
+Alpha = 0.5 xRes = 256 yRes = 256 finished in 97535 ms
+Alpha = 0.5 xRes = 256 yRes = 256 PSNR: 29.0103
+Alpha = 0.5 xRes = 256 yRes = 256 SSIM: 0.984676
+
+Num of Samples = 65536
+Alpha = 1 xRes = 256 yRes = 256 finished in 85619 ms
+Alpha = 1 xRes = 256 yRes = 256 PSNR: 28.8556
+Alpha = 1 xRes = 256 yRes = 256 SSIM: 0.984
+
+Num of Samples = 65536
+Alpha = 1.5 xRes = 256 yRes = 256 finished in 79418 ms
+Alpha = 1.5 xRes = 256 yRes = 256 PSNR: 28.9486
+Alpha = 1.5 xRes = 256 yRes = 256 SSIM: 0.983848
+
+Num of Samples = 65536
+Alpha = 2 xRes = 256 yRes = 256 finished in 70671 ms
+Alpha = 2 xRes = 256 yRes = 256 PSNR: 23.4601
+Alpha = 2 xRes = 256 yRes = 256 SSIM: 0.943567
+
+Num of Samples = 65536
+Alpha = 2.5 xRes = 256 yRes = 256 finished in 64170 ms
+Alpha = 2.5 xRes = 256 yRes = 256 PSNR: 23.736
+Alpha = 2.5 xRes = 256 yRes = 256 SSIM: 0.946842
+
+Num of Samples = 65536
+Alpha = 3 xRes = 256 yRes = 256 finished in 57111 ms
+Alpha = 3 xRes = 256 yRes = 256 PSNR: 19.2251
+Alpha = 3 xRes = 256 yRes = 256 SSIM: 0.849757
+
+Num of Samples = 65536
+Alpha = 3.5 xRes = 256 yRes = 256 finished in 55551 ms
+Alpha = 3.5 xRes = 256 yRes = 256 PSNR: 18.6239
+Alpha = 3.5 xRes = 256 yRes = 256 SSIM: 0.826524
+
+Num of Samples = 65536
+Alpha = 4 xRes = 256 yRes = 256 finished in 57103 ms
+Alpha = 4 xRes = 256 yRes = 256 PSNR: 23.8589
+Alpha = 4 xRes = 256 yRes = 256 SSIM: 0.947967
+
+Num of Samples = 65536
+Alpha = 4.5 xRes = 256 yRes = 256 finished in 51825 ms
+Alpha = 4.5 xRes = 256 yRes = 256 PSNR: 15.3774
+Alpha = 4.5 xRes = 256 yRes = 256 SSIM: 0.634162
+
+Num of Samples = 65536
+Alpha = 5 xRes = 256 yRes = 256 finished in 51724 ms
+Alpha = 5 xRes = 256 yRes = 256 PSNR: 15.3981
+Alpha = 5 xRes = 256 yRes = 256 SSIM: 0.623606
+

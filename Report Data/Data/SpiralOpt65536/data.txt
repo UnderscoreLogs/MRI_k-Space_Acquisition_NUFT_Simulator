@@ -1,0 +1,240 @@
+Num of Samples = 65536
+Num of Wraps = 1 Num of Interleaves = 1 finished in 114577 ms
+Num of Wraps = 1 Num of Interleaves = 1 PSNR: 12.04
+Num of Wraps = 1 Num of Interleaves = 1 SSIM: 0.207084
+
+Num of Samples = 65536
+Num of Wraps = 2 Num of Interleaves = 1 finished in 109710 ms
+Num of Wraps = 2 Num of Interleaves = 1 PSNR: 13.2355
+Num of Wraps = 2 Num of Interleaves = 1 SSIM: 0.210053
+
+Num of Samples = 65536
+Num of Wraps = 4 Num of Interleaves = 1 finished in 108058 ms
+Num of Wraps = 4 Num of Interleaves = 1 PSNR: 13.5867
+Num of Wraps = 4 Num of Interleaves = 1 SSIM: 0.157812
+
+Num of Samples = 65536
+Num of Wraps = 8 Num of Interleaves = 1 finished in 108132 ms
+Num of Wraps = 8 Num of Interleaves = 1 PSNR: 13.9196
+Num of Wraps = 8 Num of Interleaves = 1 SSIM: 0.239609
+
+Num of Samples = 65536
+Num of Wraps = 16 Num of Interleaves = 1 finished in 106631 ms
+Num of Wraps = 16 Num of Interleaves = 1 PSNR: 13.6925
+Num of Wraps = 16 Num of Interleaves = 1 SSIM: 0.213282
+
+Num of Samples = 65536
+Num of Wraps = 32 Num of Interleaves = 1 finished in 107850 ms
+Num of Wraps = 32 Num of Interleaves = 1 PSNR: 14.4168
+Num of Wraps = 32 Num of Interleaves = 1 SSIM: 0.420084
+
+Num of Samples = 65536
+Num of Wraps = 64 Num of Interleaves = 1 finished in 106347 ms
+Num of Wraps = 64 Num of Interleaves = 1 PSNR: 15.5517
+Num of Wraps = 64 Num of Interleaves = 1 SSIM: 0.601943
+
+Num of Samples = 65536
+Num of Wraps = 128 Num of Interleaves = 1 finished in 106308 ms
+Num of Wraps = 128 Num of Interleaves = 1 PSNR: 17.9299
+Num of Wraps = 128 Num of Interleaves = 1 SSIM: 0.784031
+
+Num of Samples = 65536
+Num of Wraps = 1 Num of Interleaves = 2 finished in 106947 ms
+Num of Wraps = 1 Num of Interleaves = 2 PSNR: 10.8404
+Num of Wraps = 1 Num of Interleaves = 2 SSIM: 0.194284
+
+Num of Samples = 65536
+Num of Wraps = 2 Num of Interleaves = 2 finished in 106700 ms
+Num of Wraps = 2 Num of Interleaves = 2 PSNR: 12.2465
+Num of Wraps = 2 Num of Interleaves = 2 SSIM: 0.241656
+
+Num of Samples = 65536
+Num of Wraps = 4 Num of Interleaves = 2 finished in 107318 ms
+Num of Wraps = 4 Num of Interleaves = 2 PSNR: 12.6607
+Num of Wraps = 4 Num of Interleaves = 2 SSIM: 0.178266
+
+Num of Samples = 65536
+Num of Wraps = 8 Num of Interleaves = 2 finished in 106948 ms
+Num of Wraps = 8 Num of Interleaves = 2 PSNR: 13.1475
+Num of Wraps = 8 Num of Interleaves = 2 SSIM: 0.251779
+
+Num of Samples = 65536
+Num of Wraps = 16 Num of Interleaves = 2 finished in 106740 ms
+Num of Wraps = 16 Num of Interleaves = 2 PSNR: 12.7623
+Num of Wraps = 16 Num of Interleaves = 2 SSIM: 0.176251
+
+Num of Samples = 65536
+Num of Wraps = 32 Num of Interleaves = 2 finished in 107035 ms
+Num of Wraps = 32 Num of Interleaves = 2 PSNR: 12.3268
+Num of Wraps = 32 Num of Interleaves = 2 SSIM: 0.225868
+
+Num of Samples = 65536
+Num of Wraps = 64 Num of Interleaves = 2 finished in 107269 ms
+Num of Wraps = 64 Num of Interleaves = 2 PSNR: 13.3552
+Num of Wraps = 64 Num of Interleaves = 2 SSIM: 0.663691
+
+Num of Samples = 65536
+Num of Wraps = 128 Num of Interleaves = 2 finished in 107779 ms
+Num of Wraps = 128 Num of Interleaves = 2 PSNR: 15.7452
+Num of Wraps = 128 Num of Interleaves = 2 SSIM: 0.721972
+
+Num of Samples = 65536
+Num of Wraps = 1 Num of Interleaves = 4 finished in 105846 ms
+Num of Wraps = 1 Num of Interleaves = 4 PSNR: 13.3812
+Num of Wraps = 1 Num of Interleaves = 4 SSIM: 0.302464
+
+Num of Samples = 65536
+Num of Wraps = 2 Num of Interleaves = 4 finished in 106242 ms
+Num of Wraps = 2 Num of Interleaves = 4 PSNR: 14.1798
+Num of Wraps = 2 Num of Interleaves = 4 SSIM: 0.337442
+
+Num of Samples = 65536
+Num of Wraps = 4 Num of Interleaves = 4 finished in 106286 ms
+Num of Wraps = 4 Num of Interleaves = 4 PSNR: 14.3752
+Num of Wraps = 4 Num of Interleaves = 4 SSIM: 0.330053
+
+Num of Samples = 65536
+Num of Wraps = 8 Num of Interleaves = 4 finished in 106214 ms
+Num of Wraps = 8 Num of Interleaves = 4 PSNR: 15.1002
+Num of Wraps = 8 Num of Interleaves = 4 SSIM: 0.427315
+
+Num of Samples = 65536
+Num of Wraps = 16 Num of Interleaves = 4 finished in 106331 ms
+Num of Wraps = 16 Num of Interleaves = 4 PSNR: 14.8311
+Num of Wraps = 16 Num of Interleaves = 4 SSIM: 0.507855
+
+Num of Samples = 65536
+Num of Wraps = 32 Num of Interleaves = 4 finished in 106184 ms
+Num of Wraps = 32 Num of Interleaves = 4 PSNR: 14.0419
+Num of Wraps = 32 Num of Interleaves = 4 SSIM: 0.600911
+
+Num of Samples = 65536
+Num of Wraps = 64 Num of Interleaves = 4 finished in 106568 ms
+Num of Wraps = 64 Num of Interleaves = 4 PSNR: 15.7596
+Num of Wraps = 64 Num of Interleaves = 4 SSIM: 0.722456
+
+Num of Samples = 65536
+Num of Wraps = 128 Num of Interleaves = 4 finished in 106584 ms
+Num of Wraps = 128 Num of Interleaves = 4 PSNR: 17.0017
+Num of Wraps = 128 Num of Interleaves = 4 SSIM: 0.665412
+
+Num of Samples = 65536
+Num of Wraps = 1 Num of Interleaves = 8 finished in 106628 ms
+Num of Wraps = 1 Num of Interleaves = 8 PSNR: 14.8041
+Num of Wraps = 1 Num of Interleaves = 8 SSIM: 0.364077
+
+Num of Samples = 65536
+Num of Wraps = 2 Num of Interleaves = 8 finished in 106300 ms
+Num of Wraps = 2 Num of Interleaves = 8 PSNR: 14.9834
+Num of Wraps = 2 Num of Interleaves = 8 SSIM: 0.390357
+
+Num of Samples = 65536
+Num of Wraps = 4 Num of Interleaves = 8 finished in 230980 ms
+Num of Wraps = 4 Num of Interleaves = 8 PSNR: 15.3579
+Num of Wraps = 4 Num of Interleaves = 8 SSIM: 0.461593
+
+Num of Samples = 65536
+Num of Wraps = 8 Num of Interleaves = 8 finished in 105995 ms
+Num of Wraps = 8 Num of Interleaves = 8 PSNR: 16.4722
+Num of Wraps = 8 Num of Interleaves = 8 SSIM: 0.605071
+
+Num of Samples = 65536
+Num of Wraps = 16 Num of Interleaves = 8 finished in 106476 ms
+Num of Wraps = 16 Num of Interleaves = 8 PSNR: 13.7938
+Num of Wraps = 16 Num of Interleaves = 8 SSIM: 0.628735
+
+Num of Samples = 65536
+Num of Wraps = 32 Num of Interleaves = 8 finished in 106174 ms
+Num of Wraps = 32 Num of Interleaves = 8 PSNR: 15.7452
+Num of Wraps = 32 Num of Interleaves = 8 SSIM: 0.721207
+
+Num of Samples = 65536
+Num of Wraps = 64 Num of Interleaves = 8 finished in 106145 ms
+Num of Wraps = 64 Num of Interleaves = 8 PSNR: 17.0087
+Num of Wraps = 64 Num of Interleaves = 8 SSIM: 0.665612
+
+Num of Samples = 65536
+Num of Wraps = 128 Num of Interleaves = 8 finished in 233985 ms
+Num of Wraps = 128 Num of Interleaves = 8 PSNR: 16.3699
+Num of Wraps = 128 Num of Interleaves = 8 SSIM: 0.615881
+
+Num of Samples = 65536
+Num of Wraps = 1 Num of Interleaves = 16 finished in 107699 ms
+Num of Wraps = 1 Num of Interleaves = 16 PSNR: 15.5748
+Num of Wraps = 1 Num of Interleaves = 16 SSIM: 0.471358
+
+Num of Samples = 65536
+Num of Wraps = 2 Num of Interleaves = 16 finished in 107675 ms
+Num of Wraps = 2 Num of Interleaves = 16 PSNR: 15.9022
+Num of Wraps = 2 Num of Interleaves = 16 SSIM: 0.539443
+
+Num of Samples = 65536
+Num of Wraps = 4 Num of Interleaves = 16 finished in 107198 ms
+Num of Wraps = 4 Num of Interleaves = 16 PSNR: 15.6237
+Num of Wraps = 4 Num of Interleaves = 16 SSIM: 0.603693
+
+Num of Samples = 65536
+Num of Wraps = 8 Num of Interleaves = 16 finished in 107454 ms
+Num of Wraps = 8 Num of Interleaves = 16 PSNR: 14.2404
+Num of Wraps = 8 Num of Interleaves = 16 SSIM: 0.66924
+
+Num of Samples = 65536
+Num of Wraps = 16 Num of Interleaves = 16 finished in 107652 ms
+Num of Wraps = 16 Num of Interleaves = 16 PSNR: 15.7327
+Num of Wraps = 16 Num of Interleaves = 16 SSIM: 0.720848
+
+Num of Samples = 65536
+Num of Wraps = 32 Num of Interleaves = 16 finished in 106960 ms
+Num of Wraps = 32 Num of Interleaves = 16 PSNR: 17.0075
+Num of Wraps = 32 Num of Interleaves = 16 SSIM: 0.665586
+
+Num of Samples = 65536
+Num of Wraps = 64 Num of Interleaves = 16 finished in 107289 ms
+Num of Wraps = 64 Num of Interleaves = 16 PSNR: 16.368
+Num of Wraps = 64 Num of Interleaves = 16 SSIM: 0.615902
+
+Num of Samples = 65536
+Num of Wraps = 128 Num of Interleaves = 16 finished in 106938 ms
+Num of Wraps = 128 Num of Interleaves = 16 PSNR: 16.0418
+Num of Wraps = 128 Num of Interleaves = 16 SSIM: 0.512561
+
+Num of Samples = 65536
+Num of Wraps = 1 Num of Interleaves = 32 finished in 106882 ms
+Num of Wraps = 1 Num of Interleaves = 32 PSNR: 15.7575
+Num of Wraps = 1 Num of Interleaves = 32 SSIM: 0.605982
+
+Num of Samples = 65536
+Num of Wraps = 2 Num of Interleaves = 32 finished in 106329 ms
+Num of Wraps = 2 Num of Interleaves = 32 PSNR: 15.6916
+Num of Wraps = 2 Num of Interleaves = 32 SSIM: 0.638852
+
+Num of Samples = 65536
+Num of Wraps = 4 Num of Interleaves = 32 finished in 106287 ms
+Num of Wraps = 4 Num of Interleaves = 32 PSNR: 14.5063
+Num of Wraps = 4 Num of Interleaves = 32 SSIM: 0.689537
+
+Num of Samples = 65536
+Num of Wraps = 8 Num of Interleaves = 32 finished in 106354 ms
+Num of Wraps = 8 Num of Interleaves = 32 PSNR: 15.7348
+Num of Wraps = 8 Num of Interleaves = 32 SSIM: 0.720947
+
+Num of Samples = 65536
+Num of Wraps = 16 Num of Interleaves = 32 finished in 106607 ms
+Num of Wraps = 16 Num of Interleaves = 32 PSNR: 17.0036
+Num of Wraps = 16 Num of Interleaves = 32 SSIM: 0.665467
+
+Num of Samples = 65536
+Num of Wraps = 32 Num of Interleaves = 32 finished in 106235 ms
+Num of Wraps = 32 Num of Interleaves = 32 PSNR: 16.3659
+Num of Wraps = 32 Num of Interleaves = 32 SSIM: 0.615926
+
+Num of Samples = 65536
+Num of Wraps = 64 Num of Interleaves = 32 finished in 106077 ms
+Num of Wraps = 64 Num of Interleaves = 32 PSNR: 16.0423
+Num of Wraps = 64 Num of Interleaves = 32 SSIM: 0.51262
+
+Num of Samples = 65536
+Num of Wraps = 128 Num of Interleaves = 32 finished in 106844 ms
+Num of Wraps = 128 Num of Interleaves = 32 PSNR: 15.9712
+Num of Wraps = 128 Num of Interleaves = 32 SSIM: 0.515581
+

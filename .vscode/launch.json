@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+        {
+        "name": "C/C++ Runner: Debug Session",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+        "cwd": "${fileDirname}",
+        "MIMode": "gdb",
+        "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+
+        "environment": [
+            {
+                "name": "PATH",
+                "value": "C:/msys64/ucrt64/bin;C:/msys64/ucrt64/lib/qt6/bin;${env:PATH}"
+            }
+        ],
+
+        "preLaunchTask": "C/C++: g++.exe build active file"
+    }
+  ]
+}
+

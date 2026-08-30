@@ -1,0 +1,20 @@
+      VDR PSNR: 	11.0331
+Cartesian PSNR: 	9.94001
+   Radial PSNR: 	19.791
+   Random PSNR: 	12.5881
+   Spiral PSNR: 	17.609
+      VDC PSNR: 	23.6015
+
+      VDR SSIM: 	0.228838
+Cartesian SSIM: 	0.101429
+   Radial SSIM: 	0.829566
+   Random SSIM: 	0.202573
+   Spiral SSIM: 	0.797657
+      VDC SSIM: 	0.948144
+
+      VDR finished in: 	75042	 ms
+Cartesian finished in: 	61788	 ms
+   Radial finished in: 	63990	 ms
+   Random finished in: 	59509	 ms
+   Spiral finished in: 	60608	 ms
+      VDC finished in: 	59512	 ms

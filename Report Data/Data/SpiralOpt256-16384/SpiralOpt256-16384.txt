@@ -1,0 +1,499 @@
+Num of Samples = 	1																				
+Wraps = 	1	 Interleafs = 	1	 finished in 	39766	 ms															
+Wraps = 	1	 Interleafs = 	1	 PSNR: 	10.1814																
+Wraps = 	1	 Interleafs = 	1	 SSIM: 	0.125432																
+										Interleafs											
+Num of Samples = 	2									512	8.28493	8.21528	8.2197	8.26825	8.27407	8.28493	8.21528	8.2197	8.26825	8.27407	
+Wraps = 	2	 Interleafs = 	1	 finished in 	38477	 ms				256	8.10924	7.98806	8.06604	7.94144	7.9894	8.37618	8.10924	7.98806	8.06604	7.94144	
+Wraps = 	2	 Interleafs = 	1	 PSNR: 	10.9202					128	8.109	8.17212	8.03811	8.26263	8.5612	8.37563	8.4911	8.109	8.17212	8.03811	
+Wraps = 	2	 Interleafs = 	1	 SSIM: 	0.0723121					64	14.6328	15.2544	13.9419	13.02	13.3321	12.3883	14.0577	14.8505	14.6328	15.2544	
+										32	14.8481	15.8617	16.3206	14.8231	11.8643	11.6983	11.5263	12.0578	12.5058	14.8481	
+Num of Samples = 	4									16	11.3052	12.4535	13.6827	16.1352	15.0469	11.9866	10.0147	10.6583	10.1046	9.89648	
+Wraps = 	4	 Interleafs = 	1	 finished in 	37533	 ms				8	9.59894	10.1863	10.8739	12.3477	15.3599	15.1001	12.0174	10.0387	9.17518	9.23856	
+Wraps = 	4	 Interleafs = 	1	 PSNR: 	10.5668					4	9.06737	9.57211	9.8786	9.91139	11.7473	14.054	15.1217	12.031	10.0417	9.17975	
+Wraps = 	4	 Interleafs = 	1	 SSIM: 	0.112021					2	8.48354	9.00443	8.74744	9.38754	9.85085	11.2323	13.9975	14.8847	12.0193	10.0128	
+										1	10.1814	10.9202	10.5668	10.967	12.0716	13.3918	15.4192	15.6926	14.8825	12.0186	
+Num of Samples = 	8										1	2	4	8	16	32	64	128	256	512	Wraps
+Wraps = 	8	 Interleafs = 	1	 finished in 	37263	 ms															
+Wraps = 	8	 Interleafs = 	1	 PSNR: 	10.967																
+Wraps = 	8	 Interleafs = 	1	 SSIM: 	0.151314																
+																					
+Num of Samples = 	16																				
+Wraps = 	16	 Interleafs = 	1	 finished in 	36872	 ms															
+Wraps = 	16	 Interleafs = 	1	 PSNR: 	12.0716																
+Wraps = 	16	 Interleafs = 	1	 SSIM: 	0.219137																
+																					
+Num of Samples = 	32																				
+Wraps = 	32	 Interleafs = 	1	 finished in 	37397	 ms															
+Wraps = 	32	 Interleafs = 	1	 PSNR: 	13.3918																
+Wraps = 	32	 Interleafs = 	1	 SSIM: 	0.457155																
+																					
+Num of Samples = 	64																				
+Wraps = 	64	 Interleafs = 	1	 finished in 	37781	 ms															
+Wraps = 	64	 Interleafs = 	1	 PSNR: 	15.4192																
+Wraps = 	64	 Interleafs = 	1	 SSIM: 	0.570438																
+																					
+Num of Samples = 	128																				
+Wraps = 	128	 Interleafs = 	1	 finished in 	37916	 ms															
+Wraps = 	128	 Interleafs = 	1	 PSNR: 	15.6926																
+Wraps = 	128	 Interleafs = 	1	 SSIM: 	0.767062																
+																					
+Num of Samples = 	256																				
+Wraps = 	256	 Interleafs = 	1	 finished in 	37215	 ms															
+Wraps = 	256	 Interleafs = 	1	 PSNR: 	14.8825																
+Wraps = 	256	 Interleafs = 	1	 SSIM: 	0.730514																
+																					
+Num of Samples = 	512																				
+Wraps = 	512	 Interleafs = 	1	 finished in 	37497	 ms															
+Wraps = 	512	 Interleafs = 	1	 PSNR: 	12.0186																
+Wraps = 	512	 Interleafs = 	1	 SSIM: 	0.519905																
+																					
+Num of Samples = 	2																				
+Wraps = 	1	 Interleafs = 	2	 finished in 	37436	 ms															
+Wraps = 	1	 Interleafs = 	2	 PSNR: 	8.48354																
+Wraps = 	1	 Interleafs = 	2	 SSIM: 	0.0833441																
+																					
+Num of Samples = 	4																				
+Wraps = 	2	 Interleafs = 	2	 finished in 	37245	 ms															
+Wraps = 	2	 Interleafs = 	2	 PSNR: 	9.00443																
+Wraps = 	2	 Interleafs = 	2	 SSIM: 	0.0852084																
+																					
+Num of Samples = 	8																				
+Wraps = 	4	 Interleafs = 	2	 finished in 	37096	 ms															
+Wraps = 	4	 Interleafs = 	2	 PSNR: 	8.74744																
+Wraps = 	4	 Interleafs = 	2	 SSIM: 	0.100547																
+																					
+Num of Samples = 	16																				
+Wraps = 	8	 Interleafs = 	2	 finished in 	37256	 ms															
+Wraps = 	8	 Interleafs = 	2	 PSNR: 	9.38754																
+Wraps = 	8	 Interleafs = 	2	 SSIM: 	0.182334																
+																					
+Num of Samples = 	32																				
+Wraps = 	16	 Interleafs = 	2	 finished in 	37393	 ms															
+Wraps = 	16	 Interleafs = 	2	 PSNR: 	9.85085																
+Wraps = 	16	 Interleafs = 	2	 SSIM: 	0.204136																
+																					
+Num of Samples = 	64																				
+Wraps = 	32	 Interleafs = 	2	 finished in 	36952	 ms															
+Wraps = 	32	 Interleafs = 	2	 PSNR: 	11.2323																
+Wraps = 	32	 Interleafs = 	2	 SSIM: 	0.397012																
+																					
+Num of Samples = 	128																				
+Wraps = 	64	 Interleafs = 	2	 finished in 	37213	 ms															
+Wraps = 	64	 Interleafs = 	2	 PSNR: 	13.9975																
+Wraps = 	64	 Interleafs = 	2	 SSIM: 	0.686482																
+																					
+Num of Samples = 	256																				
+Wraps = 	128	 Interleafs = 	2	 finished in 	36922	 ms															
+Wraps = 	128	 Interleafs = 	2	 PSNR: 	14.8847																
+Wraps = 	128	 Interleafs = 	2	 SSIM: 	0.731719																
+																					
+Num of Samples = 	512																				
+Wraps = 	256	 Interleafs = 	2	 finished in 	36893	 ms															
+Wraps = 	256	 Interleafs = 	2	 PSNR: 	12.0193																
+Wraps = 	256	 Interleafs = 	2	 SSIM: 	0.519835																
+																					
+Num of Samples = 	1024																				
+Wraps = 	512	 Interleafs = 	2	 finished in 	36899	 ms															
+Wraps = 	512	 Interleafs = 	2	 PSNR: 	10.0128																
+Wraps = 	512	 Interleafs = 	2	 SSIM: 	0.312587																
+																					
+Num of Samples = 	4																				
+Wraps = 	1	 Interleafs = 	4	 finished in 	36870	 ms															
+Wraps = 	1	 Interleafs = 	4	 PSNR: 	9.06737																
+Wraps = 	1	 Interleafs = 	4	 SSIM: 	0.143659																
+																					
+Num of Samples = 	8																				
+Wraps = 	2	 Interleafs = 	4	 finished in 	37076	 ms															
+Wraps = 	2	 Interleafs = 	4	 PSNR: 	9.57211																
+Wraps = 	2	 Interleafs = 	4	 SSIM: 	0.190647																
+																					
+Num of Samples = 	16																				
+Wraps = 	4	 Interleafs = 	4	 finished in 	36869	 ms															
+Wraps = 	4	 Interleafs = 	4	 PSNR: 	9.8786																
+Wraps = 	4	 Interleafs = 	4	 SSIM: 	0.241819																
+																					
+Num of Samples = 	32																				
+Wraps = 	8	 Interleafs = 	4	 finished in 	36739	 ms															
+Wraps = 	8	 Interleafs = 	4	 PSNR: 	9.91139																
+Wraps = 	8	 Interleafs = 	4	 SSIM: 	0.34282																
+																					
+Num of Samples = 	64																				
+Wraps = 	16	 Interleafs = 	4	 finished in 	36888	 ms															
+Wraps = 	16	 Interleafs = 	4	 PSNR: 	11.7473																
+Wraps = 	16	 Interleafs = 	4	 SSIM: 	0.526986																
+																					
+Num of Samples = 	128																				
+Wraps = 	32	 Interleafs = 	4	 finished in 	37181	 ms															
+Wraps = 	32	 Interleafs = 	4	 PSNR: 	14.054																
+Wraps = 	32	 Interleafs = 	4	 SSIM: 	0.739047																
+																					
+Num of Samples = 	256																				
+Wraps = 	64	 Interleafs = 	4	 finished in 	36830	 ms															
+Wraps = 	64	 Interleafs = 	4	 PSNR: 	15.1217																
+Wraps = 	64	 Interleafs = 	4	 SSIM: 	0.737608																
+																					
+Num of Samples = 	512																				
+Wraps = 	128	 Interleafs = 	4	 finished in 	37354	 ms															
+Wraps = 	128	 Interleafs = 	4	 PSNR: 	12.031																
+Wraps = 	128	 Interleafs = 	4	 SSIM: 	0.521015																
+																					
+Num of Samples = 	1024																				
+Wraps = 	256	 Interleafs = 	4	 finished in 	37183	 ms															
+Wraps = 	256	 Interleafs = 	4	 PSNR: 	10.0417																
+Wraps = 	256	 Interleafs = 	4	 SSIM: 	0.314568																
+																					
+Num of Samples = 	2048																				
+Wraps = 	512	 Interleafs = 	4	 finished in 	145716	 ms															
+Wraps = 	512	 Interleafs = 	4	 PSNR: 	9.17975																
+Wraps = 	512	 Interleafs = 	4	 SSIM: 	0.173601																
+																					
+Num of Samples = 	8																				
+Wraps = 	1	 Interleafs = 	8	 finished in 	37712	 ms															
+Wraps = 	1	 Interleafs = 	8	 PSNR: 	9.59894																
+Wraps = 	1	 Interleafs = 	8	 SSIM: 	0.25021																
+																					
+Num of Samples = 	16																				
+Wraps = 	2	 Interleafs = 	8	 finished in 	137144	 ms															
+Wraps = 	2	 Interleafs = 	8	 PSNR: 	10.1863																
+Wraps = 	2	 Interleafs = 	8	 SSIM: 	0.317547																
+																					
+Num of Samples = 	32																				
+Wraps = 	4	 Interleafs = 	8	 finished in 	37624	 ms															
+Wraps = 	4	 Interleafs = 	8	 PSNR: 	10.8739																
+Wraps = 	4	 Interleafs = 	8	 SSIM: 	0.423361																
+																					
+Num of Samples = 	64																				
+Wraps = 	8	 Interleafs = 	8	 finished in 	160151	 ms															
+Wraps = 	8	 Interleafs = 	8	 PSNR: 	12.3477																
+Wraps = 	8	 Interleafs = 	8	 SSIM: 	0.615449																
+																					
+Num of Samples = 	128																				
+Wraps = 	16	 Interleafs = 	8	 finished in 	162617	 ms															
+Wraps = 	16	 Interleafs = 	8	 PSNR: 	15.3599																
+Wraps = 	16	 Interleafs = 	8	 SSIM: 	0.794681																
+																					
+Num of Samples = 	256																				
+Wraps = 	32	 Interleafs = 	8	 finished in 	37320	 ms															
+Wraps = 	32	 Interleafs = 	8	 PSNR: 	15.1001																
+Wraps = 	32	 Interleafs = 	8	 SSIM: 	0.737234																
+																					
+Num of Samples = 	512																				
+Wraps = 	64	 Interleafs = 	8	 finished in 	38041	 ms															
+Wraps = 	64	 Interleafs = 	8	 PSNR: 	12.0174																
+Wraps = 	64	 Interleafs = 	8	 SSIM: 	0.520486																
+																					
+Num of Samples = 	1024																				
+Wraps = 	128	 Interleafs = 	8	 finished in 	37923	 ms															
+Wraps = 	128	 Interleafs = 	8	 PSNR: 	10.0387																
+Wraps = 	128	 Interleafs = 	8	 SSIM: 	0.314295																
+																					
+Num of Samples = 	2048																				
+Wraps = 	256	 Interleafs = 	8	 finished in 	37176	 ms															
+Wraps = 	256	 Interleafs = 	8	 PSNR: 	9.17518																
+Wraps = 	256	 Interleafs = 	8	 SSIM: 	0.173313																
+																					
+Num of Samples = 	4096																				
+Wraps = 	512	 Interleafs = 	8	 finished in 	37778	 ms															
+Wraps = 	512	 Interleafs = 	8	 PSNR: 	9.23856																
+Wraps = 	512	 Interleafs = 	8	 SSIM: 	0.182932																
+																					
+Num of Samples = 	16																				
+Wraps = 	1	 Interleafs = 	16	 finished in 	36727	 ms															
+Wraps = 	1	 Interleafs = 	16	 PSNR: 	11.3052																
+Wraps = 	1	 Interleafs = 	16	 SSIM: 	0.451136																
+																					
+Num of Samples = 	32																				
+Wraps = 	2	 Interleafs = 	16	 finished in 	37074	 ms															
+Wraps = 	2	 Interleafs = 	16	 PSNR: 	12.4535																
+Wraps = 	2	 Interleafs = 	16	 SSIM: 	0.569217																
+																					
+Num of Samples = 	64																				
+Wraps = 	4	 Interleafs = 	16	 finished in 	37617	 ms															
+Wraps = 	4	 Interleafs = 	16	 PSNR: 	13.6827																
+Wraps = 	4	 Interleafs = 	16	 SSIM: 	0.679549																
+																					
+Num of Samples = 	128																				
+Wraps = 	8	 Interleafs = 	16	 finished in 	36952	 ms															
+Wraps = 	8	 Interleafs = 	16	 PSNR: 	16.1352																
+Wraps = 	8	 Interleafs = 	16	 SSIM: 	0.827133																
+																					
+Num of Samples = 	256																				
+Wraps = 	16	 Interleafs = 	16	 finished in 	137371	 ms															
+Wraps = 	16	 Interleafs = 	16	 PSNR: 	15.0469																
+Wraps = 	16	 Interleafs = 	16	 SSIM: 	0.736315																
+																					
+Num of Samples = 	512																				
+Wraps = 	32	 Interleafs = 	16	 finished in 	37587	 ms															
+Wraps = 	32	 Interleafs = 	16	 PSNR: 	11.9866																
+Wraps = 	32	 Interleafs = 	16	 SSIM: 	0.519048																
+																					
+Num of Samples = 	1024																				
+Wraps = 	64	 Interleafs = 	16	 finished in 	37285	 ms															
+Wraps = 	64	 Interleafs = 	16	 PSNR: 	10.0147																
+Wraps = 	64	 Interleafs = 	16	 SSIM: 	0.312728																
+																					
+Num of Samples = 	2048																				
+Wraps = 	128	 Interleafs = 	16	 finished in 	134219	 ms															
+Wraps = 	128	 Interleafs = 	16	 PSNR: 	10.6583																
+Wraps = 	128	 Interleafs = 	16	 SSIM: 	0.341366																
+																					
+Num of Samples = 	4096																				
+Wraps = 	256	 Interleafs = 	16	 finished in 	37465	 ms															
+Wraps = 	256	 Interleafs = 	16	 PSNR: 	10.1046																
+Wraps = 	256	 Interleafs = 	16	 SSIM: 	0.323139																
+																					
+Num of Samples = 	8192																				
+Wraps = 	512	 Interleafs = 	16	 finished in 	114103	 ms															
+Wraps = 	512	 Interleafs = 	16	 PSNR: 	9.89648																
+Wraps = 	512	 Interleafs = 	16	 SSIM: 	0.315456																
+																					
+Num of Samples = 	32																				
+Wraps = 	1	 Interleafs = 	32	 finished in 	37428	 ms															
+Wraps = 	1	 Interleafs = 	32	 PSNR: 	14.8481																
+Wraps = 	1	 Interleafs = 	32	 SSIM: 	0.719062																
+																					
+Num of Samples = 	64																				
+Wraps = 	2	 Interleafs = 	32	 finished in 	106576	 ms															
+Wraps = 	2	 Interleafs = 	32	 PSNR: 	15.8617																
+Wraps = 	2	 Interleafs = 	32	 SSIM: 	0.785602																
+																					
+Num of Samples = 	128																				
+Wraps = 	4	 Interleafs = 	32	 finished in 	37360	 ms															
+Wraps = 	4	 Interleafs = 	32	 PSNR: 	16.3206																
+Wraps = 	4	 Interleafs = 	32	 SSIM: 	0.839143																
+																					
+Num of Samples = 	256																				
+Wraps = 	8	 Interleafs = 	32	 finished in 	37037	 ms															
+Wraps = 	8	 Interleafs = 	32	 PSNR: 	14.8231																
+Wraps = 	8	 Interleafs = 	32	 SSIM: 	0.732357																
+																					
+Num of Samples = 	512																				
+Wraps = 	16	 Interleafs = 	32	 finished in 	37053	 ms															
+Wraps = 	16	 Interleafs = 	32	 PSNR: 	11.8643																
+Wraps = 	16	 Interleafs = 	32	 SSIM: 	0.513429																
+																					
+Num of Samples = 	1024																				
+Wraps = 	32	 Interleafs = 	32	 finished in 	37052	 ms															
+Wraps = 	32	 Interleafs = 	32	 PSNR: 	11.6983																
+Wraps = 	32	 Interleafs = 	32	 SSIM: 	0.505388																
+																					
+Num of Samples = 	2048																				
+Wraps = 	64	 Interleafs = 	32	 finished in 	113129	 ms															
+Wraps = 	64	 Interleafs = 	32	 PSNR: 	11.5263																
+Wraps = 	64	 Interleafs = 	32	 SSIM: 	0.497771																
+																					
+Num of Samples = 	4096																				
+Wraps = 	128	 Interleafs = 	32	 finished in 	37385	 ms															
+Wraps = 	128	 Interleafs = 	32	 PSNR: 	12.0578																
+Wraps = 	128	 Interleafs = 	32	 SSIM: 	0.541395																
+																					
+Num of Samples = 	8192																				
+Wraps = 	256	 Interleafs = 	32	 finished in 	136722	 ms															
+Wraps = 	256	 Interleafs = 	32	 PSNR: 	12.5058																
+Wraps = 	256	 Interleafs = 	32	 SSIM: 	0.591754																
+																					
+Num of Samples = 	16384																				
+Wraps = 	512	 Interleafs = 	32	 finished in 	37277	 ms															
+Wraps = 	512	 Interleafs = 	32	 PSNR: 	14.8481																
+Wraps = 	512	 Interleafs = 	32	 SSIM: 	0.719062																
+																					
+Num of Samples = 	64																				
+Wraps = 	1	 Interleafs = 	64	 finished in 	37338	 ms															
+Wraps = 	1	 Interleafs = 	64	 PSNR: 	14.6328																
+Wraps = 	1	 Interleafs = 	64	 SSIM: 	0.797644																
+																					
+Num of Samples = 	128																				
+Wraps = 	2	 Interleafs = 	64	 finished in 	37142	 ms															
+Wraps = 	2	 Interleafs = 	64	 PSNR: 	15.2544																
+Wraps = 	2	 Interleafs = 	64	 SSIM: 	0.826182																
+																					
+Num of Samples = 	256																				
+Wraps = 	4	 Interleafs = 	64	 finished in 	37278	 ms															
+Wraps = 	4	 Interleafs = 	64	 PSNR: 	13.9419																
+Wraps = 	4	 Interleafs = 	64	 SSIM: 	0.712389																
+																					
+Num of Samples = 	512																				
+Wraps = 	8	 Interleafs = 	64	 finished in 	37521	 ms															
+Wraps = 	8	 Interleafs = 	64	 PSNR: 	13.02																
+Wraps = 	8	 Interleafs = 	64	 SSIM: 	0.673664																
+																					
+Num of Samples = 	1024																				
+Wraps = 	16	 Interleafs = 	64	 finished in 	37587	 ms															
+Wraps = 	16	 Interleafs = 	64	 PSNR: 	13.3321																
+Wraps = 	16	 Interleafs = 	64	 SSIM: 	0.687706																
+																					
+Num of Samples = 	2048																				
+Wraps = 	32	 Interleafs = 	64	 finished in 	136998	 ms															
+Wraps = 	32	 Interleafs = 	64	 PSNR: 	12.3883																
+Wraps = 	32	 Interleafs = 	64	 SSIM: 	0.651921																
+																					
+Num of Samples = 	4096																				
+Wraps = 	64	 Interleafs = 	64	 finished in 	37058	 ms															
+Wraps = 	64	 Interleafs = 	64	 PSNR: 	14.0577																
+Wraps = 	64	 Interleafs = 	64	 SSIM: 	0.737943																
+																					
+Num of Samples = 	8192																				
+Wraps = 	128	 Interleafs = 	64	 finished in 	37371	 ms															
+Wraps = 	128	 Interleafs = 	64	 PSNR: 	14.8505																
+Wraps = 	128	 Interleafs = 	64	 SSIM: 	0.782801																
+																					
+Num of Samples = 	16384																				
+Wraps = 	256	 Interleafs = 	64	 finished in 	37523	 ms															
+Wraps = 	256	 Interleafs = 	64	 PSNR: 	14.6328																
+Wraps = 	256	 Interleafs = 	64	 SSIM: 	0.797644																
+																					
+Num of Samples = 	32768																				
+Wraps = 	512	 Interleafs = 	64	 finished in 	37801	 ms															
+Wraps = 	512	 Interleafs = 	64	 PSNR: 	15.2544																
+Wraps = 	512	 Interleafs = 	64	 SSIM: 	0.826182																
+																					
+Num of Samples = 	128																				
+Wraps = 	1	 Interleafs = 	128	 finished in 	38026	 ms															
+Wraps = 	1	 Interleafs = 	128	 PSNR: 	8.109																
+Wraps = 	1	 Interleafs = 	128	 SSIM: 	0.0672928																
+																					
+Num of Samples = 	256																				
+Wraps = 	2	 Interleafs = 	128	 finished in 	133952	 ms															
+Wraps = 	2	 Interleafs = 	128	 PSNR: 	8.17212																
+Wraps = 	2	 Interleafs = 	128	 SSIM: 	0.0690061																
+																					
+Num of Samples = 	512																				
+Wraps = 	4	 Interleafs = 	128	 finished in 	37261	 ms															
+Wraps = 	4	 Interleafs = 	128	 PSNR: 	8.03811																
+Wraps = 	4	 Interleafs = 	128	 SSIM: 	0.0631185																
+																					
+Num of Samples = 	1024																				
+Wraps = 	8	 Interleafs = 	128	 finished in 	37491	 ms															
+Wraps = 	8	 Interleafs = 	128	 PSNR: 	8.26263																
+Wraps = 	8	 Interleafs = 	128	 SSIM: 	0.0731877																
+																					
+Num of Samples = 	2048																				
+Wraps = 	16	 Interleafs = 	128	 finished in 	37420	 ms															
+Wraps = 	16	 Interleafs = 	128	 PSNR: 	8.5612																
+Wraps = 	16	 Interleafs = 	128	 SSIM: 	0.0799954																
+																					
+Num of Samples = 	4096																				
+Wraps = 	32	 Interleafs = 	128	 finished in 	37445	 ms															
+Wraps = 	32	 Interleafs = 	128	 PSNR: 	8.37563																
+Wraps = 	32	 Interleafs = 	128	 SSIM: 	0.0739364																
+																					
+Num of Samples = 	8192																				
+Wraps = 	64	 Interleafs = 	128	 finished in 	37635	 ms															
+Wraps = 	64	 Interleafs = 	128	 PSNR: 	8.4911																
+Wraps = 	64	 Interleafs = 	128	 SSIM: 	0.0816567																
+																					
+Num of Samples = 	16384																				
+Wraps = 	128	 Interleafs = 	128	 finished in 	98743	 ms															
+Wraps = 	128	 Interleafs = 	128	 PSNR: 	8.109																
+Wraps = 	128	 Interleafs = 	128	 SSIM: 	0.0672928																
+																					
+Num of Samples = 	32768																				
+Wraps = 	256	 Interleafs = 	128	 finished in 	37506	 ms															
+Wraps = 	256	 Interleafs = 	128	 PSNR: 	8.17212																
+Wraps = 	256	 Interleafs = 	128	 SSIM: 	0.0690061																
+																					
+Num of Samples = 	65536																				
+Wraps = 	512	 Interleafs = 	128	 finished in 	37095	 ms															
+Wraps = 	512	 Interleafs = 	128	 PSNR: 	8.03811																
+Wraps = 	512	 Interleafs = 	128	 SSIM: 	0.0631185																
+																					
+Num of Samples = 	256																				
+Wraps = 	1	 Interleafs = 	256	 finished in 	37496	 ms															
+Wraps = 	1	 Interleafs = 	256	 PSNR: 	8.10924																
+Wraps = 	1	 Interleafs = 	256	 SSIM: 	0.0243654																
+																					
+Num of Samples = 	512																				
+Wraps = 	2	 Interleafs = 	256	 finished in 	37890	 ms															
+Wraps = 	2	 Interleafs = 	256	 PSNR: 	7.98806																
+Wraps = 	2	 Interleafs = 	256	 SSIM: 	0.0232194																
+																					
+Num of Samples = 	1024																				
+Wraps = 	4	 Interleafs = 	256	 finished in 	37775	 ms															
+Wraps = 	4	 Interleafs = 	256	 PSNR: 	8.06604																
+Wraps = 	4	 Interleafs = 	256	 SSIM: 	0.0232722																
+																					
+Num of Samples = 	2048																				
+Wraps = 	8	 Interleafs = 	256	 finished in 	37839	 ms															
+Wraps = 	8	 Interleafs = 	256	 PSNR: 	7.94144																
+Wraps = 	8	 Interleafs = 	256	 SSIM: 	0.0224049																
+																					
+Num of Samples = 	4096																				
+Wraps = 	16	 Interleafs = 	256	 finished in 	37373	 ms															
+Wraps = 	16	 Interleafs = 	256	 PSNR: 	7.9894																
+Wraps = 	16	 Interleafs = 	256	 SSIM: 	0.0220818																
+																					
+Num of Samples = 	8192																				
+Wraps = 	32	 Interleafs = 	256	 finished in 	37501	 ms															
+Wraps = 	32	 Interleafs = 	256	 PSNR: 	8.37618																
+Wraps = 	32	 Interleafs = 	256	 SSIM: 	0.0271491																
+																					
+Num of Samples = 	16384																				
+Wraps = 	64	 Interleafs = 	256	 finished in 	37271	 ms															
+Wraps = 	64	 Interleafs = 	256	 PSNR: 	8.10924																
+Wraps = 	64	 Interleafs = 	256	 SSIM: 	0.0243654																
+																					
+Num of Samples = 	32768																				
+Wraps = 	128	 Interleafs = 	256	 finished in 	37397	 ms															
+Wraps = 	128	 Interleafs = 	256	 PSNR: 	7.98806																
+Wraps = 	128	 Interleafs = 	256	 SSIM: 	0.0232194																
+																					
+Num of Samples = 	65536																				
+Wraps = 	256	 Interleafs = 	256	 finished in 	37488	 ms															
+Wraps = 	256	 Interleafs = 	256	 PSNR: 	8.06604																
+Wraps = 	256	 Interleafs = 	256	 SSIM: 	0.0232722																
+																					
+Num of Samples = 	131072																				
+Wraps = 	512	 Interleafs = 	256	 finished in 	37356	 ms															
+Wraps = 	512	 Interleafs = 	256	 PSNR: 	7.94144																
+Wraps = 	512	 Interleafs = 	256	 SSIM: 	0.0224049																
+																					
+Num of Samples = 	512																				
+Wraps = 	1	 Interleafs = 	512	 finished in 	37539	 ms															
+Wraps = 	1	 Interleafs = 	512	 PSNR: 	8.28493																
+Wraps = 	1	 Interleafs = 	512	 SSIM: 	0.0156658																
+																					
+Num of Samples = 	1024																				
+Wraps = 	2	 Interleafs = 	512	 finished in 	37774	 ms															
+Wraps = 	2	 Interleafs = 	512	 PSNR: 	8.21528																
+Wraps = 	2	 Interleafs = 	512	 SSIM: 	0.0151807																
+																					
+Num of Samples = 	2048																				
+Wraps = 	4	 Interleafs = 	512	 finished in 	37511	 ms															
+Wraps = 	4	 Interleafs = 	512	 PSNR: 	8.2197																
+Wraps = 	4	 Interleafs = 	512	 SSIM: 	0.0154661																
+																					
+Num of Samples = 	4096																				
+Wraps = 	8	 Interleafs = 	512	 finished in 	38358	 ms															
+Wraps = 	8	 Interleafs = 	512	 PSNR: 	8.26825																
+Wraps = 	8	 Interleafs = 	512	 SSIM: 	0.0162125																
+																					
+Num of Samples = 	8192																				
+Wraps = 	16	 Interleafs = 	512	 finished in 	37407	 ms															
+Wraps = 	16	 Interleafs = 	512	 PSNR: 	8.27407																
+Wraps = 	16	 Interleafs = 	512	 SSIM: 	0.0160428																
+																					
+Num of Samples = 	16384																				
+Wraps = 	32	 Interleafs = 	512	 finished in 	37568	 ms															
+Wraps = 	32	 Interleafs = 	512	 PSNR: 	8.28493																
+Wraps = 	32	 Interleafs = 	512	 SSIM: 	0.0156658																
+																					
+Num of Samples = 	32768																				
+Wraps = 	64	 Interleafs = 	512	 finished in 	37583	 ms															
+Wraps = 	64	 Interleafs = 	512	 PSNR: 	8.21528																
+Wraps = 	64	 Interleafs = 	512	 SSIM: 	0.0151807																
+																					
+Num of Samples = 	65536																				
+Wraps = 	128	 Interleafs = 	512	 finished in 	37486	 ms															
+Wraps = 	128	 Interleafs = 	512	 PSNR: 	8.2197																
+Wraps = 	128	 Interleafs = 	512	 SSIM: 	0.0154661																
+																					
+Num of Samples = 	131072																				
+Wraps = 	256	 Interleafs = 	512	 finished in 	37219	 ms															
+Wraps = 	256	 Interleafs = 	512	 PSNR: 	8.26825																
+Wraps = 	256	 Interleafs = 	512	 SSIM: 	0.0162125																
+																					
+Num of Samples = 	262144																				
+Wraps = 	512	 Interleafs = 	512	 finished in 	37454	 ms															
+Wraps = 	512	 Interleafs = 	512	 PSNR: 	8.27407																
+Wraps = 	512	 Interleafs = 	512	 SSIM: 	0.0160428																

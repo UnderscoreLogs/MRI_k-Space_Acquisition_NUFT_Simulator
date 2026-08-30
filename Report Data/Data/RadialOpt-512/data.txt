@@ -1,0 +1,180 @@
+Num of Samples = 	512
+Spokes = 	16 Samles Per Spoke = 	32 finished in 	53576 ms
+Spokes = 	16 Samles Per Spoke = 	32 PSNR: 	13.3313
+Spokes = 	16 Samles Per Spoke = 	32 SSIM: 	0.0624065
+
+Num of Samples = 	1024
+Spokes = 	32 Samles Per Spoke = 	32 finished in 	61314 ms
+Spokes = 	32 Samles Per Spoke = 	32 PSNR: 	13.5333
+Spokes = 	32 Samles Per Spoke = 	32 SSIM: 	0.108056
+
+Num of Samples = 	2048
+Spokes = 	64 Samles Per Spoke = 	32 finished in 	63128 ms
+Spokes = 	64 Samles Per Spoke = 	32 PSNR: 	13.7081
+Spokes = 	64 Samles Per Spoke = 	32 SSIM: 	0.129558
+
+Num of Samples = 	4096
+Spokes = 	128 Samles Per Spoke = 	32 finished in 	72229 ms
+Spokes = 	128 Samles Per Spoke = 	32 PSNR: 	13.7854
+Spokes = 	128 Samles Per Spoke = 	32 SSIM: 	0.149037
+
+Num of Samples = 	8192
+Spokes = 	256 Samles Per Spoke = 	32 finished in 	97485 ms
+Spokes = 	256 Samles Per Spoke = 	32 PSNR: 	13.9151
+Spokes = 	256 Samles Per Spoke = 	32 SSIM: 	0.161575
+
+Num of Samples = 	16384
+Spokes = 	512 Samles Per Spoke = 	32 finished in 	146156 ms
+Spokes = 	512 Samles Per Spoke = 	32 PSNR: 	13.9077
+Spokes = 	512 Samles Per Spoke = 	32 SSIM: 	0.167665
+
+Num of Samples = 	1024
+Spokes = 	16 Samles Per Spoke = 	64 finished in 	56017 ms
+Spokes = 	16 Samles Per Spoke = 	64 PSNR: 	13.5732
+Spokes = 	16 Samles Per Spoke = 	64 SSIM: 	0.122947
+
+Num of Samples = 	2048
+Spokes = 	32 Samles Per Spoke = 	64 finished in 	61403 ms
+Spokes = 	32 Samles Per Spoke = 	64 PSNR: 	14.209
+Spokes = 	32 Samles Per Spoke = 	64 SSIM: 	0.195653
+
+Num of Samples = 	4096
+Spokes = 	64 Samles Per Spoke = 	64 finished in 	73198 ms
+Spokes = 	64 Samles Per Spoke = 	64 PSNR: 	14.3967
+Spokes = 	64 Samles Per Spoke = 	64 SSIM: 	0.258921
+
+Num of Samples = 	8192
+Spokes = 	128 Samles Per Spoke = 	64 finished in 	98254 ms
+Spokes = 	128 Samles Per Spoke = 	64 PSNR: 	14.6255
+Spokes = 	128 Samles Per Spoke = 	64 SSIM: 	0.297707
+
+Num of Samples = 	16384
+Spokes = 	256 Samles Per Spoke = 	64 finished in 	147143 ms
+Spokes = 	256 Samles Per Spoke = 	64 PSNR: 	14.5946
+Spokes = 	256 Samles Per Spoke = 	64 SSIM: 	0.322022
+
+Num of Samples = 	32768
+Spokes = 	512 Samles Per Spoke = 	64 finished in 	243773 ms
+Spokes = 	512 Samles Per Spoke = 	64 PSNR: 	14.6007
+Spokes = 	512 Samles Per Spoke = 	64 SSIM: 	0.340638
+
+Num of Samples = 	2048
+Spokes = 	16 Samles Per Spoke = 	128 finished in 	62917 ms
+Spokes = 	16 Samles Per Spoke = 	128 PSNR: 	12.4023
+Spokes = 	16 Samles Per Spoke = 	128 SSIM: 	0.212569
+
+Num of Samples = 	4096
+Spokes = 	32 Samles Per Spoke = 	128 finished in 	74573 ms
+Spokes = 	32 Samles Per Spoke = 	128 PSNR: 	14.3643
+Spokes = 	32 Samles Per Spoke = 	128 SSIM: 	0.332277
+
+Num of Samples = 	8192
+Spokes = 	64 Samles Per Spoke = 	128 finished in 	98994 ms
+Spokes = 	64 Samles Per Spoke = 	128 PSNR: 	15.5375
+Spokes = 	64 Samles Per Spoke = 	128 SSIM: 	0.42757
+
+Num of Samples = 	16384
+Spokes = 	128 Samles Per Spoke = 	128 finished in 	147702 ms
+Spokes = 	128 Samles Per Spoke = 	128 PSNR: 	16.0531
+Spokes = 	128 Samles Per Spoke = 	128 SSIM: 	0.498082
+
+Num of Samples = 	32768
+Spokes = 	256 Samles Per Spoke = 	128 finished in 	244744 ms
+Spokes = 	256 Samles Per Spoke = 	128 PSNR: 	16.1174
+Spokes = 	256 Samles Per Spoke = 	128 SSIM: 	0.527776
+
+Num of Samples = 	65536
+Spokes = 	512 Samles Per Spoke = 	128 finished in 	444920 ms
+Spokes = 	512 Samles Per Spoke = 	128 PSNR: 	16.442
+Spokes = 	512 Samles Per Spoke = 	128 SSIM: 	0.520989
+
+Num of Samples = 	4096
+Spokes = 	16 Samles Per Spoke = 	256 finished in 	83591 ms
+Spokes = 	16 Samles Per Spoke = 	256 PSNR: 	10.37
+Spokes = 	16 Samles Per Spoke = 	256 SSIM: 	0.265177
+
+Num of Samples = 	8192
+Spokes = 	32 Samles Per Spoke = 	256 finished in 	102049 ms
+Spokes = 	32 Samles Per Spoke = 	256 PSNR: 	13.5553
+Spokes = 	32 Samles Per Spoke = 	256 SSIM: 	0.510058
+
+Num of Samples = 	16384
+Spokes = 	64 Samles Per Spoke = 	256 finished in 	148924 ms
+Spokes = 	64 Samles Per Spoke = 	256 PSNR: 	16.5454
+Spokes = 	64 Samles Per Spoke = 	256 SSIM: 	0.665676
+
+Num of Samples = 	32768
+Spokes = 	128 Samles Per Spoke = 	256 finished in 	247088 ms
+Spokes = 	128 Samles Per Spoke = 	256 PSNR: 	18.4407
+Spokes = 	128 Samles Per Spoke = 	256 SSIM: 	0.749365
+
+Num of Samples = 	65536
+Spokes = 	256 Samles Per Spoke = 	256 finished in 	445648 ms
+Spokes = 	256 Samles Per Spoke = 	256 PSNR: 	19.5076
+Spokes = 	256 Samles Per Spoke = 	256 SSIM: 	0.801211
+
+Num of Samples = 	131072
+Spokes = 	512 Samles Per Spoke = 	256 finished in 	827206 ms
+Spokes = 	512 Samles Per Spoke = 	256 PSNR: 	19.7503
+Spokes = 	512 Samles Per Spoke = 	256 SSIM: 	0.802898
+
+Num of Samples = 	8192
+Spokes = 	16 Samles Per Spoke = 	512 finished in 	99804 ms
+Spokes = 	16 Samles Per Spoke = 	512 PSNR: 	10.3912
+Spokes = 	16 Samles Per Spoke = 	512 SSIM: 	0.273499
+
+Num of Samples = 	16384
+Spokes = 	32 Samles Per Spoke = 	512 finished in 	147571 ms
+Spokes = 	32 Samles Per Spoke = 	512 PSNR: 	13.3684
+Spokes = 	32 Samles Per Spoke = 	512 SSIM: 	0.526155
+
+Num of Samples = 	32768
+Spokes = 	64 Samles Per Spoke = 	512 finished in 	245644 ms
+Spokes = 	64 Samles Per Spoke = 	512 PSNR: 	18.1889
+Spokes = 	64 Samles Per Spoke = 	512 SSIM: 	0.738075
+
+Num of Samples = 	65536
+Spokes = 	128 Samles Per Spoke = 	512 finished in 	438374 ms
+Spokes = 	128 Samles Per Spoke = 	512 PSNR: 	20.6925
+Spokes = 	128 Samles Per Spoke = 	512 SSIM: 	0.841141
+
+Num of Samples = 	131072
+Spokes = 	256 Samles Per Spoke = 	512 finished in 	823182 ms
+Spokes = 	256 Samles Per Spoke = 	512 PSNR: 	22.4096
+Spokes = 	256 Samles Per Spoke = 	512 SSIM: 	0.933369
+
+Num of Samples = 	262144
+Spokes = 	512 Samles Per Spoke = 	512 finished in 	1594902 ms
+Spokes = 	512 Samles Per Spoke = 	512 PSNR: 	28.9004
+Spokes = 	512 Samles Per Spoke = 	512 SSIM: 	0.985291
+
+Num of Samples = 	16384
+Spokes = 	16 Samles Per Spoke = 	1024 finished in 	148548 ms
+Spokes = 	16 Samles Per Spoke = 	1024 PSNR: 	9.69475
+Spokes = 	16 Samles Per Spoke = 	1024 SSIM: 	0.244142
+
+Num of Samples = 	32768
+Spokes = 	32 Samles Per Spoke = 	1024 finished in 	245836 ms
+Spokes = 	32 Samles Per Spoke = 	1024 PSNR: 	12.2234
+Spokes = 	32 Samles Per Spoke = 	1024 SSIM: 	0.504999
+
+Num of Samples = 	65536
+Spokes = 	64 Samles Per Spoke = 	1024 finished in 	441543 ms
+Spokes = 	64 Samles Per Spoke = 	1024 PSNR: 	17.0514
+Spokes = 	64 Samles Per Spoke = 	1024 SSIM: 	0.743306
+
+Num of Samples = 	131072
+Spokes = 	128 Samles Per Spoke = 	1024 finished in 	823393 ms
+Spokes = 	128 Samles Per Spoke = 	1024 PSNR: 	20.2902
+Spokes = 	128 Samles Per Spoke = 	1024 SSIM: 	0.856267
+
+Num of Samples = 	262144
+Spokes = 	256 Samles Per Spoke = 	1024 finished in 	1605282 ms
+Spokes = 	256 Samles Per Spoke = 	1024 PSNR: 	23.3071
+Spokes = 	256 Samles Per Spoke = 	1024 SSIM: 	0.938607
+
+Num of Samples = 	524288
+Spokes = 	512 Samles Per Spoke = 	1024 finished in 	3144737 ms
+Spokes = 	512 Samles Per Spoke = 	1024 PSNR: 	29.3023
+Spokes = 	512 Samles Per Spoke = 	1024 SSIM: 	0.985559
+
