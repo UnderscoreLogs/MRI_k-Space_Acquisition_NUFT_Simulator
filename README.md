@@ -14,8 +14,8 @@ The program requires external libraries, including OpenCV, to compile and run.
 
 Depending on your system configuration, you may need to modify:
 
-Library and include paths
-File and directory paths
+Library and include paths, 
+File and directory paths, 
 Compiler or build settings
 
 Note: The included paths and configuration settings may need to be adjusted for your specific computer and development environment.
